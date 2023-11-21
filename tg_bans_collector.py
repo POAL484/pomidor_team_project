@@ -18,5 +18,4 @@ def analyze(_, message: Message):
         except Exception as e:
             print(e)
 
-
 app.run()   
