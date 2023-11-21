@@ -6,4 +6,3 @@ pymongo
 tensorflow
 tensorflow_datasets
 matplotlib
-
