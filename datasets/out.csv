@@ -1,27 +1,1951 @@
 ,_id,time,channel,author,test
-0,655bf39755c8178bd0df7c0a,03:02:31,poal48,POAL48,felugozfelugozfelugoz
-1,655bf3a155c8178bd0df7c0b,03:02:41,poal48,POAL48,JABA ping
-2,655bf3aa55c8178bd0df7c0c,03:02:50,pwgood,POAL48,123
-3,655bf3ad55c8178bd0df7c0d,03:02:53,poal48,POAL48,JABA ping
-4,655bf3b655c8178bd0df7c0e,03:03:02,poal48,POAL48,и че ноль сообщений приколист
-5,655bf3dc55c8178bd0df7c0f,03:03:40,poal48,POAL48,ладно
-6,655bf3df55c8178bd0df7c10,03:03:43,poal48,POAL48,сделаем по другому
-7,655bf3fe55c8178bd0df7c11,03:04:14,poal48,POAL48,нахуй я вообще через костыли какие-то делаю
-8,655bf4431f5cf705adb38c1b,03:05:23,poal48,POAL48,TypeError: object of type 'Collection' has no len()
-9,655bf4451f5cf705adb38c1c,03:05:25,poal48,POAL48,wires
-10,655bf50dad10466b4e15727d,03:08:45,poal48,POAL48,TypeError: Collection.count_documents() missing 1 required positional argument: 'filter' pomidor
-11,655bf523ad10466b4e15727e,03:09:07,poal48,POAL48,пустой словарь ему надо бля
-12,655bf52f304e2c53672ad638,03:09:19,poal48,POAL48,че ноль
-13,655bf535304e2c53672ad639,03:09:25,poal48,POAL48,приколист блять
-14,655bf54f304e2c53672ad63a,03:09:51,poal48,POAL48,JABA ping
-15,655bf552304e2c53672ad63b,03:09:54,poal48,POAL48,pomidor
-16,655bf567694d4d8831641d24,03:10:15,poal48,POAL48,во
-17,655bf568694d4d8831641d25,03:10:16,poal48,POAL48,у ра
-18,655bf57b694d4d8831641d26,03:10:35,poal48,POAL48,JABA help
-19,655bf57e694d4d8831641d27,03:10:38,poal48,POAL48,Chillin
-20,655c6380697f1816c3530f8c,11:00:00,poal48,ppSpin,heheChatting
-21,655c6382697f1816c3530f8d,11:00:02,pwgood,PWGud,Klass
-22,655c6385697f1816c3530f8e,11:00:05,pwgood,neizyum,Klass
-23,655c6386697f1816c3530f8f,11:00:06,poal48,POAL48,heheChatting
-24,655c638f697f1816c3530f90,11:00:15,poal48,POAL48,JABA ping
-25,655c6390697f1816c3530f91,11:00:16,poal48,COPIUMnayaJABA,@POAL48 COPIUM JABA is running | pomidor verison | total messages: 1908
+0,655bf8251d25c25d9e96cf97,03:21:57,poal48,POAL48,так так так
+1,655bf8281d25c25d9e96cf98,03:22:00,poal48,POAL48,JABA ping
+2,655bf82a1d25c25d9e96cf99,03:22:02,poal48,POAL48,Alright
+3,655bf9421d25c25d9e96cf9a,03:26:42,pwgood,likozap,$cookie
+4,655bf9421d25c25d9e96cf9b,03:26:42,pwgood,Supibot,"@likozap woke up: GoslingDrive 💤 (9h, 56m ago)"
+5,655bf9431d25c25d9e96cf9c,03:26:43,pwgood,Supibot,"likozap, Your daily cookie: An opportunity to do some extra work might come your way today. Don't turn it down - it might do you a lot of good."
+6,655bfa001d25c25d9e96cf9d,03:29:52,pwgood,alexproduct,Я в расиииии peepoHappier
+7,655bfa091d25c25d9e96cf9e,03:30:01,pwgood,PWGud,peepoHappier
+8,655bfa0d1d25c25d9e96cf9f,03:30:05,pwgood,alexproduct,Втф
+9,655bfa101d25c25d9e96cfa0,03:30:08,pwgood,alexproduct,monka
+10,655bfaf01d25c25d9e96cfa1,03:33:52,pwgood,WIIHXHX19845051CAWTMUSCLE,PWGud
+11,655c01101d25c25d9e96cfa2,04:00:00,poal48,ppSpin,SomethingHappend?
+12,655c01111d25c25d9e96cfa3,04:00:01,pwgood,PWGud,ViolinTime
+13,655c045e1d25c25d9e96cfa4,04:14:06,pwgood,drt_s_s,$$ EtoKomu
+14,655c045f1d25c25d9e96cfa5,04:14:07,pwgood,Supibot,"👥 drt_s_s, Чита, Забайкальский край, Россия (сейчас): 🌤️ -8,18°С, по ощущениям -11,98°С. Облачность: 12%. Скорость юго-западного ветра: 2 м/с. Никаких порывов ветра. Влажность: 52%. Осадков сейчас нет. Давление воздуха: 1017 гПа. Солнце садится через 7 часов 14 минут."
+15,655c066e1d25c25d9e96cfa6,04:22:54,pwgood,kselbot,$weather hour+3
+16,655c066e1d25c25d9e96cfa7,04:22:54,pwgood,Supibot,"@kselbot feels rested: Panic Panic 💤 (6h, 35m ago)"
+17,655c066f1d25c25d9e96cfa8,04:22:55,pwgood,Supibot,"kselbot, Perm, Perm Krai, Russia (09:00 local time): 🌧️ -5.73°C, feels like -11.98°C. Cloud cover: 90%. ESE wind speed: 4.86 m/s. Wind gusts: up to 12.52 m/s. Humidity: 89%. 100% chance of 0.57mm/h snow. Air pressure: 1017 hPa. ⚠️ Weather alerts: Black ice, Extreme temperature value, Rain, Snow/Ice."
+18,655c07611d25c25d9e96cfa9,04:26:57,pwgood,Jehervs,Zevlo
+19,655c07611d25c25d9e96cfaa,04:26:57,pwgood,Supibot,"@jehervs feels rested: catSleep 💤 (7h, 38m ago)"
+20,655c07671d25c25d9e96cfab,04:27:03,pwgood,Jehervs,$$ EtoKomu
+21,655c07681d25c25d9e96cfac,04:27:04,pwgood,Supibot,"👥 jehervs, Красноярск, Красноярский край, Россия (сейчас): ️☁️ -14,08°C, по ощущениям -21,08°C. Облачность: 100%. Скорость ветра ЗСЗ: 4,98 м/с. Порывы ветра: до 9,55 м/с. Влажность: 77%. Осадков сейчас нет. Давление воздуха: 1036 гПа. Солнце восходит через 8 м 50 с. ⚠️ Предупреждение о погоде: другие опасности."
+22,655c07721d25c25d9e96cfad,04:27:14,pwgood,Jehervs,monkaCat -14
+23,655c079b1d25c25d9e96cfae,04:27:55,pwgood,Dandaro,а
+24,655c079c1d25c25d9e96cfaf,04:27:56,pwgood,Supibot,"@dandaro just woke up: 🛏💤 (7h, 42m ago)"
+25,655c07c21d25c25d9e96cfb0,04:28:34,pwgood,The_IL_,huh
+26,655c07c31d25c25d9e96cfb1,04:28:35,pwgood,The_IL_,huh 󠀀
+27,655c07c51d25c25d9e96cfb2,04:28:37,pwgood,The_IL_,huh
+28,655c07c61d25c25d9e96cfb3,04:28:38,pwgood,The_IL_,huh 󠀀
+29,655c07cb1d25c25d9e96cfb4,04:28:43,pwgood,The_IL_,какие -20
+30,655c08191d25c25d9e96cfb5,04:30:01,pwgood,PWGud,pwgoodDetective
+31,655c08761d25c25d9e96cfb6,04:31:34,pwgood,MaxOceanNQ,$weather
+32,655c08761d25c25d9e96cfb7,04:31:34,pwgood,Supibot,"maxoceannq, Kemerovo, Kemerovo Oblast, Russia (now): 🌧️ -14.21°C, feels like -21.21°C. Cloud cover: 40%. WNW wind speed: 4 m/s. No wind gusts. Humidity: 92%. No precipitation right now. Air pressure: 1037 hPa. Sun rises in 28m, 19s. ⚠️ Weather alert: Other dangers."
+33,655c08861d25c25d9e96cfb8,04:31:50,pwgood,MaxOceanNQ,не сильно погода отличается
+34,655c0ab91d25c25d9e96cfb9,04:41:13,pwgood,Fuksi_,Zevlo
+35,655c0aba1d25c25d9e96cfba,04:41:14,pwgood,Supibot,"@fuksi_ woke up: catSleep 💤 (8h, 18m ago)"
+36,655c0ada1d25c25d9e96cfbb,04:41:46,pwgood,Fuksi_,$weather
+37,655c0adb1d25c25d9e96cfbc,04:41:47,pwgood,Supibot,"fuksi_, Tomsk, Tomsk Oblast, Russia (now): 🌙 -15.64°C, feels like -19.64°C. Cloud cover: 9%. NW wind speed: 1.52 m/s. Wind gusts: up to 3.77 m/s. Humidity: 85%. No precipitation right now. Air pressure: 1026 hPa. Sun rises in 28m, 25s. ⚠️ Weather alerts: Black ice, Extreme temperature value, Other dangers, Rain."
+38,655c0c891d25c25d9e96cfbd,04:48:57,pwgood,WIIHXHX19845051CAWTMUSCLE,lol
+39,655c0e421d25c25d9e96cfbe,04:56:18,pwgood,Arevage_peepoChater,4am
+40,655c0e521d25c25d9e96cfbf,04:56:34,pwgood,Arevage_peepoChater,$weather
+41,655c0e531d25c25d9e96cfc0,04:56:35,pwgood,Supibot,"arevage_peepochater, Maykop, Adygea Republic, Russia (now): 🌧️ 3.62°C, feels like -0.83°C. Cloud cover: 100%. WNW wind speed: 5.94 m/s. Wind gusts: up to 12.51 m/s. Humidity: 87%. It is currently raining, 0.49mm/h. Air pressure: 1010 hPa. Sun rises in 2h, 26m."
+42,655c0e641d25c25d9e96cfc1,04:56:52,pwgood,Arevage_peepoChater,Tasty пог ода
+43,655c0f211d25c25d9e96cfc2,05:00:01,pwgood,PWGud,bruuh
+44,655c0f271d25c25d9e96cfc3,05:00:07,pwgood,Art5507,Zevlo
+45,655c0f271d25c25d9e96cfc4,05:00:07,pwgood,Supibot,"@art5507 feels well rested: catSleep 💤 (8h, 58m ago)"
+46,655c0f2a1d25c25d9e96cfc5,05:00:10,pwgood,Art5507,REBYATA yo
+47,655c118f1d25c25d9e96cfc6,05:10:23,pwgood,Fuksi_,Art5507 cheso
+48,655c11c51d25c25d9e96cfc7,05:11:17,pwgood,kwefir,Zevlo
+49,655c11c61d25c25d9e96cfc8,05:11:18,pwgood,Supibot,"@kwefir feels rested: Спят усталые игрушки, книжки спят. Одеяла и подушки ждут ребят. Даже сказка спать ложится, Чтобы ночью нам присниться. Ты ей пожелай: Баю-бай. catSleep 💤 (5h, 30m ago)"
+50,655c11d31d25c25d9e96cfc9,05:11:31,pwgood,kwefir,@Art5507 peepoHey pleep
+51,655c11f01d25c25d9e96cfca,05:12:00,pwgood,Fuksi_,kwefir cheso доброе утро
+52,655c121b1d25c25d9e96cfcb,05:12:43,pwgood,kwefir,"@Fuksi_, По cheso н! peepoHey pleep С добрым утром!"
+53,655c14031d25c25d9e96cfcc,05:20:51,pwgood,azotsh,AAAA
+54,655c14031d25c25d9e96cfcd,05:20:51,pwgood,Supibot,"@azotsh feels rested: frame145delay007s 💤 (7h, 49m ago)"
+55,655c14f81d25c25d9e96cfce,05:24:56,pwgood,Arevage_peepoChater,pipec
+56,655c150a1d25c25d9e96cfcf,05:25:14,pwgood,Arevage_peepoChater,$weather Art5507
+57,655c150d1d25c25d9e96cfd0,05:25:17,pwgood,Supibot,"arevage_peepochater, That place was not found! PepeHands"
+58,655c15251d25c25d9e96cfd1,05:25:41,pwgood,Arevage_peepoChater,$weather kwefir
+59,655c15261d25c25d9e96cfd2,05:25:42,pwgood,Supibot,"arevage_peepochater, That place was not found! However, you probably meant to check that user's location - make sure to add the @ symbol before their name."
+60,655c153d1d25c25d9e96cfd3,05:26:05,pwgood,Arevage_peepoChater,$weather @Art5507
+61,655c153e1d25c25d9e96cfd4,05:26:06,pwgood,Supibot,"arevage_peepochater, That user did not set their location!"
+62,655c15511d25c25d9e96cfd5,05:26:25,pwgood,Arevage_peepoChater,$weather @kwefir
+63,655c15521d25c25d9e96cfd6,05:26:26,pwgood,Supibot,"arevage_peepochater, Yekaterinburg, Sverdlovsk Oblast, Russia (now): 🌥️ -8.43°C, feels like -15.43°C. Cloud cover: 40%. SE wind speed: 7 m/s. No wind gusts. Humidity: 79%. No precipitation right now. Air pressure: 1024 hPa. Sun rises in 1h, 23m. ⚠️ Weather alerts: Black ice, Extreme temperature value, Rain, Wind."
+64,655c15561d25c25d9e96cfd7,05:26:30,pwgood,Art5507,frame023delay028s
+65,655c155d1d25c25d9e96cfd8,05:26:37,pwgood,Art5507,Fuksi_ kwefir yo
+66,655c15601d25c25d9e96cfd9,05:26:40,pwgood,Arevage_peepoChater,pipec
+67,655c158e1d25c25d9e96cfda,05:27:26,pwgood,Arevage_peepoChater,Art5507 kwefir azotsh Fuksi_ rilaveHi cheso
+68,655c15a21d25c25d9e96cfdb,05:27:46,pwgood,Art5507,Arevage_peepoChater yo
+69,655c161b1d25c25d9e96cfdc,05:29:47,pwgood,kwefir,"@Arevage_peepoChater, peepoHey pleep С добрым утром!"
+70,655c16291d25c25d9e96cfdd,05:30:01,pwgood,PWGud,pwgoodKak
+71,655c16651d25c25d9e96cfde,05:31:01,pwgood,Kel_Fert,Zevlo
+72,655c16651d25c25d9e96cfdf,05:31:01,pwgood,Supibot,"@kel_fert feels well rested: plenk 💤 (9h, 56m ago)"
+73,655c16821d25c25d9e96cfe0,05:31:30,pwgood,kwefir,"@Kel_Fert, peepoHey pleep С добрым утром!"
+74,655c16a51d25c25d9e96cfe1,05:32:05,pwgood,Kel_Fert,"@kwefir, hi"
+75,655c17341d25c25d9e96cfe2,05:34:28,pwgood,Art5507,$afk Alright
+76,655c17351d25c25d9e96cfe3,05:34:29,pwgood,Supibot,art5507 is now AFK: Alright
+77,655c17d61d25c25d9e96cfe4,05:37:10,pwgood,drt_s_s,Какой же Chillin сегодня
+78,655c18331d25c25d9e96cfe5,05:38:43,pwgood,erynga,drt_s_s look 🌹
+79,655c18851d25c25d9e96cfe6,05:40:05,pwgood,chernyshewsky_,puh
+80,655c18861d25c25d9e96cfe7,05:40:06,pwgood,Supibot,"@chernyshewsky_ just woke up: Orm моё лицо когда вставать в пять утра 💤 (6h, 10m ago)"
+81,655c19101d25c25d9e96cfe8,05:42:24,pwgood,kwefir,"@chernyshewsky_, peepoHey pleep С добрым утром!"
+82,655c191b1d25c25d9e96cfe9,05:42:35,pwgood,Jehervs,REBYATA cheso
+83,655c19251d25c25d9e96cfea,05:42:45,pwgood,drt_s_s,Jehervs YO
+84,655c193c1d25c25d9e96cfeb,05:43:08,pwgood,erynga,Jehervs look 🌹
+85,655c19671d25c25d9e96cfec,05:43:51,pwgood,chernyshewsky_,@kwefir rar
+86,655c19731d25c25d9e96cfed,05:44:03,pwgood,chernyshewsky_,@Jehervs rar
+87,655c19d61d25c25d9e96cfee,05:45:42,pwgood,Jehervs,rar
+88,655c1aa51d25c25d9e96cfef,05:49:09,pwgood,kwefir,"@Jehervs, По cheso н!"
+89,655c1ab11d25c25d9e96cff0,05:49:21,pwgood,drt_s_s,rar archive
+90,655c1aea1d25c25d9e96cff1,05:50:18,pwgood,erynga,rar
+91,655c1baf1d25c25d9e96cff2,05:53:35,pwgood,Yasos_Bibos,У вас тоже такое в школе? https://pin.it/2sM8q1E
+92,655c1bca1d25c25d9e96cff3,05:54:02,pwgood,azotsh,@Jehervs rar
+93,655c1bd01d25c25d9e96cff4,05:54:08,pwgood,Yasos_Bibos,kekb
+94,655c1bda1d25c25d9e96cff5,05:54:18,pwgood,Yasos_Bibos,REBYATA peepoHey rar
+95,655c1bea1d25c25d9e96cff6,05:54:34,pwgood,Arevage_peepoChater,rar . zip
+96,655c1c181d25c25d9e96cff7,05:55:20,pwgood,Arevage_peepoChater,@Yasos_Bibos CoolCat Ведро
+97,655c1c391d25c25d9e96cff8,05:55:53,pwgood,chernyshewsky_,@Yasos_Bibos rar
+98,655c1c411d25c25d9e96cff9,05:56:01,pwgood,chernyshewsky_,@Arevage_peepoChater rar
+99,655c1d311d25c25d9e96cffa,06:00:01,pwgood,PWGud,Staredown
+100,655c1dbd1d25c25d9e96cffb,06:02:21,pwgood,kwefir,"@Yasos_Bibos, peepoHey pleep С добрым утром!"
+101,655c1dcc1d25c25d9e96cffc,06:02:36,pwgood,kwefir,@Yasos_Bibos LULE
+102,655c1e0e1d25c25d9e96cffd,06:03:42,pwgood,Arevage_peepoChater,BrorLOSINGhisSanity Я только что испугался пакетика с чаем
+103,655c1e181d25c25d9e96cffe,06:03:52,pwgood,Arevage_peepoChater,chernyshewsky_ rar
+104,655c1e561d25c25d9e96cfff,06:04:54,pwgood,Arevage_peepoChater,Я теряю своё санити
+105,655c1f761d25c25d9e96d000,06:09:42,pwgood,Yasos_Bibos,@kwefir @Arevage_peepoChater @chernyshewsky_ hyhrya 🥞
+106,655c1f8c1d25c25d9e96d001,06:10:04,pwgood,Arevage_peepoChater,Yasos_Bibos Tasty спасибо за блины
+107,655c1f9c1d25c25d9e96d002,06:10:20,pwgood,Arevage_peepoChater,hyhrya
+108,655c1fbd1d25c25d9e96d003,06:10:53,pwgood,Yasos_Bibos,"Как же я люблю готовить, жаль денег нет что-то брать на это peepoDown"
+109,655c1fe11d25c25d9e96d004,06:11:29,pwgood,Yasos_Bibos,И учиться это делать peepoDown
+110,655c20081d25c25d9e96d005,06:12:08,pwgood,Yasos_Bibos,hyhrya Caught
+111,655c20271d25c25d9e96d006,06:12:39,pwgood,Yasos_Bibos,UhtiBlya Caught
+112,655c20321d25c25d9e96d007,06:12:50,pwgood,Yasos_Bibos,Boolets caught
+113,655c20391d25c25d9e96d008,06:12:57,pwgood,Yasos_Bibos,Boolets Caught
+114,655c206d1d25c25d9e96d009,06:13:49,pwgood,Arevage_peepoChater,https://gachi.gay/r1MXp BrorLOSINGhisSanity
+115,655c20711d25c25d9e96d00a,06:13:53,pwgood,Yasos_Bibos,Я узнал как использовать этот эмоут и теперь я буду срать им
+116,655c20851d25c25d9e96d00b,06:14:13,pwgood,Arevage_peepoChater,Look inside >> Rostelecum >> Yasno
+117,655c20ce1d25c25d9e96d00c,06:15:26,pwgood,Arevage_peepoChater,А зеро-видф эмоуты можно же только с 7тв сабкой?
+118,655c20dc1d25c25d9e96d00d,06:15:40,pwgood,kwefir,@Arevage_peepoChater pipec
+119,655c21111d25c25d9e96d00e,06:16:33,pwgood,kwefir,"@Arevage_peepoChater, создавать?"
+120,655c216a1d25c25d9e96d00f,06:18:02,pwgood,Arevage_peepoChater,"Нет, добавлять"
+121,655c21721d25c25d9e96d010,06:18:10,pwgood,Arevage_peepoChater,Или создавать
+122,655c21731d25c25d9e96d011,06:18:11,pwgood,kwefir,Hmm
+123,655c21771d25c25d9e96d012,06:18:15,pwgood,Arevage_peepoChater,Или иметь на канале
+124,655c219b1d25c25d9e96d013,06:18:51,pwgood,kwefir,peepoDown почему ещё никто не создал эмоут с vhs эффектом
+125,655c24391d25c25d9e96d014,06:30:01,pwgood,PWGud,forsenWhat
+126,655c25e61d25c25d9e96d015,06:37:10,pwgood,kwefir,forsenWhat
+127,655c25ff1d25c25d9e96d016,06:37:35,pwgood,Artemu5,Shocked
+128,655c25ff1d25c25d9e96d017,06:37:35,pwgood,Supibot,"@artemu5 didn't have a great sleep: я проснусь, и в тз завезут кучу пороха Clueless 💤 (4h, 2m ago)"
+129,655c26121d25c25d9e96d018,06:37:54,pwgood,kwefir,"@Artemu5, peepoHey pleep С добрым утром!"
+130,655c265a1d25c25d9e96d019,06:39:06,pwgood,fixplayer0,Shocked
+131,655c265a1d25c25d9e96d01a,06:39:06,pwgood,Supibot,"@fixplayer0 is no longer AFK: (no message) (1d, 4h ago)"
+132,655c26621d25c25d9e96d01b,06:39:14,pwgood,fixplayer0,@kwefir YO
+133,655c26ae1d25c25d9e96d01c,06:40:30,pwgood,The_IL_,Shocked
+134,655c27241d25c25d9e96d01d,06:42:28,pwgood,erynga,Shocked
+135,655c27b41d25c25d9e96d01e,06:44:52,pwgood,fixplayer0,@The_IL_ @erynga peepoHey Shocked
+136,655c27d01d25c25d9e96d01f,06:45:20,pwgood,erynga,fixplayer0 look
+137,655c27d11d25c25d9e96d020,06:45:21,pwgood,kwefir,"@fixplayer0, YO"
+138,655c27ee1d25c25d9e96d021,06:45:50,pwgood,fixplayer0,look
+139,655c28571d25c25d9e96d022,06:47:35,pwgood,fixplayer0,nutakoe MyHonestReaction
+140,655c29aa1d25c25d9e96d023,06:53:14,pwgood,AivenIF,Shocked за ночь куча снега нападало
+141,655c29b21d25c25d9e96d024,06:53:22,pwgood,AivenIF,peepoSnow
+142,655c29e11d25c25d9e96d025,06:54:09,pwgood,AivenIF,$study eh
+143,655c29e21d25c25d9e96d026,06:54:10,pwgood,Supibot,aivenif is now studying: eh 📚
+144,655c2a341d25c25d9e96d027,06:55:32,pwgood,The_IL_,fixplayer0 yo
+145,655c2aaf1d25c25d9e96d028,06:57:35,pwgood,5upchik,здарова кадры frame023delay028s
+146,655c2abf1d25c25d9e96d029,06:57:51,pwgood,fixplayer0,@5upchik frame023delay028s
+147,655c2ac41d25c25d9e96d02a,06:57:56,pwgood,azotsh,@5upchik frame023delay028s
+148,655c2ac91d25c25d9e96d02b,06:58:01,pwgood,5upchik,fixplayer0 frame023delay028s
+149,655c2ad31d25c25d9e96d02c,06:58:11,pwgood,5upchik,azotsh frame023delay028s
+150,655c2ad41d25c25d9e96d02d,06:58:12,pwgood,The_IL_,frame023delay028s
+151,655c2add1d25c25d9e96d02e,06:58:21,pwgood,Rollnot_,"$remind @shrram_ KKot , а что? sus"
+152,655c2ade1d25c25d9e96d02f,06:58:22,pwgood,Supibot,"@rollnot_ feels rested: карантин можно спать хоть до трёх дня в течение недели Chillin 💤 (6h, 29m ago)"
+153,655c2ade1d25c25d9e96d030,06:58:22,pwgood,Supibot,"@rollnot_, reminder from: @shrram_ - ты в какой стране живешь? (6h, 18m ago)"
+154,655c2ade1d25c25d9e96d031,06:58:22,pwgood,Supibot,"rollnot_, I will remind shrram_ when they next type in chat (ID 2461840)"
+155,655c2ae51d25c25d9e96d032,06:58:29,pwgood,fixplayer0,@azotsh peepoHey frame023delay028s
+156,655c2b021d25c25d9e96d033,06:58:58,pwgood,The_IL_,frame023delay028s 󠀀
+157,655c2b071d25c25d9e96d034,06:59:03,pwgood,azotsh,fixplayer0 frame023delay028s peepoHey
+158,655c2b411d25c25d9e96d035,07:00:01,pwgood,PWGud,KekeHands
+159,655c2b781d25c25d9e96d036,07:00:56,pwgood,5upchik,бля хахаха каждый раз такой захожу здороваюсь и сижу молчу
+160,655c2b821d25c25d9e96d037,07:01:06,pwgood,5upchik,$
+161,655c2b861d25c25d9e96d038,07:01:10,pwgood,5upchik,$afk
+162,655c2b871d25c25d9e96d039,07:01:11,pwgood,Supibot,5upchik is now AFK: (no message)
+163,655c2c5d1d25c25d9e96d03a,07:04:45,pwgood,MbIshka_PupbIshka_,peepoHey frame145delay007s
+164,655c2c5d1d25c25d9e96d03b,07:04:45,pwgood,Supibot,"@mbishka_pupbishka_ feels well rested: Orm 💤 (9h, 44m ago)"
+165,655c2c961d25c25d9e96d03c,07:05:42,pwgood,4elovekkun,REBYATA GoodMorning
+166,655c2c961d25c25d9e96d03d,07:05:42,pwgood,Supibot,"@4elovekkun feels rested: Alright 💤 (7h, 16m ago)"
+167,655c2d011d25c25d9e96d03e,07:07:29,pwgood,fixplayer0,@4elovekkun @MbIshka_PupbIshka_ frame023delay028s GoodMorning
+168,655c2d121d25c25d9e96d03f,07:07:46,pwgood,MbIshka_PupbIshka_,"@fixplayer0, @4elovekkun GoodMorning pleep"
+169,655c2e551d25c25d9e96d040,07:13:09,pwgood,chernyshewsky_,@MbIshka_PupbIshka_ @fixplayer0 @4elovekkun rar
+170,655c2e5d1d25c25d9e96d041,07:13:17,pwgood,fixplayer0,@chernyshewsky_ rar
+171,655c2e5e1d25c25d9e96d042,07:13:18,pwgood,MbIshka_PupbIshka_,"@chernyshewsky_, rar"
+172,655c2f7d1d25c25d9e96d043,07:18:05,pwgood,lydeco_,plenk
+173,655c2fb81d25c25d9e96d044,07:19:04,pwgood,fixplayer0,@lydeco_ peepoHey  Shocked
+174,655c2fc91d25c25d9e96d045,07:19:21,pwgood,lydeco_,rilaveHi
+175,655c2fdf1d25c25d9e96d046,07:19:43,pwgood,kapuchino78,lol
+176,655c2fe01d25c25d9e96d047,07:19:44,pwgood,Supibot,"@kapuchino78 woke up: plinkVibe Orm 💤 (8h, 53m ago)"
+177,655c2fe31d25c25d9e96d048,07:19:47,pwgood,xwoble,4elovekkun rar
+178,655c2fe31d25c25d9e96d049,07:19:47,pwgood,Supibot,"@xwoble feels rested: Evil 💤 (7h, 14m ago)"
+179,655c2fea1d25c25d9e96d04a,07:19:54,pwgood,xwoble,kapuchino78 rar lol
+180,655c2ff01d25c25d9e96d04b,07:20:00,pwgood,kapuchino78,@xwoble lol
+181,655c2ffe1d25c25d9e96d04c,07:20:14,pwgood,xwoble,MbIshka_PupbIshka_ omg wrrr wrrr
+182,655c30441d25c25d9e96d04d,07:21:24,pwgood,fixplayer0,@kapuchino78 @xwoble Shocked wrrr
+183,655c304c1d25c25d9e96d04e,07:21:32,pwgood,xwoble,fixplayer0 Shocked lol
+184,655c30661d25c25d9e96d04f,07:21:58,pwgood,StreamElements,"📣 Присоединяйся, чтобы не пропустить стримы: Telegram: baad.pw/tg | ВКонтакте: baad.pw/vk"
+185,655c30681d25c25d9e96d050,07:22:00,pwgood,RainiF_,GoodMorning
+186,655c306a1d25c25d9e96d051,07:22:02,pwgood,Supibot,"@rainif_ feels rested: peepoLurk 💤 (7h, 9m ago)"
+187,655c30791d25c25d9e96d052,07:22:17,pwgood,fixplayer0,@RainiF_ HELLO
+188,655c30961d25c25d9e96d053,07:22:46,pwgood,RainiF_,fixplayer0 cheso
+189,655c30f61d25c25d9e96d054,07:24:22,pwgood,fixplayer0,@RainiF_ wtf ты без шляпы?
+190,655c30fb1d25c25d9e96d055,07:24:27,poal48,erynga,POAL48
+191,655c31221d25c25d9e96d056,07:25:06,poal48,SeF0rt,POAL48
+192,655c31371d25c25d9e96d057,07:25:27,pwgood,RainiF_,да SadKitty
+193,655c31551d25c25d9e96d058,07:25:57,pwgood,fixplayer0,SadKitty
+194,655c31ab1d25c25d9e96d059,07:27:23,pwgood,chernyshewsky_,@lydeco_ @kapuchino78 @xwoble @RainiF_ rar
+195,655c31b81d25c25d9e96d05a,07:27:36,pwgood,xwoble,chernyshewsky_ rar
+196,655c31c51d25c25d9e96d05b,07:27:49,pwgood,xwoble,RainiF_ CatHug look
+197,655c32131d25c25d9e96d05c,07:29:07,pwgood,lydeco_,rar
+198,655c32491d25c25d9e96d05d,07:30:01,pwgood,neizyum,rar
+199,655c32491d25c25d9e96d05e,07:30:01,pwgood,PWGud,PagChomp
+200,655c32491d25c25d9e96d05f,07:30:01,pwgood,Supibot,"@neizyum feels rested: Veeeelka_ 💤 (6h, 55m ago)"
+201,655c324b1d25c25d9e96d060,07:30:03,pwgood,RainiF_,xwoble chernyshewsky_ rar cheso
+202,655c325f1d25c25d9e96d061,07:30:23,pwgood,xwoble,lydeco_ neizyum rar
+203,655c32641d25c25d9e96d062,07:30:28,pwgood,lydeco_,rar 󠀀
+204,655c326b1d25c25d9e96d063,07:30:35,pwgood,neizyum,xwoble rar
+205,655c32871d25c25d9e96d064,07:31:03,pwgood,fixplayer0,@neizyum rar
+206,655c32911d25c25d9e96d065,07:31:13,pwgood,The_IL_,catJAM
+207,655c32911d25c25d9e96d066,07:31:13,pwgood,fixplayer0,$study
+208,655c32911d25c25d9e96d067,07:31:13,pwgood,Supibot,fixplayer0 is now studying: 📚
+209,655c32981d25c25d9e96d068,07:31:20,pwgood,The_IL_,neizyum xwoble rar
+210,655c329c1d25c25d9e96d069,07:31:24,pwgood,The_IL_,catJAM
+211,655c329d1d25c25d9e96d06a,07:31:25,pwgood,The_IL_,catJAM 󠀀
+212,655c329f1d25c25d9e96d06b,07:31:27,pwgood,The_IL_,catJAM
+213,655c32a81d25c25d9e96d06c,07:31:36,pwgood,Xomachel,lydeco_
+214,655c32ac1d25c25d9e96d06d,07:31:40,pwgood,xwoble,The_IL_ omg ЗЕЕЕИЕИИИИО pwgoodHappy
+215,655c32ae1d25c25d9e96d06e,07:31:42,pwgood,xwoble,rar
+216,655c32b21d25c25d9e96d06f,07:31:46,pwgood,Xomachel,lydeco_ ХУЙ
+217,655c32b41d25c25d9e96d070,07:31:48,pwgood,neizyum,The_IL_ avacuoLove
+218,655c32b71d25c25d9e96d071,07:31:51,pwgood,xwoble,this
+219,655c32c01d25c25d9e96d072,07:32:00,pwgood,xwoble,Xomachel look this
+220,655c32ca1d25c25d9e96d073,07:32:10,pwgood,The_IL_,xwoble ххщшщоээаэлъооыblее pwgoodHappy
+221,655c32ce1d25c25d9e96d074,07:32:14,pwgood,lydeco_,"@Xomachel, ты хуй"
+222,655c32d71d25c25d9e96d075,07:32:23,pwgood,The_IL_,neizyum avacuoHappy
+223,655c32dc1d25c25d9e96d076,07:32:28,pwgood,The_IL_,Xomachel look
+224,655c32e31d25c25d9e96d077,07:32:35,pwgood,Artemu5,Shocked
+225,655c32e81d25c25d9e96d078,07:32:40,pwgood,neizyum,Shocked
+226,655c32e91d25c25d9e96d079,07:32:41,pwgood,ha1eks,Shocked
+227,655c32eb1d25c25d9e96d07a,07:32:43,pwgood,xwoble,Artemu5 pwgoodHey Shocked
+228,655c32ee1d25c25d9e96d07b,07:32:46,pwgood,xwoble,Shocked
+229,655c32f01d25c25d9e96d07c,07:32:48,pwgood,The_IL_,Shocked
+230,655c32f21d25c25d9e96d07d,07:32:50,pwgood,Artemu5,вобля Shocked
+231,655c32f21d25c25d9e96d07e,07:32:50,pwgood,Xomachel,lydeco_ нет ты хуй
+232,655c32fb1d25c25d9e96d07f,07:32:59,pwgood,lydeco_,"@Xomachel, нет ты"
+233,655c33011d25c25d9e96d080,07:33:05,pwgood,Artemu5,нет я
+234,655c33041d25c25d9e96d081,07:33:08,pwgood,Artemu5,look
+235,655c330c1d25c25d9e96d082,07:33:16,pwgood,Xomachel,lydeco_ нет ты хуй 󠀀
+236,655c33131d25c25d9e96d083,07:33:23,pwgood,lydeco_,"@Xomachel,  нет ты"
+237,655c33131d25c25d9e96d084,07:33:23,pwgood,neizyum,Shocked look
+238,655c331b1d25c25d9e96d085,07:33:31,pwgood,kwefir,"@RainiF_, peepoHey pleep С добрым утром! wrrr"
+239,655c331d1d25c25d9e96d086,07:33:33,pwgood,Xomachel,lydeco_ нет ты хуй
+240,655c331f1d25c25d9e96d087,07:33:35,pwgood,lydeco_,"@Xomachel, нет ты"
+241,655c33251d25c25d9e96d088,07:33:41,pwgood,Xomachel,lydeco_ нет ты хуй 󠀀
+242,655c33271d25c25d9e96d089,07:33:43,pwgood,RainiF_,kwefir wrrr cheso
+243,655c33331d25c25d9e96d08a,07:33:55,pwgood,lydeco_,"@Xomachel,  нет ты"
+244,655c33361d25c25d9e96d08b,07:33:58,pwgood,中丫爪口,$weather
+245,655c333c1d25c25d9e96d08c,07:34:04,pwgood,Supibot,"yadovitaya_shabka, Kemerovo, Kemerovo Oblast, Russia (now): 🌤️ -13.21°C, feels like -19.37°C. Cloud cover: 20%. W wind speed: 3 m/s. No wind gusts. Humidity: 85%. No precipitation right now. Air pressure: 1040 hPa. Sun sets in 5h, 29m. ⚠️ Weather alert: Other dangers."
+246,655c33571d25c25d9e96d08d,07:34:31,pwgood,Artemu5,plenk
+247,655c33601d25c25d9e96d08e,07:34:40,pwgood,lydeco_,plenk
+248,655c33631d25c25d9e96d08f,07:34:43,pwgood,neizyum,Shocked
+249,655c33af1d25c25d9e96d090,07:35:59,pwgood,RainiF_,$afk Bussin
+250,655c33af1d25c25d9e96d091,07:35:59,pwgood,Supibot,rainif_ is now AFK: Bussin
+251,655c33b71d25c25d9e96d092,07:36:07,pwgood,chernyshewsky_,@neizyum @The_IL_ @Artemu5 rar
+252,655c33be1d25c25d9e96d093,07:36:14,pwgood,The_IL_,chernyshewsky_ rar
+253,655c33bf1d25c25d9e96d094,07:36:15,pwgood,neizyum,Shocked 󠀀
+254,655c33c41d25c25d9e96d095,07:36:20,pwgood,Artemu5,Shocked
+255,655c33ec1d25c25d9e96d096,07:37:00,pwgood,chernyshewsky_,Shocked 󠀀
+256,655c33ef1d25c25d9e96d097,07:37:03,pwgood,Jehervs,$$ 🌠
+257,655c33f31d25c25d9e96d098,07:37:07,pwgood,Supibot,"👥 jehervs, В начале дня вы можете вести себя как типичный ебай. Благоприятное время для того, чтобы вступить в чехословацкий кружок молодых вампиров. Ночью возможны галлюцинации о том, как вы играете со свиньями в бильярд. Вы можете обнаружить, что стали рептилоидом"
+258,655c33fe1d25c25d9e96d099,07:37:18,pwgood,neizyum,$$cookie
+259,655c33ff1d25c25d9e96d09a,07:37:19,pwgood,Supibot,"👥 neizyum, rekfordSoy Ваше ежедневное печенье: Ваша самая заветная мечта сбудется в течение этого года."
+260,655c340f1d25c25d9e96d09b,07:37:35,pwgood,Jehervs,$$ 🍪
+261,655c340f1d25c25d9e96d09c,07:37:35,pwgood,Supibot,"👥 jehervs, pwgoodDespair Ваш ежедневный файл cookie: не пытайтесь найти неисправность. Награда за его нахождение невелика."
+262,655c34111d25c25d9e96d09d,07:37:37,pwgood,chernyshewsky_,Orm <- типичный ебай
+263,655c34151d25c25d9e96d09e,07:37:41,pwgood,erynga,neizyum look 🌹
+264,655c34161d25c25d9e96d09f,07:37:42,pwgood,The_IL_,Jehervs rar
+265,655c341b1d25c25d9e96d0a0,07:37:47,pwgood,erynga,$$ 🌠
+266,655c341c1d25c25d9e96d0a1,07:37:48,pwgood,Supibot,"👥 erynga, День хорош для развлечений с горчицей, пшенной кашей и чечевицей. Сегодня вам рекомендуется носить одежду цвета спайса. Звезды советуют вам начать строить из себя умственно отсталую плесень. Может произойти внезапное изменение формы вашего ануса."
+267,655c34231d25c25d9e96d0a2,07:37:55,pwgood,chernyshewsky_,@erynga rar
+268,655c34261d25c25d9e96d0a3,07:37:58,pwgood,neizyum,erynga avacuoHug
+269,655c34381d25c25d9e96d0a4,07:38:16,pwgood,erynga,chernyshewsky_ look 🌹
+270,655c345b1d25c25d9e96d0a5,07:38:51,pwgood,Jehervs,Цвет спайса peepoOD
+271,655c349e1d25c25d9e96d0a6,07:39:58,pwgood,erynga,Цвет спайса peepoOD
+272,655c34a71d25c25d9e96d0a7,07:40:07,pwgood,xwoble,Orm
+273,655c34d31d25c25d9e96d0a8,07:40:51,pwgood,chernyshewsky_,Orm
+274,655c351e1d25c25d9e96d0a9,07:42:06,pwgood,ya_fanat_statki,uuh
+275,655c35be1d25c25d9e96d0aa,07:44:46,pwgood,azotsh,$$ck
+276,655c35be1d25c25d9e96d0ab,07:44:46,pwgood,Supibot,"👥 azotsh, Ваше ежедневное печенье: чем круче вы себя считаете, тем глупее вы выглядите."
+277,655c35c61d25c25d9e96d0ac,07:44:54,pwgood,azotsh,frame145delay007s
+278,655c35c81d25c25d9e96d0ad,07:44:56,pwgood,Fuksi_,$study Orm
+279,655c35c91d25c25d9e96d0ae,07:44:57,pwgood,Supibot,fuksi_ is now studying: Orm 📚
+280,655c36151d25c25d9e96d0af,07:46:13,pwgood,gwesty_,bl
+281,655c36161d25c25d9e96d0b0,07:46:14,pwgood,Supibot,"@gwesty_ feels rested: saturday хр-р-р ми-ми-ми-ми-ми-ми-ми-ми 💤 (7h, 55m ago)"
+282,655c361c1d25c25d9e96d0b1,07:46:20,pwgood,gwesty_,$study 📚✏📚✏📚✏
+283,655c361d1d25c25d9e96d0b2,07:46:21,pwgood,Supibot,gwesty_ is now studying: 📚✏📚✏📚✏ 📚
+284,655c36251d25c25d9e96d0b3,07:46:29,pwgood,chernyshewsky_,@gwesty_ rar
+285,655c36641d25c25d9e96d0b4,07:47:32,pwgood,Striginae,kekb
+286,655c36641d25c25d9e96d0b5,07:47:32,pwgood,Supibot,"@striginae feels rested: В Китае мужчина пожаловался, что у него загорелся унитаз, когда тот им пользовался.(Напоминалка себе: не забудь что у тебя почта в спотифае 6*6) 💤 (6h, 17m ago)"
+287,655c36771d25c25d9e96d0b6,07:47:51,pwgood,Striginae,Режим для подкастов лучше подходит для музыки чем режим для музыки
+288,655c36911d25c25d9e96d0b7,07:48:17,pwgood,Striginae,Просто потому что там басы и текст не смазаны
+289,655c37091d25c25d9e96d0b8,07:50:17,pwgood,Striginae,А вообще мне походу звук смазанным кажется потому что я 2 месяца не носил такие наушники
+290,655c37131d25c25d9e96d0b9,07:50:27,pwgood,Striginae,Привык к накладным
+291,655c373e1d25c25d9e96d0ba,07:51:10,pwgood,just_Lofda,peepoHey blob
+292,655c374a1d25c25d9e96d0bb,07:51:22,pwgood,just_Lofda,$$catKISS
+293,655c374a1d25c25d9e96d0bc,07:51:22,pwgood,Supibot,"👥 just_lofda, Flushed Вы поцеловали catKISS aivenif"
+294,655c37611d25c25d9e96d0bd,07:51:45,pwgood,just_Lofda,$$rq
+295,655c37631d25c25d9e96d0be,07:51:47,pwgood,Supibot,"👥 just_lofda, ⓘ (3𝐝, 14𝐡 𝐚𝐠𝐨) 𝐣𝐮𝐬𝐭_𝐥𝐨𝐟𝐝𝐚: @𝐏𝐖𝐆𝐨𝐨𝐝 Там без пенисов? 𝐏𝐞𝐩𝐞𝐀"
+296,655c37731d25c25d9e96d0bf,07:52:03,pwgood,just_Lofda,$rl
+297,655c37741d25c25d9e96d0c0,07:52:04,pwgood,Supibot,"(3d, 20h ago) mrsar_: RilaveWOW новый трек мистера китти"
+298,655c377e1d25c25d9e96d0c1,07:52:14,pwgood,just_Lofda,как же много пенисов
+299,655c37811d25c25d9e96d0c2,07:52:17,pwgood,just_Lofda,$rl
+300,655c37881d25c25d9e96d0c3,07:52:24,pwgood,just_Lofda,$rq
+301,655c378a1d25c25d9e96d0c4,07:52:26,pwgood,Supibot,"(1d, 16h ago) just_lofda: 1984"
+302,655c378e1d25c25d9e96d0c5,07:52:30,pwgood,just_Lofda,1984
+303,655c37a51d25c25d9e96d0c6,07:52:53,pwgood,just_Lofda,$rq
+304,655c37a61d25c25d9e96d0c7,07:52:54,pwgood,Supibot,"(4d, 0h ago) just_lofda: zluki GANDONheart"
+305,655c37b81d25c25d9e96d0c8,07:53:12,pwgood,just_Lofda,$rq 󠀀
+306,655c37b91d25c25d9e96d0c9,07:53:13,pwgood,Supibot,"(2d, 11h ago) just_lofda: AlienPls <3"
+307,655c37c01d25c25d9e96d0ca,07:53:20,pwgood,just_Lofda,nasrano
+308,655c37c51d25c25d9e96d0cb,07:53:25,pwgood,just_Lofda,$rl
+309,655c37ca1d25c25d9e96d0cc,07:53:30,pwgood,just_Lofda,Waiting
+310,655c37d31d25c25d9e96d0cd,07:53:39,pwgood,just_Lofda,$rl
+311,655c37d31d25c25d9e96d0ce,07:53:39,pwgood,Supibot,"(2d, 18h ago) pwgud: girEating"
+312,655c37da1d25c25d9e96d0cf,07:53:46,pwgood,just_Lofda,girEating
+313,655c385d1d25c25d9e96d0d0,07:55:57,pwgood,kwixie_,girEating
+314,655c385e1d25c25d9e96d0d1,07:55:58,pwgood,Supibot,"@kwixie_ just woke up: lol 💤 (6h, 58m ago)"
+315,655c38e91d25c25d9e96d0d2,07:58:17,pwgood,Pavl1k_G1ft,$rl
+316,655c38ea1d25c25d9e96d0d3,07:58:18,pwgood,Supibot,"@pavl1k_g1ft woke up: хуй хуй хуй ахахахахаха пизда 💤 (9h, 42m ago)"
+317,655c38ea1d25c25d9e96d0d4,07:58:18,pwgood,Supibot,"(2d, 14h ago) antonsuvaev: @pwgood выпроси у обс совместную игру в факторку"
+318,655c38f61d25c25d9e96d0d5,07:58:30,pwgood,cloudy31_________________,Блять
+319,655c38f71d25c25d9e96d0d6,07:58:31,pwgood,Supibot,"@cloudy31_________________ woke up: saturday . о О ( PLAYWITHGOOD блять я реально свин ) 💤 (8h, 10m ago)"
+320,655c390c1d25c25d9e96d0d7,07:58:52,pwgood,cloudy31_________________,"Ненавижу когда меня будят рано утром по 100 раз, я засыпаю просыпаюсь по 100 раз"
+321,655c39121d25c25d9e96d0d8,07:58:58,pwgood,Pavl1k_G1ft,$rl 󠀀
+322,655c39131d25c25d9e96d0d9,07:58:59,pwgood,Supibot,"(4d, 15h ago) kehai1: SAJ"
+323,655c391e1d25c25d9e96d0da,07:59:10,pwgood,cloudy31_________________,"И потом нихуя не понимаю, мне реально что-то говорили, или мне это приснилось"
+324,655c39221d25c25d9e96d0db,07:59:14,pwgood,cloudy31_________________,AAAA
+325,655c39501d25c25d9e96d0dc,08:00:00,poal48,ppSpin,catYoink
+326,655c39501d25c25d9e96d0dd,08:00:00,poal48,ppSpin,Всем утра! GoodMorning
+327,655c39501d25c25d9e96d0de,08:00:00,poal48,ppSpin,GoodMorning POAL48 GoodMorning
+328,655c39511d25c25d9e96d0df,08:00:01,pwgood,PWGud,Sousan__
+329,655c395e1d25c25d9e96d0e0,08:00:14,pwgood,cloudy31_________________,Sousan__ TeaTime
+330,655c39fb1d25c25d9e96d0e1,08:02:51,pwgood,chernyshewsky_,@just_Lofda @kwixie_ @cloudy31_________________ @Pavl1k_G1ft rar
+331,655c3a101d25c25d9e96d0e2,08:03:12,pwgood,Gamdav_,GoodMorning
+332,655c3a111d25c25d9e96d0e3,08:03:13,pwgood,Supibot,"@gamdav_ woke up: pwgoodSleep 💤 (8h, 15m ago)"
+333,655c3a381d25c25d9e96d0e4,08:03:52,pwgood,chernyshewsky_,@Gamdav_ rar
+334,655c3a4e1d25c25d9e96d0e5,08:04:14,pwgood,cloudy31_________________,@chernyshewsky_ rar
+335,655c3a511d25c25d9e96d0e6,08:04:17,pwgood,Gamdav_,@chernyshewsky_ rar
+336,655c3a581d25c25d9e96d0e7,08:04:24,pwgood,cloudy31_________________,@Gamdav_ Unless
+337,655c3a5d1d25c25d9e96d0e8,08:04:29,pwgood,Gamdav_,$study catDespair
+338,655c3a5e1d25c25d9e96d0e9,08:04:30,pwgood,Supibot,gamdav_ is now studying: catDespair 📚
+339,655c3a6d1d25c25d9e96d0ea,08:04:45,pwgood,cloudy31_________________,Friday
+340,655c3b3d1d25c25d9e96d0eb,08:08:13,pwgood,xwoble,Gamdav_ pwgoodHey catDespair
+341,655c3b421d25c25d9e96d0ec,08:08:18,pwgood,xwoble,cloudy31_________________ rar
+342,655c3b4b1d25c25d9e96d0ed,08:08:27,pwgood,just_Lofda,REBYATA peepoHey blob
+343,655c3b741d25c25d9e96d0ee,08:09:08,pwgood,xwoble,just_Lofda blob ? rar
+344,655c3b7d1d25c25d9e96d0ef,08:09:17,pwgood,just_Lofda,rar
+345,655c3b951d25c25d9e96d0f0,08:09:41,pwgood,just_Lofda,blob <- буквально я
+346,655c3ba01d25c25d9e96d0f1,08:09:52,pwgood,xwoble,почему blob когда можно быть rar
+347,655c3bac1d25c25d9e96d0f2,08:10:04,pwgood,Shi4ulI,frame023delay028s
+348,655c3bb31d25c25d9e96d0f3,08:10:11,pwgood,xwoble,frame023delay028s
+349,655c3bf71d25c25d9e96d0f4,08:11:19,pwgood,just_Lofda,blob
+350,655c3bfe1d25c25d9e96d0f5,08:11:26,pwgood,kwixie_,rar
+351,655c3c0c1d25c25d9e96d0f6,08:11:40,pwgood,Shi4ulI,kwixie_ cheso Zaebok
+352,655c3c0f1d25c25d9e96d0f7,08:11:43,pwgood,chernyshewsky_,Я буквально rar сегодня
+353,655c3c101d25c25d9e96d0f8,08:11:44,pwgood,xwoble,just_Lofda CatAHomie rar
+354,655c3c121d25c25d9e96d0f9,08:11:46,pwgood,kwixie_,@Shi4ulI rar
+355,655c3c161d25c25d9e96d0fa,08:11:50,pwgood,xwoble,kwixie_ rar
+356,655c3c1b1d25c25d9e96d0fb,08:11:55,pwgood,kwixie_,@xwoble rar
+357,655c3c251d25c25d9e96d0fc,08:12:05,pwgood,chernyshewsky_,@Shi4ulI rar
+358,655c3c2e1d25c25d9e96d0fd,08:12:14,pwgood,xwoble,chernyshewsky_ rar
+359,655c3c411d25c25d9e96d0fe,08:12:33,pwgood,Shi4ulI,я когда у меня дохуя проблем а я сижу и Zaebok
+360,655c3c531d25c25d9e96d0ff,08:12:51,pwgood,chernyshewsky_,@xwoble rar
+361,655c3c571d25c25d9e96d100,08:12:55,pwgood,kselbot,rar
+362,655c3c5e1d25c25d9e96d101,08:13:02,pwgood,chernyshewsky_,@kselbot rar
+363,655c3c651d25c25d9e96d102,08:13:09,pwgood,kselbot,@chernyshewsky_ rar rar rar
+364,655c3c681d25c25d9e96d103,08:13:12,pwgood,xwoble,kselbot ppChat ксеелбьооот omg rar
+365,655c3c681d25c25d9e96d104,08:13:12,pwgood,just_Lofda,blob 󠀀
+366,655c3c6c1d25c25d9e96d105,08:13:16,pwgood,xwoble,blob
+367,655c3c6d1d25c25d9e96d106,08:13:17,pwgood,kwixie_,@kselbot rar
+368,655c3c721d25c25d9e96d107,08:13:22,pwgood,kselbot,REBYATA rar rar rar
+369,655c3c741d25c25d9e96d108,08:13:24,pwgood,MrSar_,rar
+370,655c3c781d25c25d9e96d109,08:13:28,pwgood,MrSar_,$cookie
+371,655c3c781d25c25d9e96d10a,08:13:28,pwgood,Supibot,"mrsar_, Your daily cookie: Avoid taking unnecessary gambles."
+372,655c3c7b1d25c25d9e96d10b,08:13:31,pwgood,xwoble,kselbot rar rar rar
+373,655c3c7d1d25c25d9e96d10c,08:13:33,pwgood,just_Lofda,$cocckir
+374,655c3c7e1d25c25d9e96d10d,08:13:34,pwgood,kwixie_,$$🍪
+375,655c3c7f1d25c25d9e96d10e,08:13:35,pwgood,Supibot,"👥 kwixie_, :tf: Clap Ваше ежедневное печенье: раскройте свою жизненную силу."
+376,655c3c821d25c25d9e96d10f,08:13:38,pwgood,just_Lofda,$cocke
+377,655c3c851d25c25d9e96d110,08:13:41,pwgood,kselbot,@xwoble ииииииииксссссвобояопоптп ppChat rar rar rar
+378,655c3c851d25c25d9e96d111,08:13:41,pwgood,xwoble,blob
+379,655c3c861d25c25d9e96d112,08:13:42,pwgood,just_Lofda,$cockie
+380,655c3c8a1d25c25d9e96d113,08:13:46,pwgood,just_Lofda,$coockei
+381,655c3c8e1d25c25d9e96d114,08:13:50,pwgood,just_Lofda,$coocie
+382,655c3c901d25c25d9e96d115,08:13:52,pwgood,xwoble,pipec
+383,655c3c921d25c25d9e96d116,08:13:54,pwgood,kselbot,@kwixie_ rar rar rar
+384,655c3c921d25c25d9e96d117,08:13:54,pwgood,kwixie_,мою жизненную силу?
+385,655c3c921d25c25d9e96d118,08:13:54,pwgood,just_Lofda,$cookie
+386,655c3c931d25c25d9e96d119,08:13:55,pwgood,Supibot,"just_lofda, Your daily cookie: Go with the flow will make your transition ever so much easier."
+387,655c3c931d25c25d9e96d11a,08:13:55,pwgood,xwoble,brorAutisme
+388,655c3c9b1d25c25d9e96d11b,08:14:03,pwgood,xwoble,$cookie gift just_Lofda
+389,655c3c9c1d25c25d9e96d11c,08:14:04,pwgood,kwixie_,эммм нууу ребят я рисую
+390,655c3c9d1d25c25d9e96d11d,08:14:05,pwgood,Supibot,"xwoble, Successfully given your cookie for today to just_lofda supiniOkay"
+391,655c3c9f1d25c25d9e96d11e,08:14:07,pwgood,xwoble,catKISS
+392,655c3ca31d25c25d9e96d11f,08:14:11,pwgood,just_Lofda,xwoble catKISS
+393,655c3ca71d25c25d9e96d120,08:14:15,pwgood,kselbot,$cookie gift xwoble
+394,655c3ca81d25c25d9e96d121,08:14:16,pwgood,Supibot,"kselbot, Successfully given your cookie for today to xwoble supiniOkay"
+395,655c3ca91d25c25d9e96d122,08:14:17,pwgood,kselbot,pwgood3
+396,655c3caa1d25c25d9e96d123,08:14:18,pwgood,just_Lofda,$$ catKISS
+397,655c3caa1d25c25d9e96d124,08:14:18,pwgood,Supibot,"👥 just_lofda, Flushed Вы поцеловали catKISS striginae"
+398,655c3cac1d25c25d9e96d125,08:14:20,pwgood,xwoble,omg
+399,655c3cb31d25c25d9e96d126,08:14:27,pwgood,kwixie_,Flushed
+400,655c3cb31d25c25d9e96d127,08:14:27,pwgood,just_Lofda,$$🍪
+401,655c3cb41d25c25d9e96d128,08:14:28,pwgood,Supibot,"👥 just_lofda, Полученное вами печенье: мир может быть вашей устрицей, но это не значит, что вы получите его жемчужину."
+402,655c3cb81d25c25d9e96d129,08:14:32,pwgood,gwesty_,$$🍪
+403,655c3cb91d25c25d9e96d12a,08:14:33,pwgood,Supibot,"@gwesty_ is fed up with studying: 📚✏📚✏📚✏ 📚 (28m, 12s ago)"
+404,655c3cb91d25c25d9e96d12b,08:14:33,pwgood,Supibot,"👥 gwesty_, Justdoit Ваше Justdoit ежедневное Justdoit печенье: Justdoit оставайтесь Justdoit на Justdoit поверхности Justdoit и Justdoit будьте Justdoit общительны. Justdoit Интегрируясь Justdoit с Justdoit настроением Justdoit дня, Justdoit вы Justdoit можете Justdoit стать Justdoit более Justdoit уравновешенным Justdoit и Justdoit разносторонним Justdoit в Justdoit целом. Justdoit"
+405,655c3cba1d25c25d9e96d12c,08:14:34,pwgood,xwoble,"kselbot ppChat спасибоо, как ты?"
+406,655c3cc61d25c25d9e96d12d,08:14:46,pwgood,xwoble,@Supibot think
+407,655c3ccd1d25c25d9e96d12e,08:14:53,pwgood,xwoble,$$ 🍪
+408,655c3ccd1d25c25d9e96d12f,08:14:53,pwgood,kselbot,@xwoble буквально только что со школы пришла Chillin
+409,655c3cce1d25c25d9e96d130,08:14:54,pwgood,Supibot,"👥 xwoble, pwgoodDespair Полученное вами печенье: Пойте и радуйтесь, фортуна вам улыбается."
+410,655c3cd01d25c25d9e96d131,08:14:56,pwgood,just_Lofda,blob
+411,655c3cd61d25c25d9e96d132,08:15:02,pwgood,xwoble,peepoSing
+412,655c3cd71d25c25d9e96d133,08:15:03,pwgood,just_Lofda,$$🌠
+413,655c3cdd1d25c25d9e96d134,08:15:09,pwgood,Supibot,"👥 just_lofda, Сегодня вы можете стать частью стаи сумасшедших собак, которые играют на аккордеонах. Утром не будет лишним смазать голову горячей овсянкой. Ваша главная цель — увеличить свою попугаистость. Попробуйте притвориться шлангом - это обычно помогает"
+414,655c3ce11d25c25d9e96d135,08:15:13,pwgood,xwoble,kselbot PagMan Chillin
+415,655c3ced1d25c25d9e96d136,08:15:25,pwgood,gwesty_,$alias link just_Lofda catKISS
+416,655c3ced1d25c25d9e96d137,08:15:25,pwgood,Supibot,"gwesty_, Successfully linked alias. When the original changes, so will yours. You tried to create a link out of an already linked alias (alias catKISS by snrwitcher_), so I used the original as your template."
+417,655c3cf31d25c25d9e96d138,08:15:31,pwgood,gwesty_,$$ catKISS
+418,655c3cf41d25c25d9e96d139,08:15:32,pwgood,Supibot,"👥 gwesty_, Flushed Вы поцеловали catKISS chernyshewsky_"
+419,655c3cfd1d25c25d9e96d13a,08:15:41,pwgood,gwesty_,chernyshewsky_ catKISS
+420,655c3d061d25c25d9e96d13b,08:15:50,pwgood,xwoble,zevlo ладненько
+421,655c3d0b1d25c25d9e96d13c,08:15:55,pwgood,xwoble,Zevlo
+422,655c3d0e1d25c25d9e96d13d,08:15:58,pwgood,kselbot,@xwoble а ты как вообще ну как воздух как коленках как пол под табуреткой ppChat
+423,655c3d121d25c25d9e96d13e,08:16:02,pwgood,Kel_Fert,$cookie gift kselbot
+424,655c3d121d25c25d9e96d13f,08:16:02,pwgood,Supibot,"kel_fert, Successfully given your cookie for today to kselbot supiniOkay"
+425,655c3d141d25c25d9e96d140,08:16:04,pwgood,xwoble,lol
+426,655c3d281d25c25d9e96d141,08:16:24,pwgood,kselbot,@Kel_Fert omg catKISS спасиба
+427,655c3d2e1d25c25d9e96d142,08:16:30,pwgood,kselbot,$cookie
+428,655c3d2e1d25c25d9e96d143,08:16:30,pwgood,Supibot,"kselbot, Your received cookie: Your high-minded principles spell success."
+429,655c3d351d25c25d9e96d144,08:16:37,pwgood,gwesty_,$$🌠
+430,655c3d361d25c25d9e96d145,08:16:38,pwgood,xwoble,kselbot ppChat у меня вообще все Zaebok ppChat
+431,655c3d361d25c25d9e96d146,08:16:38,pwgood,Supibot,"👥 gwesty_, Рекомендуется съесть большую коробку сигар. Звезды советуют вам поддерживать баланс между пивом и самогоном, чтобы оставаться естественным. Если вам скучно, попробуйте вызвать полицию и поговорить с ней о половых извращениях. Будьте благоразумны как конь"
+432,655c3d431d25c25d9e96d147,08:16:51,pwgood,xwoble,$$ 🌠
+433,655c3d441d25c25d9e96d148,08:16:52,pwgood,Supibot,"👥 xwoble, Рекомендуется избегать отношений с людьми старше двадцати лет – они могут быть агрессивными или сумасшедшими! Этот день подходит для того, чтобы надеть костюм клоуна и отправиться в интернет. Если у вас появились проблемы, попробуйте ударить себя об угол холодильника"
+434,655c3d451d25c25d9e96d149,08:16:53,pwgood,kselbot,@xwoble Zaebok Zaebok ахеренно
+435,655c3d4b1d25c25d9e96d14a,08:16:59,pwgood,xwoble,Zaebok
+436,655c3d4e1d25c25d9e96d14b,08:17:02,pwgood,kselbot,$$🌠
+437,655c3d4f1d25c25d9e96d14c,08:17:03,pwgood,Supibot,"👥 kselbot, Чтобы увеличить количество ваших зубов, выпейте 5 л керосина. Звезды советуют иметь два ануса. Вы можете стать частью большого мира фетишистов — например, поехать работать учителем музыки в Тверь. Возможны посещения салона для собак с целью улучшения внешности"
+438,655c3d621d25c25d9e96d14d,08:17:22,pwgood,kselbot,KEKVV BeerTime пью керосин
+439,655c3d691d25c25d9e96d14e,08:17:29,pwgood,xwoble,@Supibot а я буду общаться RAGEY
+440,655c3d6d1d25c25d9e96d14f,08:17:33,pwgood,gwesty_,"@Supibot BOGGED ало? Полиция? Да-да, что вы думаете о половых извращениях?"
+441,655c3d831d25c25d9e96d150,08:17:55,pwgood,Kel_Fert,$study
+442,655c3d841d25c25d9e96d151,08:17:56,pwgood,Supibot,kel_fert is now studying: 📚
+443,655c3d911d25c25d9e96d152,08:18:09,pwgood,xwoble,Kel_Fert look удачи
+444,655c3d931d25c25d9e96d153,08:18:11,pwgood,gwesty_,BOGGED что? Какой ебанутый? Вы обо мне? Какая дурка?
+445,655c3d9c1d25c25d9e96d154,08:18:20,pwgood,just_Lofda,blob пью
+446,655c3da11d25c25d9e96d155,08:18:25,pwgood,xwoble,blob
+447,655c3da91d25c25d9e96d156,08:18:33,pwgood,just_Lofda,ваду Water
+448,655c3daa1d25c25d9e96d157,08:18:34,pwgood,Pion_Limon,"wires моя любимая часть пробников, где ты приходишь к 9, а не к 8 как обычно"
+449,655c3db21d25c25d9e96d158,08:18:42,pwgood,kselbot,$weather
+450,655c3db31d25c25d9e96d159,08:18:43,pwgood,Supibot,"kselbot, Perm, Perm Krai, Russia (now): 🌧️ -5.97°C, feels like -12.97°C. Cloud cover: 75%. E wind speed: 7 m/s. No wind gusts. Humidity: 86%. It is currently snowing, 1mm/h. Air pressure: 1013 hPa. Sun sets in 6h, 29m. ⚠️ Weather alerts: Black ice, Extreme temperature value, Rain, Snow/Ice."
+451,655c3dbf1d25c25d9e96d15a,08:18:55,pwgood,xwoble,$weather
+452,655c3dc01d25c25d9e96d15b,08:18:56,pwgood,Supibot,"xwoble, Minsk, Belarus (now): ️☁️ -7.14°C, feels like -11.81°C. Cloud cover: 59%. NE wind speed: 2.77 m/s. Wind gusts: up to 6.21 m/s. Humidity: 72%. No precipitation right now. Air pressure: 1017 hPa. Sun rises in 28m, 26s."
+453,655c3dc71d25c25d9e96d15c,08:19:03,pwgood,kselbot,Всё на улице замело снегом URA
+454,655c3dd31d25c25d9e96d15d,08:19:15,pwgood,Pion_Limon,"wires и угадайте что я сделал. Да правильно, пришëл туда в 8 часов"
+455,655c3dde1d25c25d9e96d15e,08:19:26,pwgood,Pion_Limon,Это pipec
+456,655c3ddf1d25c25d9e96d15f,08:19:27,pwgood,xwoble,@kselbot URA
+457,655c3de41d25c25d9e96d160,08:19:32,pwgood,xwoble,@Pion_Limon lol
+458,655c3df61d25c25d9e96d161,08:19:50,pwgood,Pion_Limon,lol это буквально моë лицо сейчас
+459,655c3dfa1d25c25d9e96d162,08:19:54,pwgood,xwoble,lol
+460,655c3e001d25c25d9e96d163,08:20:00,pwgood,Pion_Limon,lol
+461,655c3e081d25c25d9e96d164,08:20:08,pwgood,kselbot,снег peepoSnow > look inside > ноги очень сильно болят ходить по нему wires
+462,655c3e0e1d25c25d9e96d165,08:20:14,pwgood,gwesty_,@Pion_Limon forsenLaughingAtYou
+463,655c3e121d25c25d9e96d166,08:20:18,pwgood,kselbot,lol
+464,655c3e1a1d25c25d9e96d167,08:20:26,pwgood,xwoble,!осень
+465,655c3e1a1d25c25d9e96d168,08:20:26,pwgood,PWGud,@xwoble Осень закончится через 9 дней 15 часов 39 минут 33 секунды sadCat
+466,655c3e201d25c25d9e96d169,08:20:32,pwgood,gwesty_,@kselbot HUH болят?
+467,655c3e201d25c25d9e96d16a,08:20:32,pwgood,xwoble,pipec
+468,655c3e221d25c25d9e96d16b,08:20:34,pwgood,Pion_Limon,HARAM офлайн чат уже не тот
+469,655c3e301d25c25d9e96d16c,08:20:48,pwgood,abi69,rar REBYATA
+470,655c3e301d25c25d9e96d16d,08:20:48,pwgood,Supibot,"@abi69 finished their beauty sleep: надо выспаться catSleep 💤 (9h, 45m ago)"
+471,655c3e351d25c25d9e96d16e,08:20:53,pwgood,xwoble,abi69 rar
+472,655c3e3a1d25c25d9e96d16f,08:20:58,pwgood,kselbot,@kselbot устают очень быстро и начинают болеть pipec
+473,655c3e3c1d25c25d9e96d170,08:21:00,pwgood,just_Lofda,$$rcPooshka
+474,655c3e3e1d25c25d9e96d171,08:21:02,pwgood,Supibot,"just_lofda, https://clips.twitch.tv/VivaciousHedonisticWoodpeckerLitty-MXNE4Mmx5FkNDHXP"
+475,655c3e401d25c25d9e96d172,08:21:04,pwgood,Pion_Limon,abi69 rar
+476,655c3e431d25c25d9e96d173,08:21:07,pwgood,gwesty_,@Pion_Limon Не тот? Давайте тогда разговаривать о членах
+477,655c3e481d25c25d9e96d174,08:21:12,pwgood,kselbot,@abi69 rar rar rar
+478,655c3e4a1d25c25d9e96d175,08:21:14,pwgood,gwesty_,ppChat
+479,655c3e4f1d25c25d9e96d176,08:21:19,pwgood,pickless11,а всегда арты были такими популярными для заработка?
+480,655c3e4f1d25c25d9e96d177,08:21:19,pwgood,kselbot,AAAA ТОЛЬКО НЕ ОПЯТЬ ЧЛЕНЫ
+481,655c3e531d25c25d9e96d178,08:21:23,pwgood,Pion_Limon,@gwesty_ YESIDOTHINKSO давайтк
+482,655c3e531d25c25d9e96d179,08:21:23,pwgood,gwesty_,AAAA
+483,655c3e551d25c25d9e96d17a,08:21:25,pwgood,pickless11,как люди цены ломят жесть просто
+484,655c3e561d25c25d9e96d17b,08:21:26,pwgood,gwesty_,AAAA 󠀀
+485,655c3e601d25c25d9e96d17c,08:21:36,pwgood,Pion_Limon,MEGALUL
+486,655c3e6d1d25c25d9e96d17d,08:21:49,pwgood,gwesty_,Pion_Limon а какой у тебя длинны pwgoodSmug
+487,655c3e761d25c25d9e96d17e,08:21:58,pwgood,xwoble,@gwesty_ look
+488,655c3e761d25c25d9e96d17f,08:21:58,pwgood,StreamElements,"📣 Присоединяйся, чтобы не пропустить стримы: Telegram: baad.pw/tg | ВКонтакте: baad.pw/vk"
+489,655c3e761d25c25d9e96d180,08:21:58,pwgood,abi69,@Pion_Limon Когда я вчера зашла в чат разговоры тоже ушли в члены Hmm
+490,655c3e8a1d25c25d9e96d181,08:22:18,pwgood,abi69,xwoble Pion_Limon kselbot rar cheso
+491,655c3e8a1d25c25d9e96d182,08:22:18,pwgood,just_Lofda,gwesty_ Доброеутро длинночлен peepoHey KEKVV
+492,655c3e8c1d25c25d9e96d183,08:22:20,pwgood,gwesty_,abi69 это он виноват 👉 Pion_Limon
+493,655c3e961d25c25d9e96d184,08:22:30,pwgood,kselbot,можно хотябы с перерывами в неделю PLEASE
+494,655c3e981d25c25d9e96d185,08:22:32,pwgood,Pion_Limon,pipec
+495,655c3e991d25c25d9e96d186,08:22:33,pwgood,gwesty_,just_Lofda peepoHey peepoHappier
+496,655c3e9a1d25c25d9e96d187,08:22:34,pwgood,kselbot,ну или через день
+497,655c3e9b1d25c25d9e96d188,08:22:35,pwgood,xwoble,Pion_Limon а какой у тебя длинны look
+498,655c3e9f1d25c25d9e96d189,08:22:39,pwgood,xwoble,look
+499,655c3ea21d25c25d9e96d18a,08:22:42,pwgood,gwesty_,Да
+500,655c3ea41d25c25d9e96d18b,08:22:44,pwgood,kselbot,look
+501,655c3ea41d25c25d9e96d18c,08:22:44,pwgood,gwesty_,look
+502,655c3ea51d25c25d9e96d18d,08:22:45,pwgood,abi69,look
+503,655c3ea71d25c25d9e96d18e,08:22:47,pwgood,Pion_Limon,@xwoble Достаточной look
+504,655c3eab1d25c25d9e96d18f,08:22:51,pwgood,gwesty_,look 󠀀
+505,655c3ead1d25c25d9e96d190,08:22:53,pwgood,MbIshka_PupbIshka_,look
+506,655c3eae1d25c25d9e96d191,08:22:54,pwgood,xwoble,Spravedlivo
+507,655c3eb21d25c25d9e96d192,08:22:58,pwgood,xwoble,look
+508,655c3eb51d25c25d9e96d193,08:23:01,pwgood,gwesty_,Ты цыфрами назови look
+509,655c3eb91d25c25d9e96d194,08:23:05,pwgood,xwoble,look 󠀀
+510,655c3ebd1d25c25d9e96d195,08:23:09,pwgood,Pion_Limon,look а у вас?
+511,655c3ebe1d25c25d9e96d196,08:23:10,pwgood,just_Lofda,Достаточно это сколько?
+512,655c3ec71d25c25d9e96d197,08:23:19,pwgood,xwoble,look
+513,655c3eca1d25c25d9e96d198,08:23:22,pwgood,Pion_Limon,@just_Lofda Достаточно это достаточно
+514,655c3ece1d25c25d9e96d199,08:23:26,pwgood,Pion_Limon,look
+515,655c3ed81d25c25d9e96d19a,08:23:36,pwgood,xwoble,look 󠀀
+516,655c3ed91d25c25d9e96d19b,08:23:37,pwgood,kselbot,look 2 метра
+517,655c3edf1d25c25d9e96d19c,08:23:43,pwgood,abi69,Есть что-то романтичное в поездке в течении полутора часика в трамвайчике под аудиокнигу Listening
+518,655c3ee11d25c25d9e96d19d,08:23:45,pwgood,xwoble,monkaOMEGA Clap
+519,655c3ee31d25c25d9e96d19e,08:23:47,pwgood,gwesty_,Из-за вчерашнего инцидента пол чата знают длинну моего peepoShy
+520,655c3eea1d25c25d9e96d19f,08:23:54,pwgood,xwoble,wtf
+521,655c3ef21d25c25d9e96d1a0,08:24:02,pwgood,abi69,А потом ещё полтора часа в автобусе puke
+522,655c3ef41d25c25d9e96d1a1,08:24:04,pwgood,xwoble,"@gwesty_ я не знаю, скажи look"
+523,655c3efa1d25c25d9e96d1a2,08:24:10,pwgood,just_Lofda,19
+524,655c3efc1d25c25d9e96d1a3,08:24:12,pwgood,just_Lofda,84
+525,655c3efd1d25c25d9e96d1a4,08:24:13,pwgood,gwesty_,xwoble 19cm
+526,655c3efe1d25c25d9e96d1a5,08:24:14,pwgood,just_Lofda,1984
+527,655c3f021d25c25d9e96d1a6,08:24:18,pwgood,xwoble,PagMan
+528,655c3f071d25c25d9e96d1a7,08:24:23,pwgood,xwoble,lol
+529,655c3f0a1d25c25d9e96d1a8,08:24:26,pwgood,Pion_Limon,"@kselbot Это через чур, таким агригатом ты буквально можешь еë убить(или его rar)"
+530,655c3f0f1d25c25d9e96d1a9,08:24:31,pwgood,Pion_Limon,rar
+531,655c3f0f1d25c25d9e96d1aa,08:24:31,pwgood,abi69,@gwesty_ Я запомнил 1984
+532,655c3f101d25c25d9e96d1ab,08:24:32,pwgood,xwoble,rar
+533,655c3f171d25c25d9e96d1ac,08:24:39,pwgood,MbIshka_PupbIshka_,"kselbot, look"
+534,655c3f211d25c25d9e96d1ad,08:24:49,pwgood,gwesty_,Теперь пол чата и хвобля знают длинну моего nyooo
+535,655c3f221d25c25d9e96d1ae,08:24:50,pwgood,xwoble,19см 84 мм
+536,655c3f231d25c25d9e96d1af,08:24:51,pwgood,just_Lofda,А как ты мерил pleep
+537,655c3f281d25c25d9e96d1b0,08:24:56,pwgood,xwoble,1984
+538,655c3f291d25c25d9e96d1b1,08:24:57,pwgood,gwesty_,Я слишком разговорчивый
+539,655c3f321d25c25d9e96d1b2,08:25:06,pwgood,gwesty_,$lurk
+540,655c3f331d25c25d9e96d1b3,08:25:07,pwgood,Supibot,gwesty_ is now lurking: 👥
+541,655c3f361d25c25d9e96d1b4,08:25:10,pwgood,xwoble,ppChat разговоры про члены
+542,655c3f381d25c25d9e96d1b5,08:25:12,pwgood,kselbot,"@gwesty_ я это записала, пойдёт туда куда надо когда тебя забанят PepoG"
+543,655c3f3a1d25c25d9e96d1b6,08:25:14,pwgood,just_Lofda,URA
+544,655c3f3c1d25c25d9e96d1b7,08:25:16,pwgood,xwoble,VanishMe
+545,655c3f411d25c25d9e96d1b8,08:25:21,pwgood,abi69,ppChat
+546,655c3f471d25c25d9e96d1b9,08:25:27,pwgood,Pion_Limon,ppChat
+547,655c3f481d25c25d9e96d1ba,08:25:28,pwgood,kselbot,@MbIshka_PupbIshka_ look
+548,655c3f491d25c25d9e96d1bb,08:25:29,pwgood,just_Lofda,ppChat
+549,655c3f4a1d25c25d9e96d1bc,08:25:30,pwgood,gwesty_,kselbot а зачем меня банить monkaCat
+550,655c3f4a1d25c25d9e96d1bd,08:25:30,pwgood,Supibot,@gwesty_ turned off the lurk mode: 👥 (23.43s ago)
+551,655c3f571d25c25d9e96d1be,08:25:43,pwgood,kselbot,@gwesty_ я на будущее
+552,655c3f5e1d25c25d9e96d1bf,08:25:50,pwgood,xwoble,PepoG
+553,655c3f611d25c25d9e96d1c0,08:25:53,pwgood,MbIshka_PupbIshka_,"@kselbot, look дс"
+554,655c3f681d25c25d9e96d1c1,08:26:00,pwgood,just_Lofda,gwesty_ За большой член gachiFight
+555,655c3f6d1d25c25d9e96d1c2,08:26:05,pwgood,kselbot,@MbIshka_PupbIshka_ я поняла look
+556,655c3f741d25c25d9e96d1c3,08:26:12,pwgood,kselbot,спасибо большое pwgood3
+557,655c3f751d25c25d9e96d1c4,08:26:13,pwgood,just_Lofda,Больше чем у пугода gachiFight
+558,655c3f7a1d25c25d9e96d1c5,08:26:18,pwgood,MbIshka_PupbIshka_,"@kselbot, look Мендальная связь"
+559,655c3f7b1d25c25d9e96d1c6,08:26:19,pwgood,xwoble,POGGERS
+560,655c3f801d25c25d9e96d1c7,08:26:24,pwgood,abi69,Чат Hmm вы читаете/слушаете книга жанра ЛитРПГ?
+561,655c3f861d25c25d9e96d1c8,08:26:30,pwgood,xwoble,huh
+562,655c3f871d25c25d9e96d1c9,08:26:31,pwgood,MbIshka_PupbIshka_,kto
+563,655c3f891d25c25d9e96d1ca,08:26:33,pwgood,abi69,Книги*
+564,655c3f8a1d25c25d9e96d1cb,08:26:34,pwgood,kselbot,я не читаю look
+565,655c3f8b1d25c25d9e96d1cc,08:26:35,pwgood,Pion_Limon,huh
+566,655c3f921d25c25d9e96d1cd,08:26:42,pwgood,xwoble,@kselbot pipec
+567,655c3f991d25c25d9e96d1ce,08:26:49,pwgood,abi69,Okey
+568,655c3fa41d25c25d9e96d1cf,08:27:00,pwgood,kwefir,@gwesty_ PepoG
+569,655c3fa41d25c25d9e96d1d0,08:27:00,pwgood,kselbot,@kselbot согласна pipec
+570,655c3fa51d25c25d9e96d1d1,08:27:01,pwgood,xwoble,литРПГ кто таков stare
+571,655c3faf1d25c25d9e96d1d2,08:27:11,pwgood,xwoble,kwefir look
+572,655c3fb11d25c25d9e96d1d3,08:27:13,pwgood,kselbot,литературное рпг huh
+573,655c3fb61d25c25d9e96d1d4,08:27:18,pwgood,gwesty_,"glorp hackingCD \удалить @kselbot  ""воспоминания""; "" записи"" -о ""мойчлен"" Loading"
+574,655c3fb61d25c25d9e96d1d5,08:27:18,pwgood,xwoble,huh
+575,655c3fb71d25c25d9e96d1d6,08:27:19,pwgood,MbIshka_PupbIshka_,huh
+576,655c3fbf1d25c25d9e96d1d7,08:27:27,pwgood,kwefir,"@xwoble, peepoHey look"
+577,655c3fc31d25c25d9e96d1d8,08:27:31,pwgood,xwoble,glorp
+578,655c3fc71d25c25d9e96d1d9,08:27:35,pwgood,MbIshka_PupbIshka_,glorp
+579,655c3fca1d25c25d9e96d1da,08:27:38,pwgood,Pion_Limon,glorp hackingCD
+580,655c3fcb1d25c25d9e96d1db,08:27:39,pwgood,kselbot,@gwesty_ glorp TeaTime на своих не работает
+581,655c3fce1d25c25d9e96d1dc,08:27:42,pwgood,gwesty_,@gwesty_ $me успешно удалено √
+582,655c3fce1d25c25d9e96d1dd,08:27:42,pwgood,Supibot,"ACTION успешно удалено √ glorp hackingCD \удалить @kselbot ""воспоминания""; "" записи"" -о ""мойчлен"" Loading"
+583,655c3fd11d25c25d9e96d1de,08:27:45,pwgood,xwoble,lol
+584,655c3fde1d25c25d9e96d1df,08:27:58,pwgood,MbIshka_PupbIshka_,lol
+585,655c3fe01d25c25d9e96d1e0,08:28:00,pwgood,xwoble,peepoGiggle
+586,655c3fe31d25c25d9e96d1e1,08:28:03,pwgood,Pion_Limon,lol
+587,655c3fe51d25c25d9e96d1e2,08:28:05,pwgood,just_Lofda,$% У Пугода 17 см
+588,655c3fe61d25c25d9e96d1e3,08:28:06,pwgood,Supibot,"just_lofda, 55.2%"
+589,655c3fe81d25c25d9e96d1e4,08:28:08,pwgood,gwesty_,VanishMe
+590,655c3fea1d25c25d9e96d1e5,08:28:10,pwgood,xwoble,Hmm
+591,655c3fef1d25c25d9e96d1e6,08:28:15,pwgood,xwoble,this
+592,655c3fef1d25c25d9e96d1e7,08:28:15,pwgood,abi69,"Это книги грубо говоря про игру. Тоесть как пример, гг попадает в игру по какой-то причине и живёт живёт ней,ьа там прокачка, повышение уровней, навыки и все такое"
+593,655c3ff81d25c25d9e96d1e8,08:28:24,pwgood,xwoble,Yasno
+594,655c40011d25c25d9e96d1e9,08:28:33,pwgood,gwesty_,$% у пугода меньше 17см
+595,655c40021d25c25d9e96d1ea,08:28:34,pwgood,Supibot,"gwesty_, 48.21%"
+596,655c40041d25c25d9e96d1eb,08:28:36,pwgood,xwoble,не читала никогда lol
+597,655c40061d25c25d9e96d1ec,08:28:38,pwgood,gwesty_,Hmm
+598,655c400a1d25c25d9e96d1ed,08:28:42,pwgood,kselbot,$afk shower <— тарелки и сковородка прямо СЕЙЧАС NOW
+599,655c400a1d25c25d9e96d1ee,08:28:42,pwgood,Supibot,kselbot is now AFK: shower <— тарелки и сковородка прямо СЕЙЧАС NOW
+600,655c400b1d25c25d9e96d1ef,08:28:43,pwgood,xwoble,Hmm
+601,655c401d1d25c25d9e96d1f0,08:29:01,pwgood,gwesty_,$% у пугода больше 17см
+602,655c401d1d25c25d9e96d1f1,08:29:01,pwgood,Supibot,"gwesty_, 79.71%"
+603,655c40211d25c25d9e96d1f2,08:29:05,pwgood,kwefir,@abi69 Звучит интересно omg
+604,655c40211d25c25d9e96d1f3,08:29:05,pwgood,xwoble,omg
+605,655c40221d25c25d9e96d1f4,08:29:06,pwgood,gwesty_,Hmm
+606,655c40231d25c25d9e96d1f5,08:29:07,pwgood,voxelll_,$% у пугода 19.5 см
+607,655c40241d25c25d9e96d1f6,08:29:08,pwgood,Supibot,"voxelll_, 82.1%"
+608,655c40271d25c25d9e96d1f7,08:29:11,pwgood,xwoble,omg 󠀀
+609,655c40311d25c25d9e96d1f8,08:29:21,pwgood,kwefir,SHTO
+610,655c403e1d25c25d9e96d1f9,08:29:34,pwgood,abi69,"Просто меня брат лет 5 назад подсадил на этот жанр.... вот.. слушаю, читать не всегда удобно"
+611,655c403e1d25c25d9e96d1fa,08:29:34,pwgood,xwoble,@Supibot PepoG записали
+612,655c40501d25c25d9e96d1fb,08:29:52,pwgood,kwefir,PepoG
+613,655c40551d25c25d9e96d1fc,08:29:57,pwgood,voxelll_,pepoG
+614,655c40571d25c25d9e96d1fd,08:29:59,pwgood,MbIshka_PupbIshka_,PepoG
+615,655c40591d25c25d9e96d1fe,08:30:01,pwgood,PWGud,peepoShy
+616,655c40591d25c25d9e96d1ff,08:30:01,pwgood,abi69,Правда жаль что хорошие серии книг приходится прям отбирать
+617,655c405a1d25c25d9e96d200,08:30:02,pwgood,gwesty_,@voxelll_ На 5мм больше моего nyooo
+618,655c405b1d25c25d9e96d201,08:30:03,pwgood,voxelll_,PepoG
+619,655c405c1d25c25d9e96d202,08:30:04,pwgood,Shi4ulI,hyhrya
+620,655c40631d25c25d9e96d203,08:30:11,pwgood,kwefir,$% 19.7
+621,655c40641d25c25d9e96d204,08:30:12,pwgood,Supibot,"kwefir, 0.39%"
+622,655c406b1d25c25d9e96d205,08:30:19,pwgood,voxelll_,gwesty_ nyooo
+623,655c40701d25c25d9e96d206,08:30:24,pwgood,gwesty_,nyooo
+624,655c40711d25c25d9e96d207,08:30:25,pwgood,kwefir,$% 19.6
+625,655c40711d25c25d9e96d208,08:30:25,pwgood,Supibot,"kwefir, 21.98%"
+626,655c40761d25c25d9e96d209,08:30:30,pwgood,abi69,Shi4ulI hyhrya 🍌
+627,655c407e1d25c25d9e96d20a,08:30:38,pwgood,voxelll_,$% 19.55
+628,655c407e1d25c25d9e96d20b,08:30:38,pwgood,Supibot,"voxelll_, 81.52%"
+629,655c407f1d25c25d9e96d20c,08:30:39,pwgood,Shi4ulI,abi69 cheso Zaebok
+630,655c40861d25c25d9e96d20d,08:30:46,pwgood,MbIshka_PupbIshka_,Zevlo 🍌
+631,655c408c1d25c25d9e96d20e,08:30:52,pwgood,voxelll_,Zevlo 🍌
+632,655c40971d25c25d9e96d20f,08:31:03,pwgood,Pion_Limon,Zevlo 🍌
+633,655c40991d25c25d9e96d210,08:31:05,pwgood,Shi4ulI,frame023delay028s 🍅
+634,655c40a21d25c25d9e96d211,08:31:14,pwgood,gwesty_,EatDaBanana
+635,655c40a21d25c25d9e96d212,08:31:14,pwgood,Yasos_Bibos,$% у меня член больше 15 см
+636,655c40a21d25c25d9e96d213,08:31:14,pwgood,Supibot,"yasos_bibos, 42.96%"
+637,655c40ae1d25c25d9e96d214,08:31:26,pwgood,gwesty_,Yasos_Bibos forsenLaughingAtYou
+638,655c40b01d25c25d9e96d215,08:31:28,pwgood,Yasos_Bibos,Пиздит wrrr
+639,655c40b91d25c25d9e96d216,08:31:37,pwgood,Yasos_Bibos,Должно быть 100
+640,655c40bb1d25c25d9e96d217,08:31:39,pwgood,voxelll_,$% у него больше 18 см 👆
+641,655c40bb1d25c25d9e96d218,08:31:39,pwgood,Supibot,"voxelll_, 9.4%"
+642,655c40bf1d25c25d9e96d219,08:31:43,pwgood,voxelll_,kekb
+643,655c40c31d25c25d9e96d21a,08:31:47,pwgood,abi69,$% того что у меня на самом деле есть член
+644,655c40c31d25c25d9e96d21b,08:31:47,pwgood,Supibot,"abi69, 74.06%"
+645,655c40c51d25c25d9e96d21c,08:31:49,pwgood,gwesty_,kekb
+646,655c40c81d25c25d9e96d21d,08:31:52,pwgood,Shi4ulI,CYBERBULLYING
+647,655c40c81d25c25d9e96d21e,08:31:52,pwgood,abi69,wtf
+648,655c40c91d25c25d9e96d21f,08:31:53,pwgood,kwefir,$% у меня члeн размером с пятиэтажку
+649,655c40c91d25c25d9e96d220,08:31:53,pwgood,Supibot,"kwefir, 76.24%"
+650,655c40ce1d25c25d9e96d221,08:31:58,pwgood,kwefir,wtf
+651,655c40d11d25c25d9e96d222,08:32:01,pwgood,gwesty_,@abi69 MMmmm
+652,655c40d61d25c25d9e96d223,08:32:06,pwgood,MbIshka_PupbIshka_,wtf
+653,655c40db1d25c25d9e96d224,08:32:11,pwgood,kwefir,@Supibot wtf 󠀀
+654,655c40dd1d25c25d9e96d225,08:32:13,pwgood,gwesty_,MMmmm 󠀀
+655,655c40df1d25c25d9e96d226,08:32:15,pwgood,gwesty_,MMmmm
+656,655c40e11d25c25d9e96d227,08:32:17,pwgood,gwesty_,MMmmm 󠀀
+657,655c40e21d25c25d9e96d228,08:32:18,pwgood,abi69,$% % это длина
+658,655c40e21d25c25d9e96d229,08:32:18,pwgood,Supibot,"abi69, 75.48%"
+659,655c40e81d25c25d9e96d22a,08:32:24,pwgood,Yasos_Bibos,@Supibot ok
+660,655c40f61d25c25d9e96d22b,08:32:38,pwgood,abi69,monkaCat
+661,655c40f71d25c25d9e96d22c,08:32:39,pwgood,gwesty_,$% %  - это длина
+662,655c40f71d25c25d9e96d22d,08:32:39,pwgood,Supibot,"gwesty_, 95.47%"
+663,655c40fc1d25c25d9e96d22e,08:32:44,pwgood,gwesty_,Muscle
+664,655c40ff1d25c25d9e96d22f,08:32:47,pwgood,abi69,monkaKot
+665,655c41061d25c25d9e96d230,08:32:54,pwgood,Shi4ulI,Zaebok
+666,655c41091d25c25d9e96d231,08:32:57,pwgood,kwefir,@Supibot monkaOMEGA
+667,655c41101d25c25d9e96d232,08:33:04,pwgood,gwesty_,Muscle 󠀀
+668,655c41121d25c25d9e96d233,08:33:06,pwgood,Yasos_Bibos,@Supibot это в миллиметрах
+669,655c41131d25c25d9e96d234,08:33:07,pwgood,voxelll_,$% хуи сущестчуют
+670,655c41131d25c25d9e96d235,08:33:07,pwgood,Supibot,"voxelll_, 0.78%"
+671,655c41141d25c25d9e96d236,08:33:08,pwgood,gwesty_,Muscle
+672,655c411b1d25c25d9e96d237,08:33:15,pwgood,gwesty_,Muscle 󠀀
+673,655c41201d25c25d9e96d238,08:33:20,pwgood,just_Lofda,$$cock
+674,655c41211d25c25d9e96d239,08:33:21,pwgood,Supibot,"👥 just_lofda, just_lofda's cock is 12.6 cm. Okayeg"
+675,655c41241d25c25d9e96d23a,08:33:24,pwgood,voxelll_,@Supibot NOOOO
+676,655c41251d25c25d9e96d23b,08:33:25,pwgood,just_Lofda,больше
+677,655c41361d25c25d9e96d23c,08:33:42,pwgood,Shi4ulI,$stalk 5upchik
+678,655c41371d25c25d9e96d23d,08:33:43,pwgood,abi69,kwefir BLEB полижу кефирчпк для успукоения
+679,655c41371d25c25d9e96d23e,08:33:43,pwgood,Supibot,"shi4uli, That user was last seen in chat 1h, 32m ago, (twitch-pwgood) their last message: $afk"
+680,655c41411d25c25d9e96d23f,08:33:53,pwgood,gwesty_,$% % ← это длина члена just_Lofda bl
+681,655c41411d25c25d9e96d240,08:33:53,pwgood,Supibot,"gwesty_, 85.51%"
+682,655c41441d25c25d9e96d241,08:33:56,pwgood,kwefir,"@abi69, BLEB"
+683,655c414a1d25c25d9e96d242,08:34:02,pwgood,gwesty_,85 Muscle
+684,655c414f1d25c25d9e96d243,08:34:07,pwgood,Shi4ulI,kwefir BLEB
+685,655c41571d25c25d9e96d244,08:34:15,pwgood,kwefir,"@Shi4ulI, BLEB"
+686,655c41621d25c25d9e96d245,08:34:26,pwgood,just_Lofda,а как вы мерили susplink
+687,655c41651d25c25d9e96d246,08:34:29,pwgood,Shi4ulI,$$ BLEB
+688,655c41651d25c25d9e96d247,08:34:29,pwgood,Supibot,"👥 shi4uli, BLEB вы за блебали BLEB gamdav_"
+689,655c416f1d25c25d9e96d248,08:34:39,pwgood,gwesty_,@just_Lofda Shush
+690,655c417f1d25c25d9e96d249,08:34:55,pwgood,abi69,@just_Lofda Метровкой VanishMe
+691,655c41a81d25c25d9e96d24a,08:35:36,pwgood,Shi4ulI,!vanishstatus
+692,655c41a81d25c25d9e96d24b,08:35:36,pwgood,PWGud,@Shi4ulI VanishMe Счетчик исчезновений Shi4ulI: 0; Следующий мут на 1 секунду
+693,655c41aa1d25c25d9e96d24c,08:35:38,pwgood,gwesty_,Shush 󠀀
+694,655c41b71d25c25d9e96d24d,08:35:51,pwgood,Shi4ulI,wrrr wrrr wrrr
+695,655c41c21d25c25d9e96d24e,08:36:02,pwgood,abi69,hyperWOW проезжаю мимо моря и тут такое небо рассветное красивое
+696,655c41d11d25c25d9e96d24f,08:36:17,pwgood,Shi4ulI,Zaebok
+697,655c41d61d25c25d9e96d250,08:36:22,pwgood,kwixie_,Life
+698,655c41df1d25c25d9e96d251,08:36:31,pwgood,kwefir,Life
+699,655c41df1d25c25d9e96d252,08:36:31,pwgood,gwesty_,Life
+700,655c41e21d25c25d9e96d253,08:36:34,pwgood,abi69,Life
+701,655c41f51d25c25d9e96d254,08:36:53,pwgood,neizyum,Life
+702,655c41f61d25c25d9e96d255,08:36:54,pwgood,kwefir,"@gwesty_, peepoHey pleep Кстати привет! wrrr"
+703,655c41f71d25c25d9e96d256,08:36:55,pwgood,just_Lofda,а если серьёзно Hmm
+704,655c420a1d25c25d9e96d257,08:37:14,pwgood,gwesty_,kwefir wrrr peepoHappy peepoHappier
+705,655c42111d25c25d9e96d258,08:37:21,pwgood,kwefir,wrrr
+706,655c42151d25c25d9e96d259,08:37:25,pwgood,Shi4ulI,plenk
+707,655c42191d25c25d9e96d25a,08:37:29,pwgood,gwesty_,peepoHey peepoHappier
+708,655c42201d25c25d9e96d25b,08:37:36,pwgood,Yasos_Bibos,@abi69 Куда едешь? hyperWOW
+709,655c42211d25c25d9e96d25c,08:37:37,pwgood,voxelll_,Pop corn 🪞 cock porn MMmmm
+710,655c42291d25c25d9e96d25d,08:37:45,pwgood,gwesty_,MMmmm
+711,655c422a1d25c25d9e96d25e,08:37:46,pwgood,kwefir,MMmmm
+712,655c42361d25c25d9e96d25f,08:37:58,pwgood,just_Lofda,"по первой ссылке по запросу ""измерение члена"" у меня чуть ли не 16 huh VanishMe"
+713,655c423e1d25c25d9e96d260,08:38:06,pwgood,SaladGamer_,GoodMorning
+714,655c423f1d25c25d9e96d261,08:38:07,pwgood,Supibot,"@saladgamer_ feels well rested: REBYATA catKISS wrrr 💤 (8h, 22m ago)"
+715,655c42481d25c25d9e96d262,08:38:16,pwgood,abi69,"Yasos_Bibos на практику SAJ , но я не думаю что сегодня нам дадут вина..."
+716,655c42501d25c25d9e96d263,08:38:24,pwgood,kwefir,"@SaladGamer_, 🥗 GAMING peepoHey pleep С добрым утром!"
+717,655c425e1d25c25d9e96d264,08:38:38,pwgood,abi69,SaladGamer_ GoodMorning rar
+718,655c426f1d25c25d9e96d265,08:38:55,pwgood,SaladGamer_,kwefir abi69   peepoHey rar
+719,655c42741d25c25d9e96d266,08:39:00,pwgood,Yasos_Bibos,@abi69 wtf. Что за практика такая?
+720,655c42811d25c25d9e96d267,08:39:13,pwgood,Yasos_Bibos,wtf
+721,655c429d1d25c25d9e96d268,08:39:41,pwgood,Shi4ulI,plinkVibe
+722,655c42ad1d25c25d9e96d269,08:39:57,pwgood,just_Lofda,OFFLINECHAT Сегодня без пенисов? stop
+723,655c42b01d25c25d9e96d26a,08:40:00,pwgood,abi69,"@abi69 Ну я технолог винодел... в теории буду. У меня практика на микро заводите, который делает эксперементальные вина. Но к"
+724,655c42c21d25c25d9e96d26b,08:40:18,pwgood,gwesty_,@just_Lofda Мне хватит уже Chillin
+725,655c42cc1d25c25d9e96d26c,08:40:28,pwgood,kwixie_,@just_Lofda уже было
+726,655c42d21d25c25d9e96d26d,08:40:34,pwgood,kwixie_,осталось про бессмертие
+727,655c42de1d25c25d9e96d26e,08:40:46,pwgood,Yasos_Bibos,@abi69 Pag
+728,655c42e41d25c25d9e96d26f,08:40:52,pwgood,abi69,Но сейчас я вероятно буду только в лаборатории анализы виноматериала делать
+729,655c42ec1d25c25d9e96d270,08:41:00,pwgood,Yasos_Bibos,Pag 󠀀
+730,655c42f71d25c25d9e96d271,08:41:11,pwgood,just_Lofda,я бы хотел быть компьютером НО НЕ КОПИЕЙ
+731,655c42fe1d25c25d9e96d272,08:41:18,pwgood,kwixie_,"значит так, чат, я думаю что бессмертие..."
+732,655c43051d25c25d9e96d273,08:41:25,pwgood,just_Lofda,forsenExplainingHow
+733,655c43061d25c25d9e96d274,08:41:26,pwgood,Shi4ulI,abi69 Zaebok
+734,655c430f1d25c25d9e96d275,08:41:35,pwgood,abi69,Shush kwixie_
+735,655c43181d25c25d9e96d276,08:41:44,pwgood,gwesty_,"@kwixie_ Бессмертие, по моему мнению,  это не очень хорошо если смотреть со стороны моей теории goslingExplainingHow"
+736,655c431c1d25c25d9e96d277,08:41:48,pwgood,abi69,PLEASE
+737,655c43221d25c25d9e96d278,08:41:54,pwgood,just_Lofda,gwesty_ SUKAAAA
+738,655c432e1d25c25d9e96d279,08:42:06,pwgood,gwesty_,pog
+739,655c43361d25c25d9e96d27a,08:42:14,pwgood,abi69,Pominki тема бессмертия
+740,655c433f1d25c25d9e96d27b,08:42:23,pwgood,gwesty_,Если смотреть с научной точки зрения pog
+741,655c43471d25c25d9e96d27c,08:42:31,pwgood,gwesty_,pog
+742,655c434a1d25c25d9e96d27d,08:42:34,pwgood,gwesty_,pog 󠀀
+743,655c43511d25c25d9e96d27e,08:42:41,pwgood,kwefir,$afk ppPoof
+744,655c43511d25c25d9e96d27f,08:42:41,pwgood,Supibot,kwefir is now AFK: ppPoof
+745,655c435d1d25c25d9e96d280,08:42:53,pwgood,SaladGamer_,*holiday
+746,655c435d1d25c25d9e96d281,08:42:53,pwgood,just_Lofda,Полное бессмертие возможно COPIUM
+747,655c43621d25c25d9e96d282,08:42:58,pwgood,kwixie_,ну мне бы было неприятно осознавать что где-то в мире есть бессмертные люди
+748,655c43641d25c25d9e96d283,08:43:00,pwgood,ppSpin,"@SaladGamer_ SHTO Сегодня празднуют: Всемирный день телевидения, Всемирный день приветствий,             Всемирный день рыболовства            , День бухгалтера в России, День работника налоговых органов Российской Федерации (День налоговика)! Не забудь поздравить всех своих родных с праздником!"
+749,655c43651d25c25d9e96d284,08:43:01,pwgood,gwesty_,COPIUM
+750,655c43671d25c25d9e96d285,08:43:03,pwgood,abi69,"Мда, мы чат Пугода, или члены OR бессмертие"
+751,655c436c1d25c25d9e96d286,08:43:08,pwgood,xwoble,$study никаких разговоров про члены Sadge
+752,655c436c1d25c25d9e96d287,08:43:08,pwgood,Supibot,xwoble is now studying: никаких разговоров про члены Sadge 📚
+753,655c43751d25c25d9e96d288,08:43:17,pwgood,just_Lofda,@kwixie_ Так стань сам бессмертным
+754,655c43811d25c25d9e96d289,08:43:29,pwgood,just_Lofda,NapadaiW
+755,655c43861d25c25d9e96d28a,08:43:34,pwgood,kselbot,ТУДА ТАРЕЛКИ Muscle
+756,655c43861d25c25d9e96d28b,08:43:34,pwgood,Supibot,"@kselbot is no longer AFK: shower <— тарелки и сковородка прямо СЕЙЧАС NOW (14m, 52s ago)"
+757,655c43891d25c25d9e96d28c,08:43:37,pwgood,maaaaannyy,REBYATA rar
+758,655c439b1d25c25d9e96d28d,08:43:55,pwgood,kwixie_,@just_Lofda ну я тогда проиграю по возрасту относительно других бессмертных
+759,655c439b1d25c25d9e96d28e,08:43:55,pwgood,just_Lofda,Человек с большим пенисом не хочет бессмертия nyooo
+760,655c439e1d25c25d9e96d28f,08:43:58,pwgood,abi69,think а можно проверить есть ли печанька не использовав её?
+761,655c43a31d25c25d9e96d290,08:44:03,pwgood,just_Lofda,maaaaannyy rar
+762,655c43a81d25c25d9e96d291,08:44:08,pwgood,kselbot,@maaaaannyy rar rar rar rar мэниэмнисэнимэн
+763,655c43aa1d25c25d9e96d292,08:44:10,pwgood,kselbot,widePeepi
+764,655c43af1d25c25d9e96d293,08:44:15,pwgood,gwesty_,@just_Lofda Хочу wtfChat
+765,655c43b11d25c25d9e96d294,08:44:17,pwgood,maaaaannyy,just_lofda rar
+766,655c43b31d25c25d9e96d295,08:44:19,pwgood,SaladGamer_,maaaaannyy omg omg   rar
+767,655c43b31d25c25d9e96d296,08:44:19,pwgood,abi69,maaaaannyy мэйняяяяя rar wrrr
+768,655c43c01d25c25d9e96d297,08:44:32,pwgood,maaaaannyy,kselbot ксел !!! rar omg
+769,655c43c91d25c25d9e96d298,08:44:41,pwgood,just_Lofda,kwixie_ Думаешь в будущем будет не пофиг на возраст и границы не стерутся?
+770,655c43cb1d25c25d9e96d299,08:44:43,pwgood,maaaaannyy,saladgamer_ САЛААААААТ ПРИВЕЕЕЕТТТТ avacuoHappy
+771,655c43d41d25c25d9e96d29a,08:44:52,pwgood,maaaaannyy,abi69 rar !!
+772,655c43f81d25c25d9e96d29b,08:45:28,pwgood,Yasos_Bibos,URA у меня 5 за сочинение на отьебись PagChomp
+773,655c43ff1d25c25d9e96d29c,08:45:35,pwgood,abi69,URA
+774,655c44011d25c25d9e96d29d,08:45:37,pwgood,just_Lofda,REBYATA не забудьте проверить свою лаволампу
+775,655c44071d25c25d9e96d29e,08:45:43,pwgood,abi69,KRASAVA Yasos_Bibos
+776,655c44161d25c25d9e96d29f,08:45:58,pwgood,kselbot,а можно как-то слушать спотфай в России с пк? Shocked
+777,655c44211d25c25d9e96d2a0,08:46:09,pwgood,just_Lofda,think
+778,655c442a1d25c25d9e96d2a1,08:46:18,pwgood,just_Lofda,не пользуюсь музыкой think
+779,655c44331d25c25d9e96d2a2,08:46:27,pwgood,abi69,"Я более не могу воспринимать лаво лампу нормально, после вчерашнего MMmmm"
+780,655c443b1d25c25d9e96d2a3,08:46:35,pwgood,gwesty_,"glorp TeaTime я всё равно Бессмертный, эти разговоры бессмысленны"
+781,655c443b1d25c25d9e96d2a4,08:46:35,pwgood,Artemu5,"@kselbot, у меня веб версия нормально работает plenk"
+782,655c444f1d25c25d9e96d2a5,08:46:55,pwgood,SaladGamer_,@just_Lofda lol границы уже стерты
+783,655c44501d25c25d9e96d2a6,08:46:56,pwgood,just_Lofda,@gwesty_ поделись бессмертием MOLU
+784,655c44521d25c25d9e96d2a7,08:46:58,pwgood,SaladGamer_,В плане возраста
+785,655c44551d25c25d9e96d2a8,08:47:01,pwgood,kselbot,@Artemu5 у меня не работает pipec
+786,655c445c1d25c25d9e96d2a9,08:47:08,pwgood,SaladGamer_,В плане... Нуу...
+787,655c44611d25c25d9e96d2aa,08:47:13,pwgood,cloudy31_________________,rar
+788,655c44611d25c25d9e96d2ab,08:47:13,pwgood,SaladGamer_,VanishMe   lol
+789,655c44791d25c25d9e96d2ac,08:47:37,pwgood,just_Lofda,ну думаю 16 летний парниша с 98-летней берёзой будет выглядеть странно
+790,655c44881d25c25d9e96d2ad,08:47:52,pwgood,cloudy31_________________,@just_Lofda Возраст всего лишь цифра
+791,655c448f1d25c25d9e96d2ae,08:47:59,pwgood,SaladGamer_,Ну не на столько стерто lol
+792,655c44931d25c25d9e96d2af,08:48:03,pwgood,leviu_4el_,rar
+793,655c44a41d25c25d9e96d2b0,08:48:20,pwgood,abi69,"Я не могу понять, чего водитель трамвая с нами болтает. Только наушники снимаю, а он снова молчит AAAA"
+794,655c44ba1d25c25d9e96d2b1,08:48:42,pwgood,just_Lofda,а ведь существуют люди что делали YOURMOM с деревом Realization
+795,655c44d41d25c25d9e96d2b2,08:49:08,pwgood,cloudy31_________________,Когда будет аналог феминизма но для деревьев
+796,655c44dd1d25c25d9e96d2b3,08:49:17,pwgood,cloudy31_________________,ну или типа того
+797,655c44e41d25c25d9e96d2b4,08:49:24,pwgood,cloudy31_________________,FeelsDankMan
+798,655c44e61d25c25d9e96d2b5,08:49:26,pwgood,abi69,Люди не только с деревом это делали just_Lofda
+799,655c44e81d25c25d9e96d2b6,08:49:28,pwgood,just_Lofda,TTours
+800,655c44fd1d25c25d9e96d2b7,08:49:49,pwgood,just_Lofda,cloudy31_________________ huh
+801,655c44ff1d25c25d9e96d2b8,08:49:51,pwgood,just_Lofda,huh
+802,655c45001d25c25d9e96d2b9,08:49:52,pwgood,just_Lofda,huh 󠀀
+803,655c45011d25c25d9e96d2ba,08:49:53,pwgood,just_Lofda,huh
+804,655c45021d25c25d9e96d2bb,08:49:54,pwgood,just_Lofda,huh 󠀀
+805,655c45031d25c25d9e96d2bc,08:49:55,pwgood,just_Lofda,huh
+806,655c45071d25c25d9e96d2bd,08:49:59,pwgood,just_Lofda,=count
+807,655c45071d25c25d9e96d2be,08:49:59,pwgood,PWGud,@just_Lofda 👀 Сейчас 144 пользователей в чате: Модераторы: 1; Боты: 3; VIP: 5; Зрители: 135
+808,655c45071d25c25d9e96d2bf,08:49:59,pwgood,cloudy31_________________,VanishMe бля забей
+809,655c45111d25c25d9e96d2c0,08:50:09,pwgood,cloudy31_________________,TriHard NO MODS
+810,655c451b1d25c25d9e96d2c1,08:50:19,pwgood,SaladGamer_,@abi69 popCat  Ахаха сейчас наушники снимет и резко молчим. Снимает!    PauseChamp   PauseChamp
+811,655c45291d25c25d9e96d2c2,08:50:33,pwgood,just_Lofda,УРА БЕЗОГРАНИЧЕННОЕ ОБСУЖДЕНИЕ ПЕНИСОВ URA
+812,655c452a1d25c25d9e96d2c3,08:50:34,pwgood,cloudy31_________________,PauseChamp
+813,655c452c1d25c25d9e96d2c4,08:50:36,pwgood,just_Lofda,URA
+814,655c452d1d25c25d9e96d2c5,08:50:37,pwgood,just_Lofda,URA 󠀀
+815,655c45401d25c25d9e96d2c6,08:50:56,pwgood,cloudy31_________________,$gpt средний размер пениса у антилопы
+816,655c45421d25c25d9e96d2c7,08:50:58,pwgood,Supibot,"cloudy31_________________, 🤖 Не удалось найти информацию о среднем размере пениса у антилопы."
+817,655c45441d25c25d9e96d2c8,08:51:00,pwgood,abi69,"Он снова болтал, а я не успела снять наушники RAGEY"
+818,655c45481d25c25d9e96d2c9,08:51:04,pwgood,cloudy31_________________,SAJ
+819,655c45501d25c25d9e96d2ca,08:51:12,pwgood,just_Lofda,$gpt Размер пенис панды
+820,655c45531d25c25d9e96d2cb,08:51:15,pwgood,Supibot,"just_lofda, 🤖 Средний размер пениса панды составляет около 7-10 сантиметров."
+821,655c455c1d25c25d9e96d2cc,08:51:24,pwgood,just_Lofda,"странно, я думал 3-4"
+822,655c45661d25c25d9e96d2cd,08:51:34,pwgood,kselbot,ну зачем вам это braaaah
+823,655c45701d25c25d9e96d2ce,08:51:44,pwgood,abi69,Гектокотиль.... он только у осминогов?
+824,655c45721d25c25d9e96d2cf,08:51:46,pwgood,just_Lofda,чтоб ты спросил pwgoodSmug
+825,655c45721d25c25d9e96d2d0,08:51:46,pwgood,cloudy31_________________,@kselbot Для учебы
+826,655c45761d25c25d9e96d2d1,08:51:50,pwgood,Striginae,Я не понимаю AAAA
+827,655c457e1d25c25d9e96d2d2,08:51:58,pwgood,StreamElements,"📣 Присоединяйся, чтобы не пропустить стримы: Telegram: baad.pw/tg | ВКонтакте: baad.pw/vk"
+828,655c457e1d25c25d9e96d2d3,08:51:58,pwgood,just_Lofda,Striginae peepoHey
+829,655c45861d25c25d9e96d2d4,08:52:06,pwgood,cloudy31_________________,$gpt средний размер пениса у совы/филина
+830,655c45881d25c25d9e96d2d5,08:52:08,pwgood,Striginae,Мне очень кажется что прошлые наушники звучали лкчше
+831,655c45891d25c25d9e96d2d6,08:52:09,pwgood,Supibot,"cloudy31_________________, 🤖 Не удалось найти информацию о среднем размере пениса у совы или филина."
+832,655c458f1d25c25d9e96d2d7,08:52:15,pwgood,Striginae,cloudy31_________________ ебанашка
+833,655c45941d25c25d9e96d2d8,08:52:20,pwgood,cloudy31_________________,Да что
+834,655c45961d25c25d9e96d2d9,08:52:22,pwgood,cloudy31_________________,FeelsStrongMan
+835,655c45981d25c25d9e96d2da,08:52:24,pwgood,RainiF_,$$🍪
+836,655c45991d25c25d9e96d2db,08:52:25,pwgood,Striginae,Биологию учить надо
+837,655c45991d25c25d9e96d2dc,08:52:25,pwgood,Supibot,"@rainif_ is no longer AFK: Bussin (1h, 16m ago)"
+838,655c45991d25c25d9e96d2dd,08:52:25,pwgood,Supibot,"👥 rainif_, pwgoodDespair Ваше ежедневное печенье: иногда два маленьких прыжка лучше, чем один большой."
+839,655c45991d25c25d9e96d2de,08:52:25,pwgood,abi69,$gpt гектокотиль есть только у осминога?
+840,655c459b1d25c25d9e96d2df,08:52:27,pwgood,Supibot,"abi69, 🤖 Да, гектокотиль — уникальный анатомический орган, который имеют только осминоги."
+841,655c45a01d25c25d9e96d2e0,08:52:32,pwgood,RainiF_,Yasno
+842,655c45a11d25c25d9e96d2e1,08:52:33,pwgood,just_Lofda,$gpt Средний размер пениса Орангутна
+843,655c45a31d25c25d9e96d2e2,08:52:35,pwgood,Striginae,У птиц нет пениса
+844,655c45a31d25c25d9e96d2e3,08:52:35,pwgood,Supibot,"just_lofda, 🤖 Средний размер пениса орангутана составляет примерно 5 сантиметров."
+845,655c45a51d25c25d9e96d2e4,08:52:37,pwgood,RainiF_,$$🌠
+846,655c45a61d25c25d9e96d2e5,08:52:38,pwgood,Supibot,"👥 rainif_, Гороскоп рекомендует вам надеть свиную шляпу и отправиться в Мексику. Будьте осторожны с мужчинами, поскольку они умственно отсталые. В этот день нельзя играть с пельменями, потому что они могут обидеться. Лучшее время для того, чтобы начать пускать слюни"
+847,655c45ad1d25c25d9e96d2e6,08:52:45,pwgood,cloudy31_________________,@Striginae Это чат жпт
+848,655c45ae1d25c25d9e96d2e7,08:52:46,pwgood,just_Lofda,Binoculars
+849,655c45b21d25c25d9e96d2e8,08:52:50,pwgood,Striginae,Только у некоторых
+850,655c45b71d25c25d9e96d2e9,08:52:55,pwgood,cloudy31_________________,У него нет биологии KEKW
+851,655c45c51d25c25d9e96d2ea,08:53:09,pwgood,cloudy31_________________,ОН МОЖЕТ ЗНАТЬ ГДЕ У ПТИЦ СКРЫТЫЙ ПЕНИС KEKW
+852,655c45c51d25c25d9e96d2eb,08:53:09,pwgood,abi69,$gpt а можно ли гектокотиль спутать с щупальцем?
+853,655c45c81d25c25d9e96d2ec,08:53:12,pwgood,Supibot,"abi69, ⏳ Нет, гектокотиль нельзя спутать со щупальцем. Гектокотиль - это специализированное щупальце, которое у осминогов находится на третьей паре щупалец и имеет ряд особенностей, таких как наличие присосок и способность автотом"
+854,655c45cd1d25c25d9e96d2ed,08:53:17,pwgood,Striginae,Вот вроде хочется сравнить эти наушники со старым поколением
+855,655c45d31d25c25d9e96d2ee,08:53:23,pwgood,RainiF_,@Supibot wtf
+856,655c45dc1d25c25d9e96d2ef,08:53:32,pwgood,just_Lofda,$gpt Размер пениса хомяка
+857,655c45dd1d25c25d9e96d2f0,08:53:33,pwgood,cloudy31_________________,@Striginae Например у тебя?
+858,655c45de1d25c25d9e96d2f1,08:53:34,pwgood,Supibot,"just_lofda, 🤖 Размер пениса у хомяков очень мал, обычно не превышает 1-2 сантиметра."
+859,655c45e11d25c25d9e96d2f2,08:53:37,pwgood,Striginae,А вот вроде не хочется тратиться на них
+860,655c45e31d25c25d9e96d2f3,08:53:39,pwgood,abi69,Это член осьминога RainiF_
+861,655c45e91d25c25d9e96d2f4,08:53:45,pwgood,Striginae,cloudy31_________________ интересный факт
+862,655c45eb1d25c25d9e96d2f5,08:53:47,pwgood,RainiF_,Smart
+863,655c45ed1d25c25d9e96d2f6,08:53:49,pwgood,Striginae,Я живой человек
+864,655c45ee1d25c25d9e96d2f7,08:53:50,pwgood,cloudy31_________________,$gpt размер
+865,655c45ee1d25c25d9e96d2f8,08:53:50,pwgood,maaaaannyy,brorDance
+866,655c45f01d25c25d9e96d2f9,08:53:52,pwgood,Supibot,"cloudy31_________________, 🤖 Извините, я не могу предоставить информацию о размере пениса у совы или филина, так как это не является общедоступной или широко известной информацией."
+867,655c45f21d25c25d9e96d2fa,08:53:54,pwgood,cloudy31_________________,@Striginae SHTO
+868,655c45fc1d25c25d9e96d2fb,08:54:04,pwgood,cloudy31_________________,@Supibot chto blyat
+869,655c46071d25c25d9e96d2fc,08:54:15,pwgood,just_Lofda,$gpt Размер пениса человека средний
+870,655c460a1d25c25d9e96d2fd,08:54:18,pwgood,Supibot,"just_lofda, 🤖 Средний размер пениса у взрослого мужчины составляет примерно от 12 до 16 сантиметров в эрегированном состоянии."
+871,655c46221d25c25d9e96d2fe,08:54:42,pwgood,cloudy31_________________,$gpt Размер пениса у крокодила гены
+872,655c46241d25c25d9e96d2ff,08:54:44,pwgood,Supibot,"cloudy31_________________, 🤖 Размер пениса у крокодила гены составляет примерно 30-40 сантиметров."
+873,655c462a1d25c25d9e96d300,08:54:50,pwgood,cloudy31_________________,monkaOMEGA
+874,655c462b1d25c25d9e96d301,08:54:51,pwgood,just_Lofda,monkaOMEGA
+875,655c462b1d25c25d9e96d302,08:54:51,pwgood,abi69,"$% % того, что чат перестанет обсуждать члены"
+876,655c462c1d25c25d9e96d303,08:54:52,pwgood,Supibot,"abi69, 21.41%"
+877,655c462e1d25c25d9e96d304,08:54:54,pwgood,just_Lofda,monkaOMEGA 󠀀
+878,655c462f1d25c25d9e96d305,08:54:55,pwgood,RainiF_,monkaOMEGA
+879,655c46321d25c25d9e96d306,08:54:58,pwgood,abi69,Нет шансов
+880,655c463a1d25c25d9e96d307,08:55:06,pwgood,abi69,monkaOMEGA
+881,655c463c1d25c25d9e96d308,08:55:08,pwgood,gwesty_,@Supibot monkaOMEGA
+882,655c464c1d25c25d9e96d309,08:55:24,pwgood,Striginae,Короче хуйня какая-то наушники
+883,655c464c1d25c25d9e96d30a,08:55:24,pwgood,just_Lofda,ВСПОМНИЛ ФАКТ ПРО ВЕРТОЛЁТ И КРОКОДИЛОВ kekb
+884,655c46501d25c25d9e96d30b,08:55:28,pwgood,kselbot,braaaah зразу когда я впн выклбчаю спотифай тоже braaaah
+885,655c46581d25c25d9e96d30c,08:55:36,pwgood,Striginae,Либо я реально не привык нихуя
+886,655c465c1d25c25d9e96d30d,08:55:40,pwgood,abi69,$afk в этом чате я узнала слишком много monkaOMEGA
+887,655c465c1d25c25d9e96d30e,08:55:40,pwgood,Supibot,abi69 is now AFK: в этом чате я узнала слишком много monkaOMEGA
+888,655c46621d25c25d9e96d30f,08:55:46,pwgood,gwesty_,@Supibot Больше среднего Muscle
+889,655c46761d25c25d9e96d310,08:56:06,pwgood,gwesty_,Хотя я не взрослый ещё pwgoodKomu
+890,655c467b1d25c25d9e96d311,08:56:11,pwgood,cloudy31_________________,@Supibot @Striginae Ну и какого было видеть порно с... этим catDespair
+891,655c46941d25c25d9e96d312,08:56:36,pwgood,just_Lofda,SUKAAAA gwesty_
+892,655c46a71d25c25d9e96d313,08:56:55,pwgood,just_Lofda,ЧТО ТЫ ЕШЬ ТАМ
+893,655c46b31d25c25d9e96d314,08:57:07,pwgood,cloudy31_________________,то что ел мой ник
+894,655c46bb1d25c25d9e96d315,08:57:15,pwgood,gwesty_,just_Lofda я не ем ничего stare
+895,655c46c31d25c25d9e96d316,08:57:23,pwgood,jrams90_,GoodMorning
+896,655c46c31d25c25d9e96d317,08:57:23,pwgood,Supibot,"@jrams90_ woke up: 🛏💤 (9h, 58m ago)"
+897,655c46c51d25c25d9e96d318,08:57:25,pwgood,xwoble,зачем вам вообще большой член lol
+898,655c46c61d25c25d9e96d319,08:57:26,pwgood,Supibot,"@xwoble is now smarter than most of the people in chat: никаких разговоров про члены Sadge 📚 (14m, 18s ago)"
+899,655c46c91d25c25d9e96d31a,08:57:29,pwgood,cloudy31_________________,"давайте лучше узнавать новое, а не хвастаться СВОИМИ пенисами pog"
+900,655c46ce1d25c25d9e96d31b,08:57:34,pwgood,gwesty_,xwoble Hmm
+901,655c46d31d25c25d9e96d31c,08:57:39,pwgood,just_Lofda,Я не хвастаюсь
+902,655c46dd1d25c25d9e96d31d,08:57:49,pwgood,gwesty_,eShrug
+903,655c46df1d25c25d9e96d31e,08:57:51,pwgood,just_Lofda,blob
+904,655c46e31d25c25d9e96d31f,08:57:55,pwgood,Striginae,cloudy31_________________ чтоб ты понимал
+905,655c46e31d25c25d9e96d320,08:57:55,pwgood,xwoble,lol
+906,655c46e81d25c25d9e96d321,08:58:00,pwgood,just_Lofda,kekb
+907,655c46e91d25c25d9e96d322,08:58:01,pwgood,The_IL_,xwoble это миф чтобы было что рекламировать на пиратских сайтах
+908,655c46e91d25c25d9e96d323,08:58:01,pwgood,gwesty_,Просто так pwgood3
+909,655c46ed1d25c25d9e96d324,08:58:05,pwgood,just_Lofda,=count
+910,655c46ed1d25c25d9e96d325,08:58:05,poal48,orlega,catYoink
+911,655c46ed1d25c25d9e96d326,08:58:05,pwgood,PWGud,@just_Lofda 👀 Сейчас 144 пользователей в чате: Модераторы: 1; Боты: 3; VIP: 5; Зрители: 135
+912,655c46ef1d25c25d9e96d327,08:58:07,pwgood,xwoble,Yasno
+913,655c46f01d25c25d9e96d328,08:58:08,pwgood,cloudy31_________________,lol
+914,655c46f11d25c25d9e96d329,08:58:09,pwgood,Striginae,Там чаще Чебурашка гену ебет
+915,655c46f41d25c25d9e96d32a,08:58:12,pwgood,The_IL_,lol
+916,655c46f61d25c25d9e96d32b,08:58:14,pwgood,just_Lofda,TRI NO MODS
+917,655c46f71d25c25d9e96d32c,08:58:15,pwgood,cloudy31_________________,wtf
+918,655c46f81d25c25d9e96d32d,08:58:16,pwgood,xwoble,lol
+919,655c46fc1d25c25d9e96d32e,08:58:20,pwgood,The_IL_,lol ебун
+920,655c46fe1d25c25d9e96d32f,08:58:22,pwgood,just_Lofda,TriHard NO MODS
+921,655c47161d25c25d9e96d330,08:58:46,pwgood,Striginae,Ладно я обменяю нахуй наушники
+922,655c471b1d25c25d9e96d331,08:58:51,pwgood,xwoble,pipec
+923,655c471e1d25c25d9e96d332,08:58:54,pwgood,Striginae,Старые звучали лучше
+924,655c471f1d25c25d9e96d333,08:58:55,pwgood,just_Lofda,pipec
+925,655c47241d25c25d9e96d334,08:59:00,pwgood,cloudy31_________________,Modding крокодил гена порно смотреть беспла
+926,655c47241d25c25d9e96d335,08:59:00,pwgood,Striginae,Thinking
+927,655c472a1d25c25d9e96d336,08:59:06,pwgood,just_Lofda,Нам не смыть нашего греха
+928,655c472b1d25c25d9e96d337,08:59:07,pwgood,The_IL_,у меня из наушников звук как из помойки
+929,655c472f1d25c25d9e96d338,08:59:11,pwgood,Striginae,Может реально взять внутриканальные
+930,655c47311d25c25d9e96d339,08:59:13,pwgood,xwoble,$rafk посмотрите на ЭТО THIS
+931,655c47311d25c25d9e96d33a,08:59:13,pwgood,Supibot,"xwoble, Your AFK status has been resumed."
+932,655c47351d25c25d9e96d33b,08:59:17,pwgood,The_IL_,И при тс работает только один
+933,655c47371d25c25d9e96d33c,08:59:19,pwgood,gwesty_,@cloudy31_________________ nymnCorn
+934,655c47371d25c25d9e96d33d,08:59:19,pwgood,just_Lofda,$% Размер пениса Ленина
+935,655c47371d25c25d9e96d33e,08:59:19,pwgood,Supibot,"just_lofda, 70.87%"
+936,655c47401d25c25d9e96d33f,08:59:28,pwgood,gwesty_,kekb
+937,655c47431d25c25d9e96d340,08:59:31,pwgood,The_IL_,Но за не имением альтернатив
+938,655c47451d25c25d9e96d341,08:59:33,pwgood,Striginae,just_Lofda Членин получается
+939,655c47461d25c25d9e96d342,08:59:34,pwgood,gwesty_,Как в анекдоте
+940,655c47461d25c25d9e96d343,08:59:34,pwgood,The_IL_,SAJ
+941,655c474f1d25c25d9e96d344,08:59:43,pwgood,just_Lofda,Пенин
+942,655c47581d25c25d9e96d345,08:59:52,pwgood,Striginae,The_IL_ у меня тоже звук как из помойки
+943,655c475b1d25c25d9e96d346,08:59:55,poal48,SaladGamer_,catYoink
+944,655c475c1d25c25d9e96d347,08:59:56,pwgood,Striginae,Но за 18к
+945,655c475f1d25c25d9e96d348,08:59:59,pwgood,Striginae,Sadge
+946,655c47601d25c25d9e96d349,09:00:00,poal48,ppSpin,plinktosis
+947,655c47611d25c25d9e96d34a,09:00:01,pwgood,PWGud,batJAM
+948,655c47661d25c25d9e96d34b,09:00:06,pwgood,just_Lofda,batJAM
+949,655c47671d25c25d9e96d34c,09:00:07,pwgood,gwesty_,batJAM
+950,655c476b1d25c25d9e96d34d,09:00:11,pwgood,The_IL_,Striginae monkaOMEGA
+951,655c47721d25c25d9e96d34e,09:00:18,pwgood,just_Lofda,"ви лив, ви лов, ви лай"
+952,655c47741d25c25d9e96d34f,09:00:20,pwgood,just_Lofda,batJAM
+953,655c477b1d25c25d9e96d350,09:00:27,pwgood,Striginae,Не дай бог сраный Яндекс Маркет не даст их вернуть
+954,655c47801d25c25d9e96d351,09:00:32,pwgood,The_IL_,"у меня за 3.5к через ,2 месяца один наушник сломался"
+955,655c47871d25c25d9e96d352,09:00:39,pwgood,just_Lofda,$$wOmen
+956,655c47871d25c25d9e96d353,09:00:39,pwgood,Supibot,"just_lofda, You tried to run a linked alias, but the original has been deleted!"
+957,655c47891d25c25d9e96d354,09:00:41,pwgood,MrFlint_,forsenAgony
+958,655c47891d25c25d9e96d355,09:00:41,pwgood,The_IL_,и они еще постоянно рассинхронивались
+959,655c47891d25c25d9e96d356,09:00:41,pwgood,Supibot,"@mrflint_ finished their beauty sleep: eh 💤 (9h, 25m ago)"
+960,655c47891d25c25d9e96d357,09:00:41,pwgood,Supibot,"Hey @mrflint_, - I just private messaged you 1 private reminder(s) - make sure to check them out!"
+961,655c478e1d25c25d9e96d358,09:00:46,pwgood,just_Lofda,$$🪦
+962,655c478f1d25c25d9e96d359,09:00:47,pwgood,Supibot,"👥 just_lofda, Он был хорошим чаттером Pominki 👉 kwefir"
+963,655c47971d25c25d9e96d35a,09:00:55,pwgood,cloudy31_________________,DinkDonk почему мы перестали обсуждать члены
+964,655c479d1d25c25d9e96d35b,09:01:01,pwgood,just_Lofda,А
+965,655c479f1d25c25d9e96d35c,09:01:03,pwgood,gwesty_,DinkDonk
+966,655c47a31d25c25d9e96d35d,09:01:07,pwgood,gwesty_,DinkDonk 󠀀
+967,655c47a91d25c25d9e96d35e,09:01:13,pwgood,kselbot,не продолжайте DinkDonk
+968,655c47ac1d25c25d9e96d35f,09:01:16,pwgood,The_IL_,_________ STFU
+969,655c47b21d25c25d9e96d360,09:01:22,pwgood,The_IL_,pwgood3
+970,655c47bd1d25c25d9e96d361,09:01:33,pwgood,just_Lofda,$% Цифра = сколько хватает женщине Clueless
+971,655c47bd1d25c25d9e96d362,09:01:33,pwgood,Supibot,"just_lofda, 81.32%"
+972,655c47c31d25c25d9e96d363,09:01:39,pwgood,just_Lofda,SAJ
+973,655c47c31d25c25d9e96d364,09:01:39,pwgood,Striginae,Просто я аирподсы не хочу покупать потому что я их блять потеряб
+974,655c47c81d25c25d9e96d365,09:01:44,pwgood,Striginae,Потеряю
+975,655c47cc1d25c25d9e96d366,09:01:48,pwgood,MrFlint_,@Supibot monkaOMEGA
+976,655c47cd1d25c25d9e96d367,09:01:49,pwgood,cloudy31_________________,$afk peepoWeirdLeaveIntoGalaxy
+977,655c47cd1d25c25d9e96d368,09:01:49,pwgood,Supibot,cloudy31_________________ is now AFK: peepoWeirdLeaveIntoGalaxy
+978,655c47d31d25c25d9e96d369,09:01:55,pwgood,just_Lofda,Ну лаааднооо VanishMe
+979,655c47ea1d25c25d9e96d36a,09:02:18,pwgood,just_Lofda,В трусах прохладно Prikol
+980,655c47f71d25c25d9e96d36b,09:02:31,pwgood,Striginae,+ я не люблю внутриканальные
+981,655c48141d25c25d9e96d36c,09:03:00,pwgood,cloudy31_________________,PETTHEPEEPO
+982,655c48151d25c25d9e96d36d,09:03:01,pwgood,Supibot,"@cloudy31_________________ is no longer AFK: peepoWeirdLeaveIntoGalaxy (1m, 12s ago)"
+983,655c481b1d25c25d9e96d36e,09:03:07,pwgood,just_Lofda,Что будем обсуждать?
+984,655c481f1d25c25d9e96d36f,09:03:11,pwgood,cloudy31_________________,почему никто не юзает этот эмоут PETTHEPEEPO
+985,655c48251d25c25d9e96d370,09:03:17,pwgood,5upchik,Ayo
+986,655c48251d25c25d9e96d371,09:03:17,pwgood,Supibot,"@5upchik is no longer AFK: (no message) (2h, 2m ago)"
+987,655c48261d25c25d9e96d372,09:03:18,pwgood,cloudy31_________________,он же такой PETTHEPEEPO
+988,655c48261d25c25d9e96d373,09:03:18,pwgood,Striginae,Наушники stare
+989,655c482d1d25c25d9e96d374,09:03:25,pwgood,just_Lofda,Я думаю всем надоели пенисы
+990,655c482e1d25c25d9e96d375,09:03:26,pwgood,gwesty_,PETTHEPEEPO
+991,655c482e1d25c25d9e96d376,09:03:26,pwgood,5upchik,привет друзья
+992,655c483c1d25c25d9e96d377,09:03:40,pwgood,just_Lofda,5upchik привет пенис по разуму peepoHey
+993,655c483e1d25c25d9e96d378,09:03:42,pwgood,gwesty_,5upchik CatHug
+994,655c484a1d25c25d9e96d379,09:03:54,pwgood,RainiF_,накладные наушники за 1к (≈3к сейчас) Chillin вот бы сравнить с чем-нибудь Thinking
+995,655c484e1d25c25d9e96d37a,09:03:58,pwgood,cloudy31_________________,@just_Lofda lol
+996,655c48571d25c25d9e96d37b,09:04:07,pwgood,5upchik,just_Lofda rilaveHi сам ты пенис
+997,655c485e1d25c25d9e96d37c,09:04:14,pwgood,5upchik,gwesty_ CatHug
+998,655c48641d25c25d9e96d37d,09:04:20,pwgood,Striginae,Просто мне не нравится что в этих наушниках звук какой-то мутный
+999,655c48641d25c25d9e96d37e,09:04:20,pwgood,kselbot,@5upchik приарвивет пупчеееек wrrr rar rar
+1000,655c48681d25c25d9e96d37f,09:04:24,pwgood,just_Lofda,На счёт наушников - больно уху долго носить sr
+1001,655c48681d25c25d9e96d380,09:04:24,pwgood,Striginae,Как из ведра
+1002,655c486f1d25c25d9e96d381,09:04:31,pwgood,Striginae,Либо я не привык
+1003,655c486f1d25c25d9e96d382,09:04:31,pwgood,cloudy31_________________,"@5upchik, rar"
+1004,655c487a1d25c25d9e96d383,09:04:42,pwgood,Striginae,Но меня ещё почему-то от звука тошнит
+1005,655c487b1d25c25d9e96d384,09:04:43,pwgood,5upchik,kselbot cloudy31_________________ rar
+1006,655c48891d25c25d9e96d385,09:04:57,pwgood,just_Lofda,я пенис oppenheimerAware
+1007,655c488c1d25c25d9e96d386,09:05:00,pwgood,Striginae,У меня в компьютерных которые в 2 раза дешевле музыка и то лучше
+1008,655c48921d25c25d9e96d387,09:05:06,pwgood,RainiF_,мне почему-то через какое-то время начинает болеть левое ухо pipec
+1009,655c48961d25c25d9e96d388,09:05:10,pwgood,5upchik,oppenheimerAware
+1010,655c48981d25c25d9e96d389,09:05:12,pwgood,cloudy31_________________,блять я реально свин oppenheimerAware
+1011,655c489d1d25c25d9e96d38a,09:05:17,pwgood,RainiF_,но у меня*
+1012,655c489d1d25c25d9e96d38b,09:05:17,pwgood,Striginae,Я понимаю что это наушники вообще не для метала
+1013,655c48a01d25c25d9e96d38c,09:05:20,pwgood,Striginae,Но блять
+1014,655c48aa1d25c25d9e96d38d,09:05:30,pwgood,gwesty_,5upchik кхм-кхм CatLookingAtYou я бы хотел тебе сказать... goslingExplainingHow ПУУУУППППЧЧИИИИИИКИКИК ППРРРИИИРВРЕВЕЕЕТТТТТПТ ppChat
+1015,655c48aa1d25c25d9e96d38e,09:05:30,pwgood,just_Lofda,не слушаю музыку
+1016,655c48ac1d25c25d9e96d38f,09:05:32,pwgood,gwesty_,ppChat
+1017,655c48ae1d25c25d9e96d390,09:05:34,pwgood,gwesty_,ppChat 󠀀
+1018,655c48b01d25c25d9e96d391,09:05:36,pwgood,just_Lofda,качество звука для неженок
+1019,655c48b31d25c25d9e96d392,09:05:39,pwgood,MrFlint_,завтра бесплатное нитро кончится sadCat
+1020,655c48b71d25c25d9e96d393,09:05:43,pwgood,5upchik,peepoChat
+1021,655c48b91d25c25d9e96d394,09:05:45,pwgood,just_Lofda,смотрю видео 2012 года Listening
+1022,655c48c71d25c25d9e96d395,09:05:59,pwgood,Striginae,just_Lofda извините я меломан
+1023,655c48d21d25c25d9e96d396,09:06:10,pwgood,Striginae,А точнее просто большой фанат метала
+1024,655c48d41d25c25d9e96d397,09:06:12,pwgood,just_Lofda,а я палеобой
+1025,655c48dd1d25c25d9e96d398,09:06:21,pwgood,just_Lofda,pwgoodSmug
+1026,655c48f31d25c25d9e96d399,09:06:43,pwgood,Striginae,Бля меня реально тошнит от звука braaaah
+1027,655c48f51d25c25d9e96d39a,09:06:45,pwgood,gwesty_,pwgoodSmug
+1028,655c49071d25c25d9e96d39b,09:07:03,pwgood,gwesty_,@Striginae Puke puke pukIng
+1029,655c490e1d25c25d9e96d39c,09:07:10,pwgood,gwesty_,pukIng
+1030,655c490f1d25c25d9e96d39d,09:07:11,pwgood,5upchik,Ебать я в пустыне
+1031,655c49131d25c25d9e96d39e,09:07:15,pwgood,just_Lofda,Меня не тошнит
+1032,655c49161d25c25d9e96d39f,09:07:18,pwgood,just_Lofda,от звуа
+1033,655c49181d25c25d9e96d3a0,09:07:20,pwgood,5upchik,Пить хочу пиздеееец
+1034,655c49181d25c25d9e96d3a1,09:07:20,pwgood,just_Lofda,зкву
+1035,655c491a1d25c25d9e96d3a2,09:07:22,pwgood,just_Lofda,звука
+1036,655c491f1d25c25d9e96d3a3,09:07:27,pwgood,RainiF_,@5upchik wtf
+1037,655c49231d25c25d9e96d3a4,09:07:31,pwgood,just_Lofda,5upchik Где
+1038,655c49291d25c25d9e96d3a5,09:07:37,pwgood,just_Lofda,скажи свои координаты
+1039,655c492a1d25c25d9e96d3a6,09:07:38,pwgood,RainiF_,5upchik rar
+1040,655c49541d25c25d9e96d3a7,09:08:20,pwgood,just_Lofda,20° северной широты восточной 45° долготы?
+1041,655c49751d25c25d9e96d3a8,09:08:53,pwgood,gwesty_,just_Lofda  Зв.. зв.. з... звуа... FeelsDyslexiaMan  з... з-з... зкву... FeelsDyslexiaMan  зву... зв... з... у... звука brorAutisme
+1042,655c49841d25c25d9e96d3a9,09:09:08,pwgood,just_Lofda,чтож вьжпклысдыд
+1043,655c49861d25c25d9e96d3aa,09:09:10,pwgood,nnmod,plinkVibe
+1044,655c49861d25c25d9e96d3ab,09:09:10,pwgood,Supibot,"@nnmod feels well rested: plinkVibe 💤 (8h, 13m ago)"
+1045,655c49861d25c25d9e96d3ac,09:09:10,pwgood,just_Lofda,окьвьдс
+1046,655c498b1d25c25d9e96d3ad,09:09:15,pwgood,gwesty_,FeelsDyslexiaMan
+1047,655c49991d25c25d9e96d3ae,09:09:29,pwgood,just_Lofda,Adios poof
+1048,655c49a41d25c25d9e96d3af,09:09:40,pwgood,gwesty_,nnmod peepoHey ppSpin
+1049,655c49ac1d25c25d9e96d3b0,09:09:48,pwgood,nnmod,"@gwesty_, hi"
+1050,655c49b41d25c25d9e96d3b1,09:09:56,pwgood,chernyshewsky_,@nnmod rar
+1051,655c49be1d25c25d9e96d3b2,09:10:06,pwgood,nnmod,"@chernyshewsky_, rar"
+1052,655c49d51d25c25d9e96d3b3,09:10:29,pwgood,gwesty_,Watching ffzCursed ← эт что AmnyamSHTO
+1053,655c49db1d25c25d9e96d3b4,09:10:35,pwgood,gwesty_,ffzCursed
+1054,655c49e71d25c25d9e96d3b5,09:10:47,pwgood,5upchik,just_Lofda школа
+1055,655c49fa1d25c25d9e96d3b6,09:11:06,pwgood,just_Lofda,zbh
+1056,655c49fb1d25c25d9e96d3b7,09:11:07,pwgood,5upchik,вот мои координаты
+1057,655c49fc1d25c25d9e96d3b8,09:11:08,pwgood,just_Lofda,что
+1058,655c49fe1d25c25d9e96d3b9,09:11:10,pwgood,just_Lofda,а
+1059,655c4a011d25c25d9e96d3ba,09:11:13,pwgood,5upchik,б
+1060,655c4a061d25c25d9e96d3bb,09:11:18,pwgood,just_Lofda,не пью не ем всю школу
+1061,655c4a081d25c25d9e96d3bc,09:11:20,pwgood,5upchik,RainiF_ rar
+1062,655c4a111d25c25d9e96d3bd,09:11:29,pwgood,5upchik,just_Lofda plenk
+1063,655c4a1f1d25c25d9e96d3be,09:11:43,pwgood,5upchik,ну я тоже
+1064,655c4a231d25c25d9e96d3bf,09:11:47,pwgood,5upchik,не ем
+1065,655c4a241d25c25d9e96d3c0,09:11:48,pwgood,just_Lofda,Ребята вы едите или пьёте во время школы?
+1066,655c4a271d25c25d9e96d3c1,09:11:51,pwgood,gwesty_,rar
+1067,655c4a291d25c25d9e96d3c2,09:11:53,pwgood,5upchik,а Water
+1068,655c4a2c1d25c25d9e96d3c3,09:11:56,pwgood,5upchik,пью
+1069,655c4a321d25c25d9e96d3c4,09:12:02,pwgood,gwesty_,just_Lofda неть stare
+1070,655c4a3a1d25c25d9e96d3c5,09:12:10,pwgood,SaladGamer_,чай иногда с собой беру
+1071,655c4a401d25c25d9e96d3c6,09:12:16,pwgood,5upchik,huh
+1072,655c4a451d25c25d9e96d3c7,09:12:21,pwgood,just_Lofda,"Я не пью не ем, а в туалет хочется каждый урок RAGEY"
+1073,655c4a4e1d25c25d9e96d3c8,09:12:30,pwgood,5upchik,так вода же pwgoodBesplatno
+1074,655c4a5a1d25c25d9e96d3c9,09:12:42,pwgood,5upchik,just_Lofda все наоборот LULW
+1075,655c4a5c1d25c25d9e96d3ca,09:12:44,pwgood,gwesty_,Если попить в шкрле потом в туалет хочется peepoPooPoo а туалет в школе... pipec
+1076,655c4a661d25c25d9e96d3cb,09:12:54,pwgood,just_Lofda,pipec
+1077,655c4a681d25c25d9e96d3cc,09:12:56,pwgood,just_Lofda,pipec 󠀀
+1078,655c4a6a1d25c25d9e96d3cd,09:12:58,pwgood,just_Lofda,pipec
+1079,655c4a6b1d25c25d9e96d3ce,09:12:59,pwgood,just_Lofda,pipec 󠀀
+1080,655c4a6e1d25c25d9e96d3cf,09:13:02,pwgood,just_Lofda,pipec
+1081,655c4a721d25c25d9e96d3d0,09:13:06,pwgood,just_Lofda,=count
+1082,655c4a721d25c25d9e96d3d1,09:13:06,pwgood,gwesty_,pipec
+1083,655c4a721d25c25d9e96d3d2,09:13:06,pwgood,PWGud,@just_Lofda 👀 Сейчас 162 пользователей в чате: Модераторы: 2; Боты: 3; VIP: 6; Зрители: 151
+1084,655c4a751d25c25d9e96d3d3,09:13:09,pwgood,just_Lofda,ОЙ
+1085,655c4a771d25c25d9e96d3d4,09:13:11,pwgood,5upchik,у меня опыт терпилы ещё с детского сада Muscle
+1086,655c4a771d25c25d9e96d3d5,09:13:11,pwgood,just_Lofda,VanishMe
+1087,655c4a821d25c25d9e96d3d6,09:13:22,pwgood,gwesty_,@5upchik Muscle
+1088,655c4a921d25c25d9e96d3d7,09:13:38,pwgood,Samedy_1,GoodMorning
+1089,655c4a921d25c25d9e96d3d8,09:13:38,pwgood,Supibot,"@samedy_1 woke up: rar чааат, будьте добряками, спокойной ночи pwgood3 💤 (8h, 48m ago)"
+1090,655c4a9d1d25c25d9e96d3d9,09:13:49,pwgood,just_Lofda,Вы надеюсь не из под крана пьёте а нормальную кипячёную из дома? NapadaiW
+1091,655c4a9e1d25c25d9e96d3da,09:13:50,pwgood,5upchik,Supibot hi
+1092,655c4aa71d25c25d9e96d3db,09:13:59,pwgood,5upchik,just_Lofda plenk
+1093,655c4aac1d25c25d9e96d3dc,09:14:04,pwgood,just_Lofda,не смейте Puke ть
+1094,655c4ab31d25c25d9e96d3dd,09:14:11,pwgood,gwesty_,pukIng
+1095,655c4ab41d25c25d9e96d3de,09:14:12,pwgood,5upchik,У нас кулеры
+1096,655c4ab51d25c25d9e96d3df,09:14:13,pwgood,gwesty_,pukIng 󠀀
+1097,655c4ab91d25c25d9e96d3e0,09:14:17,pwgood,gwesty_,pukIng
+1098,655c4abd1d25c25d9e96d3e1,09:14:21,pwgood,ReZoort,Zewlo
+1099,655c4ac71d25c25d9e96d3e2,09:14:31,pwgood,gwesty_,Zevlo
+1100,655c4ad11d25c25d9e96d3e3,09:14:41,pwgood,just_Lofda,Может к врачу сходить с таким желанием теалета think
+1101,655c4ad61d25c25d9e96d3e4,09:14:46,pwgood,just_Lofda,туплета
+1102,655c4ad71d25c25d9e96d3e5,09:14:47,pwgood,Striginae,$gpt симптомом чего может быть неприятное(не болезненное) глотание
+1103,655c4ad91d25c25d9e96d3e6,09:14:49,pwgood,just_Lofda,тулебц
+1104,655c4adb1d25c25d9e96d3e7,09:14:51,pwgood,Supibot,"striginae, 🤖 Неприятное глотание может быть симптомом различных проблем, включая горло, небные дуги, пищевод или даже психологические причины, такие как тревога или стресс. Точную причину следует выяснить, обратившись к врачу."
+1105,655c4ae11d25c25d9e96d3e8,09:14:57,pwgood,gwesty_,just_Lofda kekb
+1106,655c4aef1d25c25d9e96d3e9,09:15:11,pwgood,just_Lofda,@Striginae бешенство Pominki
+1107,655c4aef1d25c25d9e96d3ea,09:15:11,pwgood,5upchik,$afk Hmm как долго я буду пить Water
+1108,655c4aef1d25c25d9e96d3eb,09:15:11,pwgood,Supibot,5upchik is now AFK: Hmm как долго я буду пить Water
+1109,655c4af01d25c25d9e96d3ec,09:15:12,pwgood,SaladGamer_,@just_Lofda помню чел в чате рассказывал что он просто воду остаивает и пьёт
+1110,655c4af61d25c25d9e96d3ed,09:15:18,pwgood,SaladGamer_,жив ли он ещё я даже не знаю
+1111,655c4afa1d25c25d9e96d3ee,09:15:22,pwgood,just_Lofda,wtf
+1112,655c4afe1d25c25d9e96d3ef,09:15:26,pwgood,SaladGamer_,lol
+1113,655c4aff1d25c25d9e96d3f0,09:15:27,pwgood,ReZoort,@Supibot Вы умрёте через 2 часа Pominki
+1114,655c4b0b1d25c25d9e96d3f1,09:15:39,pwgood,just_Lofda,так
+1115,655c4b0d1d25c25d9e96d3f2,09:15:41,pwgood,gwesty_,Желанием теалета... FeelsDyslexiaMan туплета... FeelsDyslexiaMan тулебц brorAutisme
+1116,655c4b0d1d25c25d9e96d3f3,09:15:41,pwgood,just_Lofda,люди
+1117,655c4b101d25c25d9e96d3f4,09:15:44,pwgood,just_Lofda,вы
+1118,655c4b1f1d25c25d9e96d3f5,09:15:59,pwgood,Striginae,Короче странно
+1119,655c4b231d25c25d9e96d3f6,09:16:03,pwgood,just_Lofda,Как находите время на упражнения?
+1120,655c4b281d25c25d9e96d3f7,09:16:08,pwgood,just_Lofda,прогулки там
+1121,655c4b2b1d25c25d9e96d3f8,09:16:11,pwgood,Striginae,У меня дыхание немного спертое
+1122,655c4b311d25c25d9e96d3f9,09:16:17,pwgood,SaladGamer_,@just_Lofda LULW
+1123,655c4b371d25c25d9e96d3fa,09:16:23,pwgood,SaladGamer_,всё легко
+1124,655c4b391d25c25d9e96d3fb,09:16:25,pwgood,SaladGamer_,его просто нет
+1125,655c4b3f1d25c25d9e96d3fc,09:16:31,pwgood,The_IL_,nnmod rar
+1126,655c4b3f1d25c25d9e96d3fd,09:16:31,pwgood,gwesty_,BASED
+1127,655c4b411d25c25d9e96d3fe,09:16:33,pwgood,just_Lofda,Smart
+1128,655c4b521d25c25d9e96d3ff,09:16:50,pwgood,nnmod,"@The_IL_, rar"
+1129,655c4b531d25c25d9e96d400,09:16:51,pwgood,just_Lofda,Ну мне же надо сбрасывать кг
+1130,655c4b5d1d25c25d9e96d401,09:17:01,pwgood,just_Lofda,мне сказали до 65 сбрасывать
+1131,655c4b611d25c25d9e96d402,09:17:05,pwgood,just_Lofda,советуют спорт
+1132,655c4b6b1d25c25d9e96d403,09:17:15,pwgood,Yasos_Bibos,SitCouncil
+1133,655c4b731d25c25d9e96d404,09:17:23,pwgood,Striginae,just_Lofda встаёшь утром
+1134,655c4b741d25c25d9e96d405,09:17:24,pwgood,just_Lofda,а времени нет blob
+1135,655c4b941d25c25d9e96d406,09:17:56,pwgood,just_Lofda,@Striginae что я тебе утром сделаю NapadaiW
+1136,655c4b951d25c25d9e96d407,09:17:57,pwgood,gwesty_,"Большую часть дня я... PepoG учусь, учусь, учусь, учусь и учусь и конечно же учусь. А потом домашка, стрим пугода, приготовить поесть, поделать ирл дела и спать pwgoodSleep"
+1137,655c4bc11d25c25d9e96d408,09:18:41,pwgood,SaladGamer_,"Большую часть дня я... PepoG учусь, учусь, учусь, учусь и учусь и конечно же учусь. А потом спать pwgoodSleep"
+1138,655c4bc91d25c25d9e96d409,09:18:49,pwgood,just_Lofda,В 4 утра встават
+1139,655c4bca1d25c25d9e96d40a,09:18:50,pwgood,just_Lofda,?
+1140,655c4bcd1d25c25d9e96d40b,09:18:53,pwgood,gwesty_,Потом проснутся pwgoodWoke и по новой
+1141,655c4bd11d25c25d9e96d40c,09:18:57,pwgood,5upchik,yaderka пустите меня за стаканчиком
+1142,655c4bd21d25c25d9e96d40d,09:18:58,pwgood,Supibot,"@5upchik is no longer AFK: Hmm как долго я буду пить Water (3m, 47s ago)"
+1143,655c4bda1d25c25d9e96d40e,09:19:06,pwgood,5upchik,SAJ
+1144,655c4bed1d25c25d9e96d40f,09:19:25,pwgood,just_Lofda,"о, жнщины исчезли"
+1145,655c4bfa1d25c25d9e96d410,09:19:38,pwgood,5upchik,just_Lofda я тут
+1146,655c4bfc1d25c25d9e96d411,09:19:40,pwgood,xwoble,5upchik yaderka
+1147,655c4bfc1d25c25d9e96d412,09:19:40,pwgood,Supibot,"@xwoble is fed up with studying: никаких разговоров про члены Sadge 📚 (36m, 32s ago)"
+1148,655c4bfd1d25c25d9e96d413,09:19:41,pwgood,5upchik,lol
+1149,655c4bfe1d25c25d9e96d414,09:19:42,pwgood,RainiF_,"уже 20 минут пары прошло, а препода всё ещё нет HUH"
+1150,655c4c011d25c25d9e96d415,09:19:45,pwgood,xwoble,just_Lofda ppPoof
+1151,655c4c071d25c25d9e96d416,09:19:51,pwgood,5upchik,xwoble yaderka
+1152,655c4c0c1d25c25d9e96d417,09:19:56,pwgood,gwesty_,Кстати может на выходных время есть Hmm
+1153,655c4c0d1d25c25d9e96d418,09:19:57,pwgood,just_Lofda,$% yaderka
+1154,655c4c0e1d25c25d9e96d419,09:19:58,pwgood,Supibot,"just_lofda, 25.06%"
+1155,655c4c141d25c25d9e96d41a,09:20:04,pwgood,just_Lofda,че
+1156,655c4c141d25c25d9e96d41b,09:20:04,pwgood,5upchik,$% yaderka
+1157,655c4c151d25c25d9e96d41c,09:20:05,pwgood,Supibot,"5upchik, 8.87%"
+1158,655c4c161d25c25d9e96d41d,09:20:06,pwgood,just_Lofda,че 󠀀
+1159,655c4c171d25c25d9e96d41e,09:20:07,pwgood,xwoble,5upchik ppChat пупчик привет а сколкьо у тебя член ppChat this
+1160,655c4c191d25c25d9e96d41f,09:20:09,pwgood,just_Lofda,да ё
+1161,655c4c281d25c25d9e96d420,09:20:24,pwgood,5upchik,xwoble 1 член пока peepoChat
+1162,655c4c301d25c25d9e96d421,09:20:32,pwgood,xwoble,а размер ppChat
+1163,655c4c3b1d25c25d9e96d422,09:20:43,pwgood,5upchik,нормальный peepoChat
+1164,655c4c3d1d25c25d9e96d423,09:20:45,pwgood,Samedy_1,wtf
+1165,655c4c451d25c25d9e96d424,09:20:53,pwgood,xwoble,ppChat а в фицорках
+1166,655c4c4b1d25c25d9e96d425,09:20:59,pwgood,gwesty_,@5upchik А циферками ppChat
+1167,655c4c4e1d25c25d9e96d426,09:21:02,pwgood,5upchik,xwoble а зачем тебе susplink
+1168,655c4c4f1d25c25d9e96d427,09:21:03,pwgood,xwoble,циферка
+1169,655c4c551d25c25d9e96d428,09:21:09,pwgood,xwoble,интересно ppChat
+1170,655c4c571d25c25d9e96d429,09:21:11,pwgood,5upchik,хочешь 5051
+1171,655c4c591d25c25d9e96d42a,09:21:13,pwgood,trefis,huh
+1172,655c4c5a1d25c25d9e96d42b,09:21:14,pwgood,5upchik,??
+1173,655c4c5f1d25c25d9e96d42c,09:21:19,pwgood,xwoble,NOIDONTTHINKSO
+1174,655c4c641d25c25d9e96d42d,09:21:24,pwgood,xwoble,trefis look
+1175,655c4c661d25c25d9e96d42e,09:21:26,pwgood,5upchik,susplink
+1176,655c4c691d25c25d9e96d42f,09:21:29,pwgood,RainiF_,kekb
+1177,655c4c6a1d25c25d9e96d430,09:21:30,pwgood,neizyum,ppChat привет трефис
+1178,655c4c6c1d25c25d9e96d431,09:21:32,pwgood,5upchik,Trefis
+1179,655c4c731d25c25d9e96d432,09:21:39,pwgood,lydeco_,Trefis
+1180,655c4c771d25c25d9e96d433,09:21:43,pwgood,trefis,hi
+1181,655c4c791d25c25d9e96d434,09:21:45,pwgood,RainiF_,trefis cheso
+1182,655c4c7a1d25c25d9e96d435,09:21:46,pwgood,Yasos_Bibos,Trefis rar
+1183,655c4c7c1d25c25d9e96d436,09:21:48,pwgood,nnmod,"@neizyum, rar"
+1184,655c4c7d1d25c25d9e96d437,09:21:49,pwgood,xwoble,ppChat трефис а у тебя сколько look
+1185,655c4c831d25c25d9e96d438,09:21:55,pwgood,xwoble,VanishMe ладно
+1186,655c4c861d25c25d9e96d439,09:21:58,pwgood,StreamElements,"📣 Присоединяйся, чтобы не пропустить стримы: Telegram: baad.pw/tg | ВКонтакте: baad.pw/vk"
+1187,655c4c861d25c25d9e96d43a,09:21:58,pwgood,ReZoort,Trefis rilaveHi
+1188,655c4c8a1d25c25d9e96d43b,09:22:02,pwgood,neizyum,nnmod CatAHomie
+1189,655c4c8e1d25c25d9e96d43c,09:22:06,pwgood,kwefir,Trefis omg peepoHey pleep
+1190,655c4c8e1d25c25d9e96d43d,09:22:06,pwgood,Supibot,"@kwefir is no longer AFK: ppPoof (39m, 25s ago)"
+1191,655c4c951d25c25d9e96d43e,09:22:13,pwgood,macalban_,Trefis
+1192,655c4c9c1d25c25d9e96d43f,09:22:20,pwgood,Samedy_1,Trefis
+1193,655c4ca11d25c25d9e96d440,09:22:25,pwgood,5upchik,xwoble ppChat хз не мерил
+1194,655c4ca71d25c25d9e96d441,09:22:31,pwgood,xwoble,ppChat
+1195,655c4caf1d25c25d9e96d442,09:22:39,pwgood,gwesty_,5upchik HARAM
+1196,655c4cb71d25c25d9e96d443,09:22:47,pwgood,macalban_,Trefis  Modding
+1197,655c4cd01d25c25d9e96d444,09:23:12,pwgood,cloudy31_________________,@trefis rar
+1198,655c4cd51d25c25d9e96d445,09:23:17,pwgood,5upchik,gwesty_ Gigachad я и так знаю что у меня там все нормально
+1199,655c4cff1d25c25d9e96d446,09:23:59,pwgood,xwoble,$study catDespair
+1200,655c4d001d25c25d9e96d447,09:24:00,pwgood,Supibot,xwoble is now studying: catDespair 📚
+1201,655c4d061d25c25d9e96d448,09:24:06,pwgood,kwefir,"@5upchik, СУУУПЧИИИК! BLEB С добрым утром!"
+1202,655c4d0b1d25c25d9e96d449,09:24:11,pwgood,gwesty_,5upchik сколько на глаз ppChat
+1203,655c4d111d25c25d9e96d44a,09:24:17,pwgood,Rollnot_,"Хватит уже говорить про члены и бессмертие, из-за вас вчера стрима не было lol"
+1204,655c4d181d25c25d9e96d44b,09:24:24,pwgood,Shi4ulI,5upchik wrrr cheso catKISS Zaebok
+1205,655c4d1a1d25c25d9e96d44c,09:24:26,pwgood,5upchik,kwefir BLEB
+1206,655c4d231d25c25d9e96d44d,09:24:35,pwgood,5upchik,gwesty_ 14 plenk
+1207,655c4d2a1d25c25d9e96d44e,09:24:42,pwgood,5upchik,Shi4ulI catKISS
+1208,655c4d341d25c25d9e96d44f,09:24:52,pwgood,5upchik,ну хз как на самом деле
+1209,655c4d431d25c25d9e96d450,09:25:07,pwgood,Rollnot_,@Rollnot_ lol
+1210,655c4d451d25c25d9e96d451,09:25:09,pwgood,Shi4ulI,на самом деле у него там PUPSIK
+1211,655c4d4a1d25c25d9e96d452,09:25:14,pwgood,Shi4ulI,BLEB
+1212,655c4d5f1d25c25d9e96d453,09:25:35,pwgood,just_Lofda,BLEB
+1213,655c4d6a1d25c25d9e96d454,09:25:46,pwgood,5upchik,BLEB
+1214,655c4d7d1d25c25d9e96d455,09:26:05,pwgood,just_Lofda,@5upchik а это много или мало Thinking
+1215,655c4d861d25c25d9e96d456,09:26:14,pwgood,5upchik,eShrug
+1216,655c4d981d25c25d9e96d457,09:26:32,pwgood,5upchik,у меня все среднее так что
+1217,655c4d9d1d25c25d9e96d458,09:26:37,pwgood,5upchik,Thinking
+1218,655c4dac1d25c25d9e96d459,09:26:52,pwgood,5upchik,$gpt средний размер полового члена в 14 лет
+1219,655c4daf1d25c25d9e96d45a,09:26:55,pwgood,Supibot,"5upchik, 🤖 Средний размер полового члена в 14 лет может колебаться в пределах от примерно 7 до 11 сантиметров."
+1220,655c4db51d25c25d9e96d45b,09:27:01,pwgood,5upchik,wtf
+1221,655c4db81d25c25d9e96d45c,09:27:04,pwgood,5upchik,ну не
+1222,655c4de51d25c25d9e96d45d,09:27:49,pwgood,Shi4ulI,plenk опять про члены когда бессмертие?
+1223,655c4df21d25c25d9e96d45e,09:28:02,pwgood,kselbot,надеюсь никогда RAGEY
+1224,655c4e051d25c25d9e96d45f,09:28:21,pwgood,5upchik,Hmm а член бессмертный
+1225,655c4e181d25c25d9e96d460,09:28:40,pwgood,just_Lofda,зачем член нужен
+1226,655c4e1c1d25c25d9e96d461,09:28:44,pwgood,just_Lofda,хвастаться?
+1227,655c4e271d25c25d9e96d462,09:28:55,pwgood,Shi4ulI,внатуре
+1228,655c4e291d25c25d9e96d463,09:28:57,pwgood,5upchik,just_Lofda чтобы размножаться
+1229,655c4e2b1d25c25d9e96d464,09:28:59,pwgood,Shi4ulI,plenk
+1230,655c4e2b1d25c25d9e96d465,09:28:59,pwgood,5upchik,plink
+1231,655c4e331d25c25d9e96d466,09:29:07,pwgood,Shi4ulI,Zaebok
+1232,655c4e3d1d25c25d9e96d467,09:29:17,pwgood,just_Lofda,с кем и как
+1233,655c4e441d25c25d9e96d468,09:29:24,pwgood,Shi4ulI,@just_Lofda MMmmm
+1234,655c4e4c1d25c25d9e96d469,09:29:32,pwgood,5upchik,just_Lofda с мужиками
+1235,655c4e571d25c25d9e96d46a,09:29:43,pwgood,5upchik,и раком
+1236,655c4e5d1d25c25d9e96d46b,09:29:49,pwgood,5upchik,plink
+1237,655c4e691d25c25d9e96d46c,09:30:01,pwgood,PWGud,rena_ra
+1238,655c4e6f1d25c25d9e96d46d,09:30:07,pwgood,Shi4ulI,с потными мужиками с огромным яицами gachiFight
+1239,655c4e731d25c25d9e96d46e,09:30:11,pwgood,Striginae,@just_Lofda Cекс делать как-то надо
+1240,655c4e861d25c25d9e96d46f,09:30:30,poal48,POAL48,JABA ping
+1241,655c4e921d25c25d9e96d470,09:30:42,pwgood,Striginae,"Ходят легенды, что сeкc - высшая форма дружбы между двумя мужчинами"
+1242,655c4ec91d25c25d9e96d471,09:31:37,pwgood,Shi4ulI,по мне так гораздо интереснее catSleep
+1243,655c4ede1d25c25d9e96d472,09:31:58,pwgood,POAL48,rena_ra
+1244,655c4ef31d25c25d9e96d473,09:32:19,pwgood,Shi4ulI,POAL48 Zaebok
+1245,655c4f111d25c25d9e96d474,09:32:49,pwgood,5upchik,POAL48 Shocked
+1246,655c4f161d25c25d9e96d475,09:32:54,pwgood,POAL48,Shocked
+1247,655c4f171d25c25d9e96d476,09:32:55,pwgood,Striginae,POAL48 ебись писать в тг
+1248,655c4f371d25c25d9e96d477,09:33:27,pwgood,POAL48,И чё писать
+1249,655c4f3a1d25c25d9e96d478,09:33:30,pwgood,Striginae,Я тебя ща из тимы кикну
+1250,655c4f441d25c25d9e96d479,09:33:40,pwgood,Striginae,Что ты выбрал 3 задачу
+1251,655c4f4b1d25c25d9e96d47a,09:33:47,pwgood,Lefert_,Shocked
+1252,655c4f4b1d25c25d9e96d47b,09:33:47,pwgood,Shi4ulI,frame023delay028s
+1253,655c4f4c1d25c25d9e96d47c,09:33:48,pwgood,Supibot,"@lefert_ feels well rested: BrorALMOSTBesvimers 💤 (9h, 28m ago)"
+1254,655c4f501d25c25d9e96d47d,09:33:52,pwgood,Striginae,И что по названию думаешь
+1255,655c4f661d25c25d9e96d47e,09:34:14,pwgood,POAL48,Ээээ
+1256,655c4f6a1d25c25d9e96d47f,09:34:18,pwgood,POAL48,Лвдно
+1257,655c4f781d25c25d9e96d480,09:34:32,pwgood,POAL48,А если я не смогу решить третью задачу?
+1258,655c4f7b1d25c25d9e96d481,09:34:35,pwgood,Shi4ulI,lol
+1259,655c4f821d25c25d9e96d482,09:34:42,pwgood,Lefert_,lol
+1260,655c4f861d25c25d9e96d483,09:34:46,pwgood,Striginae,POAL48 лох значит
+1261,655c4f8a1d25c25d9e96d484,09:34:50,pwgood,Striginae,Она легкая
+1262,655c4f8d1d25c25d9e96d485,09:34:53,pwgood,POAL48,lol
+1263,655c4fa61d25c25d9e96d486,09:35:18,pwgood,Striginae,VeryPog экскурсия в СИЗО
+1264,655c4fa71d25c25d9e96d487,09:35:19,pwgood,Shi4ulI,CYBERBULLYING
+1265,655c4fdb1d25c25d9e96d488,09:36:11,pwgood,RainiF_,Lefert_ cheso
+1266,655c4fe81d25c25d9e96d489,09:36:24,pwgood,just_Lofda,Striginae Го высшую форму дружбы PLEASE
+1267,655c4ffd1d25c25d9e96d48a,09:36:45,pwgood,Striginae,Прости у меня нет пениса
+1268,655c50031d25c25d9e96d48b,09:36:51,pwgood,SaladGamer_,TTours
+1269,655c50061d25c25d9e96d48c,09:36:54,pwgood,Gwinsen,ненавижу зиму brorCompletelyLostHisSanity
+1270,655c50061d25c25d9e96d48d,09:36:54,pwgood,Supibot,"@gwinsen spent the entire day in bed: RoxyPotato TeaTime 💤 (14h, 35m ago)"
+1271,655c50111d25c25d9e96d48e,09:37:05,pwgood,Striginae,POAL48 молодец
+1272,655c50181d25c25d9e96d48f,09:37:12,pwgood,Striginae,catPAT
+1273,655c501f1d25c25d9e96d490,09:37:19,pwgood,BJlaguK_,анлаки
+1274,655c50211d25c25d9e96d491,09:37:21,pwgood,POAL48,catPAT
+1275,655c50451d25c25d9e96d492,09:37:57,pwgood,Striginae,Короче это
+1276,655c50521d25c25d9e96d493,09:38:10,pwgood,Striginae,POAL48 есть 2 варианта названия
+1277,655c50561d25c25d9e96d494,09:38:14,pwgood,Striginae,hyhrya
+1278,655c50661d25c25d9e96d495,09:38:30,pwgood,Striginae,"И ""Могло быть хуже"""
+1279,655c50671d25c25d9e96d496,09:38:31,pwgood,BJlaguK_,зачем пенис больше трех сантиметров
+1280,655c508b1d25c25d9e96d497,09:39:07,pwgood,trefis,а зачем меньше
+1281,655c509a1d25c25d9e96d498,09:39:22,pwgood,BJlaguK_,что бы удобно было
+1282,655c509b1d25c25d9e96d499,09:39:23,pwgood,5upchik,зачем пенис
+1283,655c509d1d25c25d9e96d49a,09:39:25,pwgood,POAL48,Striginae погоди
+1284,655c50a01d25c25d9e96d49b,09:39:28,pwgood,POAL48,Я пойду умлюсь
+1285,655c50a51d25c25d9e96d49c,09:39:33,pwgood,POAL48,У меня до пары 20 минут
+1286,655c50a91d25c25d9e96d49d,09:39:37,pwgood,POAL48,А мне ещё завтракать надо
+1287,655c50b31d25c25d9e96d49e,09:39:47,pwgood,5upchik,Без пениса удобнее
+1288,655c50b41d25c25d9e96d49f,09:39:48,pwgood,Lefert_,"@RainiF_, cheso"
+1289,655c50b81d25c25d9e96d4a0,09:39:52,pwgood,Striginae,ok
+1290,655c50c81d25c25d9e96d4a1,09:40:08,pwgood,abi69,Lefert_ rar wrrr
+1291,655c50c91d25c25d9e96d4a2,09:40:09,pwgood,Supibot,"@abi69 is no longer AFK: в этом чате я узнала слишком много monkaOMEGA (44m, 29s ago)"
+1292,655c50c91d25c25d9e96d4a3,09:40:09,poal48,Rollnot_,JABA Scoots plenk
+1293,655c50d01d25c25d9e96d4a4,09:40:16,poal48,Rollnot_,Alright
+1294,655c50d11d25c25d9e96d4a5,09:40:17,pwgood,chernyshewsky_,Trefis rar
+1295,655c50d31d25c25d9e96d4a6,09:40:19,pwgood,BJlaguK_,"@5upchik, тру"
+1296,655c50d31d25c25d9e96d4a7,09:40:19,pwgood,Lefert_,"@abi69, rar hi"
+1297,655c50d61d25c25d9e96d4a8,09:40:22,pwgood,5upchik,chernyshewsky_ rar
+1298,655c50db1d25c25d9e96d4a9,09:40:27,pwgood,gwesty_,"5upchik всм удобнее, а как он мешает?"
+1299,655c50dd1d25c25d9e96d4aa,09:40:29,pwgood,Lefert_,Trefis catPAT
+1300,655c50e21d25c25d9e96d4ab,09:40:34,pwgood,chernyshewsky_,@5upchik rar
+1301,655c50e91d25c25d9e96d4ac,09:40:41,pwgood,chernyshewsky_,@Lefert_ rar
+1302,655c50ef1d25c25d9e96d4ad,09:40:47,pwgood,abi69,Вы все ещё члены обсуждаете eh
+1303,655c50f21d25c25d9e96d4ae,09:40:50,pwgood,Lefert_,"@chernyshewsky_, rar"
+1304,655c51071d25c25d9e96d4af,09:41:11,pwgood,5upchik,gwesty_ многим
+1305,655c51091d25c25d9e96d4b0,09:41:13,pwgood,Striginae,abi69 не все ещё а снова
+1306,655c51101d25c25d9e96d4b1,09:41:20,pwgood,abi69,pon
+1307,655c51131d25c25d9e96d4b2,09:41:23,pwgood,Striginae,Бля наушники реально говно
+1308,655c51191d25c25d9e96d4b3,09:41:29,pwgood,5upchik,А чем конкретно не скажу
+1309,655c511e1d25c25d9e96d4b4,09:41:34,pwgood,gwesty_,5upchik давай я записываю PepoG
+1310,655c51241d25c25d9e96d4b5,09:41:40,pwgood,Striginae,У меня у динамиков ноутбука звук лучше нахуй
+1311,655c51281d25c25d9e96d4b6,09:41:44,pwgood,gwesty_,Давай Justdoit
+1312,655c51321d25c25d9e96d4b7,09:41:54,pwgood,5upchik,Зачем
+1313,655c513c1d25c25d9e96d4b8,09:42:04,pwgood,gwesty_,Ну например peepoSit
+1314,655c513d1d25c25d9e96d4b9,09:42:05,pwgood,5upchik,Я же не вумен
+1315,655c51431d25c25d9e96d4ba,09:42:11,pwgood,5upchik,чтобы давать
+1316,655c514b1d25c25d9e96d4bb,09:42:19,pwgood,abi69,wtf
+1317,655c514f1d25c25d9e96d4bc,09:42:23,pwgood,gwesty_,wtf
+1318,655c51631d25c25d9e96d4bd,09:42:43,pwgood,chernyshewsky_,wtf
+1319,655c516c1d25c25d9e96d4be,09:42:52,pwgood,chernyshewsky_,@abi69 rar
+1320,655c51711d25c25d9e96d4bf,09:42:57,pwgood,macalban_,CYBERBULLYING
+1321,655c51751d25c25d9e96d4c0,09:43:01,pwgood,abi69,chernyshewsky_ rar
+1322,655c51761d25c25d9e96d4c1,09:43:02,pwgood,5upchik,CYBERBULLYING
+1323,655c517e1d25c25d9e96d4c2,09:43:10,pwgood,chernyshewsky_,@macalban_ rar
+1324,655c51921d25c25d9e96d4c3,09:43:30,pwgood,abi69,5upchik <- CYBERBULLYING
+1325,655c51921d25c25d9e96d4c4,09:43:30,pwgood,5upchik,Striginae что за наушники
+1326,655c519c1d25c25d9e96d4c5,09:43:40,pwgood,Striginae,Shokz openrun pro
+1327,655c51a21d25c25d9e96d4c6,09:43:46,pwgood,5upchik,Yasno
+1328,655c51c11d25c25d9e96d4c7,09:44:17,pwgood,Striginae,Мне не нравится когда метал нахуй в белый шум превращается
+1329,655c51d61d25c25d9e96d4c8,09:44:38,pwgood,macalban_,"@chernyshewsky_, CYBERBULLYING"
+1330,655c51df1d25c25d9e96d4c9,09:44:47,pwgood,macalban_,Кибербублик
+1331,655c51e81d25c25d9e96d4ca,09:44:56,pwgood,5upchik,спиздил стакан у матемотички peepoGiggle
+1332,655c52041d25c25d9e96d4cb,09:45:24,pwgood,chernyshewsky_,@5upchik CYBERBULLYING воровать плохо
+1333,655c52181d25c25d9e96d4cc,09:45:44,pwgood,abi69,@5upchik CYBERBULLYING мелкий ворюга
+1334,655c522e1d25c25d9e96d4cd,09:46:06,pwgood,macalban_,CYBERBULLYING  СУКА ПЖ  МНЕ ПРИВЕТ
+1335,655c52371d25c25d9e96d4ce,09:46:15,pwgood,5upchik,chernyshewsky_ кто не воровал жизни не видал 👆
+1336,655c523f1d25c25d9e96d4cf,09:46:23,pwgood,5upchik,☝️
+1337,655c52541d25c25d9e96d4d0,09:46:44,pwgood,macalban_,"Кто не волк волка волк, тот волка волк волок ☝️"
+1338,655c525e1d25c25d9e96d4d1,09:46:54,pwgood,4elovekkun,@Striginae lol
+1339,655c52661d25c25d9e96d4d2,09:47:02,pwgood,abi69,@macalban_ Smart
+1340,655c52681d25c25d9e96d4d3,09:47:04,pwgood,5upchik,☝️ 󠀀
+1341,655c52741d25c25d9e96d4d4,09:47:16,pwgood,chernyshewsky_,Работа не волк☝️
+1342,655c52761d25c25d9e96d4d5,09:47:18,pwgood,5upchik,CYBERBULLYING ФРАЕРКИ ПОЗОРНЫЕ
+1343,655c52831d25c25d9e96d4d6,09:47:31,pwgood,chernyshewsky_,@5upchik CYBERBULLYING
+1344,655c52841d25c25d9e96d4d7,09:47:32,pwgood,BJlaguK_,работа не волк работа ворк ☝
+1345,655c528e1d25c25d9e96d4d8,09:47:42,pwgood,gwesty_,Но как волк иог волоч волка если он волк и не волк ли он если аолка волок Hmm
+1346,655c52961d25c25d9e96d4d9,09:47:50,pwgood,macalban_,Волк волк AlienWalk
+1347,655c529a1d25c25d9e96d4da,09:47:54,pwgood,abi69,Ну как-бы истину глаголят
+1348,655c52a51d25c25d9e96d4db,09:48:05,pwgood,5upchik,Заяц OR Волк
+1349,655c52dc1d25c25d9e96d4dc,09:49:00,pwgood,macalban_,MrDestructoid 👈 ЗАЯЦ ВОЛК 👉 🐺
+1350,655c52e21d25c25d9e96d4dd,09:49:06,pwgood,macalban_,catDespair
+1351,655c52e91d25c25d9e96d4de,09:49:13,pwgood,5upchik,Волк Волокна не Волокал 🐺
+1352,655c52e91d25c25d9e96d4df,09:49:13,pwgood,abi69,catDespair
+1353,655c52ed1d25c25d9e96d4e0,09:49:17,pwgood,5upchik,catDespair
+1354,655c53021d25c25d9e96d4e1,09:49:38,pwgood,abi69,Волк волчки не волял
+1355,655c530a1d25c25d9e96d4e2,09:49:46,pwgood,macalban_,MrDestructoid   👉 ⚡🐺
+1356,655c530d1d25c25d9e96d4e3,09:49:49,pwgood,dlykoshi,plenk
+1357,655c530d1d25c25d9e96d4e4,09:49:49,pwgood,Supibot,"@dlykoshi is no longer AFK: eh (10h, 47m ago)"
+1358,655c531e1d25c25d9e96d4e5,09:50:06,pwgood,abi69,dlykoshi rar wrrr
+1359,655c53261d25c25d9e96d4e6,09:50:14,pwgood,dlykoshi,"@abi69, rar"
+1360,655c53271d25c25d9e96d4e7,09:50:15,pwgood,dlykoshi,rar
+1361,655c53281d25c25d9e96d4e8,09:50:16,pwgood,dlykoshi,rar 󠀀
+1362,655c532e1d25c25d9e96d4e9,09:50:22,pwgood,5upchik,rar
+1363,655c532f1d25c25d9e96d4ea,09:50:23,pwgood,5upchik,rar 󠀀
+1364,655c53371d25c25d9e96d4eb,09:50:31,pwgood,dlykoshi,Clueless конечно же один ран B рор не помешает мне сделать 7 3д моделек
+1365,655c533a1d25c25d9e96d4ec,09:50:34,pwgood,chernyshewsky_,@dlykoshi rar rar
+1366,655c53421d25c25d9e96d4ed,09:50:42,pwgood,PWGood,rar
+1367,655c534d1d25c25d9e96d4ee,09:50:53,pwgood,chernyshewsky_,@PWGood rar
+1368,655c53551d25c25d9e96d4ef,09:51:01,pwgood,4elovekkun,PWGood rar
+1369,655c53561d25c25d9e96d4f0,09:51:02,pwgood,abi69,PWGood rar
+1370,655c535a1d25c25d9e96d4f1,09:51:06,pwgood,dlykoshi,"@PWGood, rar"
+1371,655c535c1d25c25d9e96d4f2,09:51:08,pwgood,dlykoshi,think
+1372,655c535e1d25c25d9e96d4f3,09:51:10,pwgood,4elovekkun,$cookie
+1373,655c535f1d25c25d9e96d4f4,09:51:11,pwgood,Supibot,"4elovekkun, Your daily cookie: This is a great day for you. You should find that your general mood is excellent."
+1374,655c53651d25c25d9e96d4f5,09:51:17,pwgood,dlykoshi,рора на стримах не будет 1984
+1375,655c53661d25c25d9e96d4f6,09:51:18,pwgood,macalban_,MrDestructoid MrDestructoid 👈 ЗАЯЦ КОТ  👉 Pugod
+1376,655c53751d25c25d9e96d4f7,09:51:33,pwgood,gwesty_,"Волк не мог волоч волка если он волк, а если он волок волка то он не волк но ведь он волк и не волком быть ☝"
+1377,655c53771d25c25d9e96d4f8,09:51:35,poal48,POAL48,catYoink
+1378,655c537e1d25c25d9e96d4f9,09:51:42,pwgood,macalban_,Ой
+1379,655c537f1d25c25d9e96d4fa,09:51:43,pwgood,Artemu5,rar
+1380,655c53861d25c25d9e96d4fb,09:51:50,pwgood,macalban_,2 раза MrDestructoid скопировал
+1381,655c53871d25c25d9e96d4fc,09:51:51,pwgood,5upchik,dlykoshi PLEASE добавь в сценарий rar
+1382,655c538e1d25c25d9e96d4fd,09:51:58,pwgood,StreamElements,"📣 Присоединяйся, чтобы не пропустить стримы: Telegram: baad.pw/tg | ВКонтакте: baad.pw/vk"
+1383,655c53901d25c25d9e96d4fe,09:52:00,pwgood,dlykoshi,rar 1984 удалят
+1384,655c53971d25c25d9e96d4ff,09:52:07,pwgood,5upchik,nyooo
+1385,655c53971d25c25d9e96d500,09:52:07,pwgood,PWGood,$cookie
+1386,655c53981d25c25d9e96d501,09:52:08,pwgood,Supibot,"pwgood, Your daily cookie: Money could be a source of worry today. You might feel you've spent too much (who doesn't sometimes?) or perhaps some funds you were expecting have been held up."
+1387,655c539b1d25c25d9e96d502,09:52:11,pwgood,POAL48,you
+1388,655c53a21d25c25d9e96d503,09:52:18,pwgood,PWGood,rar АААА ГОСПОДЬ ЗА ЧТО
+1389,655c53a91d25c25d9e96d504,09:52:25,pwgood,abi69,"rar будем возвращаться вечно, как  cheso"
+1390,655c53b01d25c25d9e96d505,09:52:32,pwgood,macalban_,"MrDestructoid ☝️ ЕСЛИ ТЫ 2 РАЗА ВСТАВИЛ СКОПИРАВАННОЕ, ТО ДЕЛАЙ ВИД ЧТО ТАК И ДОЛЖНО БЫТЬ MrDestructoid ☝️ ЕСЛИ ТЫ 2 РАЗА ВСТАВИЛ СКОПИРАВАННОЕ, ТО ДЕЛАЙ ВИД ЧТО ТАК И ДОЛЖНО БЫТЬ"
+1391,655c53b41d25c25d9e96d506,09:52:36,pwgood,kselbot,rar
+1392,655c53b51d25c25d9e96d507,09:52:37,pwgood,5upchik,rar cheso
+1393,655c53c21d25c25d9e96d508,09:52:50,pwgood,kselbot,cheso cheso cheso cheso cheos cheos cheos cheos
+1394,655c53c71d25c25d9e96d509,09:52:55,pwgood,kselbot,braaaah
+1395,655c53ca1d25c25d9e96d50a,09:52:58,pwgood,chernyshewsky_,rar будет жить вечно в этом чате
+1396,655c53d71d25c25d9e96d50b,09:53:11,pwgood,abi69,rar этому чату
+1397,655c53db1d25c25d9e96d50c,09:53:15,pwgood,5upchik,rar cheso милые котьеки навсегда останутся в этом табе 1984
+1398,655c53e01d25c25d9e96d50d,09:53:20,pwgood,dlykoshi,$cookie gift @PWGood
+1399,655c53e01d25c25d9e96d50e,09:53:20,pwgood,Supibot,"dlykoshi, Successfully given your cookie for today to pwgood supiniOkay"
+1400,655c53e11d25c25d9e96d50f,09:53:21,pwgood,chernyshewsky_,rar
+1401,655c53e31d25c25d9e96d510,09:53:23,pwgood,dlykoshi,1984
+1402,655c54161d25c25d9e96d511,09:54:14,pwgood,abi69,"Когда-то я не понимала зачем коплю балы, но теперь я поняла. Это ради выкупа rar и cheso"
+1403,655c541b1d25c25d9e96d512,09:54:19,pwgood,5upchik,1984
+1404,655c541c1d25c25d9e96d513,09:54:20,pwgood,BJlaguK_,rar
+1405,655c54231d25c25d9e96d514,09:54:27,pwgood,PWGood,$cookie
+1406,655c54231d25c25d9e96d515,09:54:27,pwgood,Supibot,"pwgood, Your received cookie: You will soon embark on a business venture."
+1407,655c54241d25c25d9e96d516,09:54:28,pwgood,MrSar_,rar
+1408,655c54281d25c25d9e96d517,09:54:32,pwgood,5upchik,Кстати
+1409,655c54351d25c25d9e96d518,09:54:45,pwgood,5upchik,Попрошу заменить что кокешаку нету
+1410,655c54371d25c25d9e96d519,09:54:47,pwgood,dlykoshi,$$tru wealth
+1411,655c54381d25c25d9e96d51a,09:54:48,pwgood,Supibot,"👥 dlykoshi, English → Russian: богатство"
+1412,655c543a1d25c25d9e96d51b,09:54:50,pwgood,chernyshewsky_,rar 󠀀
+1413,655c543e1d25c25d9e96d51c,09:54:54,pwgood,Lefert_,rar
+1414,655c543e1d25c25d9e96d51d,09:54:54,pwgood,dlykoshi,кокешаку кринж
+1415,655c54431d25c25d9e96d51e,09:54:59,pwgood,5upchik,Так что 1984 poof
+1416,655c54461d25c25d9e96d51f,09:55:02,pwgood,dlykoshi,у нас есть 3 эмоута дрочки
+1417,655c54461d25c25d9e96d520,09:55:02,pwgood,chernyshewsky_,rar лучше
+1418,655c54471d25c25d9e96d521,09:55:03,pwgood,gwesty_,$$🌠
+1419,655c544a1d25c25d9e96d522,09:55:06,pwgood,Supibot,"👥 gwesty_, Рекомендуется съесть большую коробку сигар. Звезды советуют вам поддерживать баланс между пивом и самогоном, чтобы оставаться естественным. Если вам скучно, попробуйте вызвать полицию и поговорить с ней о половых извращениях. Будьте благоразумны как конь"
+1420,655c54541d25c25d9e96d523,09:55:16,pwgood,dlykoshi,и 1 эмоут самоотсоса/куриной ножки
+1421,655c54581d25c25d9e96d524,09:55:20,pwgood,MrSar_,docCBT
+1422,655c54581d25c25d9e96d525,09:55:20,pwgood,abi69,$$🌠
+1423,655c54591d25c25d9e96d526,09:55:21,pwgood,Supibot,"👥 abi69, Ваши губы сегодня могут принять свиные цвета. Возможны резкие прыгающие монголы и пробросы кала. Можно считать, что вы – настоящая морская свинка. Это хорошее время для вторжения во Вьетнам и наступления нового года. У вас есть все шансы стать королем голубей"
+1424,655c546d1d25c25d9e96d527,09:55:41,pwgood,azotsh,"frame145delay007s пришла на английский, не сказала ни слова> 5 автоматом иди отсюда"
+1425,655c54701d25c25d9e96d528,09:55:44,pwgood,azotsh,CoolCat
+1426,655c54761d25c25d9e96d529,09:55:50,pwgood,abi69,Я морская свинка URA
+1427,655c547c1d25c25d9e96d52a,09:55:56,pwgood,Lefert_,"@azotsh, PagMan"
+1428,655c54851d25c25d9e96d52b,09:56:05,pwgood,abi69,Король голубей URA
+1429,655c54851d25c25d9e96d52c,09:56:05,pwgood,chernyshewsky_,AAAA горло болит
+1430,655c548c1d25c25d9e96d52d,09:56:12,pwgood,Lefert_,"@chernyshewsky_, forsenHug"
+1431,655c54931d25c25d9e96d52e,09:56:19,pwgood,gwesty_,"@Supibot BOGGED ало? полиция? да-да, что вы думаете о половых извращениях? кто дебил? какая дурка? Durka"
+1432,655c54961d25c25d9e96d52f,09:56:22,pwgood,abi69,chernyshewsky_ лечись скорее catPAT
+1433,655c54a81d25c25d9e96d530,09:56:40,pwgood,5upchik,$cookie gift PWGood
+1434,655c54a81d25c25d9e96d531,09:56:40,pwgood,Supibot,"5upchik, Successfully given your cookie for today to pwgood supiniOkay"
+1435,655c54ab1d25c25d9e96d532,09:56:43,pwgood,chernyshewsky_,@abi69 @Lefert_ CatHug
+1436,655c54df1d25c25d9e96d533,09:57:35,pwgood,5upchik,$$cc
+1437,655c54df1d25c25d9e96d534,09:57:35,pwgood,Supibot,"👥 5upchik, На данный момент вы съели 59 печенек. 15 были подарены вам. Вы подарили 40 файлов cookie. 😮великий самаритянин 😃👌"
+1438,655c54e51d25c25d9e96d535,09:57:41,pwgood,5upchik,Pag
+1439,655c54ef1d25c25d9e96d536,09:57:51,pwgood,gwesty_,$$cc
+1440,655c54ef1d25c25d9e96d537,09:57:51,pwgood,Supibot,"gwesty_, You don't have the ""cc"" alias!"
+1441,655c54fe1d25c25d9e96d538,09:58:06,pwgood,abi69,$$cc
+1442,655c54fe1d25c25d9e96d539,09:58:06,pwgood,Supibot,"👥 abi69, На данный момент вы съели 21 печенье. 4 тебе подарили. Вы подарили 2 файла cookie. 🤔 немного бережлив 😑"
+1443,655c54ff1d25c25d9e96d53a,09:58:07,pwgood,kselbot,$cookie stats
+1444,655c54ff1d25c25d9e96d53b,09:58:07,pwgood,Supibot,"kselbot, You have eaten 82 cookies so far. 44 were gifted to you. You have gifted away 41 cookie(s). 🙂 a fair person 👍"
+1445,655c55031d25c25d9e96d53c,09:58:11,pwgood,gwesty_,$alias link 5upchik cc
+1446,655c55031d25c25d9e96d53d,09:58:11,pwgood,Supibot,"gwesty_, Successfully linked alias. When the original changes, so will yours. You tried to create a link out of an already linked alias (alias cc by mrflint_), so I used the original as your template."
+1447,655c55051d25c25d9e96d53e,09:58:13,pwgood,gwesty_,$$cc
+1448,655c55131d25c25d9e96d53f,09:58:27,pwgood,gwesty_,$$cc 󠀀
+1449,655c55141d25c25d9e96d540,09:58:28,pwgood,Supibot,"👥 gwesty_, На данный момент вы съели 8 печенек. 2 тебе подарили. Вы никогда не раздавали ни одного файла cookie. 😧 какой скрудж 😒"
+1450,655c55211d25c25d9e96d541,09:58:41,pwgood,abi69,$cookie gift 5upchik
+1451,655c55211d25c25d9e96d542,09:58:41,pwgood,Supibot,"abi69, Successfully given your cookie for today to 5upchik supiniOkay"
+1452,655c55231d25c25d9e96d543,09:58:43,pwgood,5upchik,😒
+1453,655c55251d25c25d9e96d544,09:58:45,pwgood,gwesty_,Скрудж
+1454,655c552e1d25c25d9e96d545,09:58:54,pwgood,5upchik,abi69  CatHug
+1455,655c55321d25c25d9e96d546,09:58:58,pwgood,gwesty_,А как дарить AAAA
+1456,655c55341d25c25d9e96d547,09:59:00,pwgood,dlykoshi,$$cc
+1457,655c55351d25c25d9e96d548,09:59:01,pwgood,Supibot,"👥 dlykoshi, На данный момент вы съели 126 печенек. 31 был подарен вам. Вы подарили 52 файла cookie. 🙂 справедливый человек 👍"
+1458,655c55481d25c25d9e96d549,09:59:20,pwgood,Lefert_,SUKAAAA учитель назначает урок на 8:55 и потом говорит что это время просто так
+1459,655c555a1d25c25d9e96d54a,09:59:38,pwgood,abi69,lol
+1460,655c55641d25c25d9e96d54b,09:59:48,pwgood,dlykoshi,lol
+1461,655c556c1d25c25d9e96d54c,09:59:56,pwgood,chernyshewsky_,lol
+1462,655c556d1d25c25d9e96d54d,09:59:57,pwgood,dlykoshi,lol конечно же я не умру на митриксе как Bчера
+1463,655c55701d25c25d9e96d54e,10:00:00,poal48,ppSpin,peepoArrive
+1464,655c55711d25c25d9e96d54f,10:00:01,pwgood,PWGud,pwgoodKek
+1465,655c558f1d25c25d9e96d550,10:00:31,pwgood,Alexoff35,"Чаааат, доброе утро peepoHey pwgood3"
+1466,655c559b1d25c25d9e96d551,10:00:43,pwgood,Lefert_,"@Alexoff35, rar cheso"
+1467,655c55a21d25c25d9e96d552,10:00:50,pwgood,chernyshewsky_,@Alexoff35 rar
+1468,655c55a31d25c25d9e96d553,10:00:51,pwgood,Yasos_Bibos,$$🌠
+1469,655c55a41d25c25d9e96d554,10:00:52,pwgood,Supibot,"👥 yasos_bibos, Сегодня может произойти неожиданное событие – например, лопнет мочевой пузырь у Ленина. Ваши уши будут наполнены волчьими песнями. Для избежания проблем со сном желательно приобрести складной хуй или надувную свинью. Не рвитесь ни при каких обстоятельствах"
+1470,655c55ad1d25c25d9e96d555,10:01:01,pwgood,abi69,$$🌠
+1471,655c55ae1d25c25d9e96d556,10:01:02,pwgood,Supibot,"👥 abi69, В этот день вы можете познакомиться со своеобразными свиноводами из Афганистана. Рекомендуется вступить в ВЛКСМ и КПСС и начать копать навоз. Не бойтесь экспериментов с алкоголем и психотропными средствами. Вечером возможен визит Святого Георгия"
+1472,655c55cb1d25c25d9e96d557,10:01:31,pwgood,Lefert_,peepoClap визит Святого Георгия
+1473,655c55da1d25c25d9e96d558,10:01:46,pwgood,dlykoshi,слаBf rgcc
+1474,655c55dc1d25c25d9e96d559,10:01:48,pwgood,Yasos_Bibos,Кто это вообще генерирует EtoKomu
+1475,655c55dd1d25c25d9e96d55a,10:01:49,pwgood,dlykoshi,plenk
+1476,655c55e11d25c25d9e96d55b,10:01:53,pwgood,abi69,Учитывая то что я еду на винзавод... это может быть возможно Thinking
+1477,655c55e71d25c25d9e96d55c,10:01:59,pwgood,Yasos_Bibos,Жпт?
+1478,655c55f41d25c25d9e96d55d,10:02:12,poal48,Lefert_,wtf COPIUM JABA
+1479,655c55fb1d25c25d9e96d55e,10:02:19,pwgood,Alexoff35,"Последние новости моей жизни, я разбил свой телефон, что тачскрин перестал адекватно работать, сижу теперь со старого маминого"
+1480,655c56021d25c25d9e96d55f,10:02:26,pwgood,dlykoshi,$alias check 🌠
+1481,655c56021d25c25d9e96d560,10:02:26,pwgood,Supibot,"dlykoshi, Your alias ""🌠"" has this definition: dankdebug importGist:9834bc7f023f873047906672922e4f12 force:true"
+1482,655c560e1d25c25d9e96d561,10:02:38,pwgood,Yasos_Bibos,@Alexoff35 forsenHug
+1483,655c56171d25c25d9e96d562,10:02:47,pwgood,abi69,@Alexoff35 forsenHug
+1484,655c56191d25c25d9e96d563,10:02:49,pwgood,Alexoff35,@Alexoff35 А так жизнь идёт полным ходом наконец-то
+1485,655c56311d25c25d9e96d564,10:03:13,pwgood,Yasos_Bibos,pwgoodBuilder WineTime
+1486,655c56441d25c25d9e96d565,10:03:32,pwgood,Alexoff35,"Не ребята, не жалейте, я поменял honor на honor и между ними почти 0 разницы (На этом есть AR)"
+1487,655c565d1d25c25d9e96d566,10:03:57,pwgood,Yasos_Bibos,@Alexoff35 променял свою честь D:
+1488,655c565d1d25c25d9e96d567,10:03:57,pwgood,abi69,Klass
+1489,655c56671d25c25d9e96d568,10:04:07,pwgood,Alexoff35,D:
+1490,655c566e1d25c25d9e96d569,10:04:14,pwgood,Alexoff35,Поменял честь на честь
+1491,655c56711d25c25d9e96d56a,10:04:17,pwgood,Lefert_,Klass
+1492,655c56761d25c25d9e96d56b,10:04:22,pwgood,just_Lofda,ПЕНИС
+1493,655c567c1d25c25d9e96d56c,10:04:28,pwgood,Yasos_Bibos,@Alexoff35 D:
+1494,655c56841d25c25d9e96d56d,10:04:36,pwgood,Alexoff35,URA пенис
+1495,655c568d1d25c25d9e96d56e,10:04:45,pwgood,Alexoff35,peepoClap пенис
+1496,655c569b1d25c25d9e96d56f,10:04:59,pwgood,kselbot,"D: пенис,"
+1497,655c56a71d25c25d9e96d570,10:05:11,pwgood,Lefert_,D:
+1498,655c56b11d25c25d9e96d571,10:05:21,pwgood,just_Lofda,Какой у вас размер пениса? D:
+1499,655c56b71d25c25d9e96d572,10:05:27,pwgood,Yasos_Bibos,MaxwellLookingAtYourTempleOfFlesh ПЕНИС
+1500,655c56b91d25c25d9e96d573,10:05:29,pwgood,abi69,"$afk практика, будь PLEASE хорошей, я ради тебя столько денег на проезд трачу"
+1501,655c56b91d25c25d9e96d574,10:05:29,pwgood,Supibot,"abi69 is now AFK: практика, будь PLEASE хорошей, я ради тебя столько денег на проезд трачу"
+1502,655c56b91d25c25d9e96d575,10:05:29,pwgood,just_Lofda,ой...
+1503,655c56ba1d25c25d9e96d576,10:05:30,pwgood,chuchiBLEB,GoodMorning
+1504,655c56bc1d25c25d9e96d577,10:05:32,pwgood,kselbot,ДА СНОВ АЭТОО ТВОПРОС RAGEY
+1505,655c56c11d25c25d9e96d578,10:05:37,pwgood,Lefert_,stop разговоры про пенисы
+1506,655c56c71d25c25d9e96d579,10:05:43,pwgood,just_Lofda,Пугод в сети vanis
+1507,655c56c91d25c25d9e96d57a,10:05:45,pwgood,chuchiBLEB,URA мой домик в барби ленд утвердили!
+1508,655c56cb1d25c25d9e96d57b,10:05:47,pwgood,just_Lofda,vnaishne
+1509,655c56d01d25c25d9e96d57c,10:05:52,pwgood,dlykoshi,$$ cook
+1510,655c56d01d25c25d9e96d57d,10:05:52,pwgood,Supibot,"dlykoshi, You don't have the ""cook"" alias!"
+1511,655c56d11d25c25d9e96d57e,10:05:53,pwgood,just_Lofda,vansihdme
+1512,655c56d31d25c25d9e96d57f,10:05:55,pwgood,dlykoshi,$cook
+1513,655c56d71d25c25d9e96d580,10:05:59,pwgood,kselbot,brorAutisme
+1514,655c56d71d25c25d9e96d581,10:05:59,pwgood,dlykoshi,$$ cock
+1515,655c56d71d25c25d9e96d582,10:05:59,pwgood,Supibot,"👥 dlykoshi, dlykoshi's cock is 14.53 cm. Okayeg"
+1516,655c56d81d25c25d9e96d583,10:06:00,pwgood,Lefert_,@chuchiBLEB URA
+1517,655c56d81d25c25d9e96d584,10:06:00,pwgood,just_Lofda,vansihme
+1518,655c56de1d25c25d9e96d585,10:06:06,pwgood,just_Lofda,vansime
+1519,655c56e41d25c25d9e96d586,10:06:12,pwgood,just_Lofda,vanishme
+1520,655c56e41d25c25d9e96d587,10:06:12,pwgood,abi69,....
+1521,655c56e51d25c25d9e96d588,10:06:13,pwgood,Supibot,"@abi69 is no longer AFK: практика, будь PLEASE хорошей, я ради тебя столько денег на проезд трачу (43.81s ago)"
+1522,655c56ea1d25c25d9e96d589,10:06:18,pwgood,chuchiBLEB,lol
+1523,655c56eb1d25c25d9e96d58a,10:06:19,pwgood,Lefert_,eh надо бы тоже построить
+1524,655c56ed1d25c25d9e96d58b,10:06:21,pwgood,abi69,$rafk
+1525,655c56ee1d25c25d9e96d58c,10:06:22,pwgood,Supibot,"abi69, Your AFK status has been resumed."
+1526,655c56fb1d25c25d9e96d58d,10:06:35,pwgood,Lefert_,"@abi69, CatHug удачи"
+1527,655c57011d25c25d9e96d58e,10:06:41,pwgood,chuchiBLEB,Он у меня такой красивый RilaveWOW
+1528,655c57101d25c25d9e96d58f,10:06:56,pwgood,chuchiBLEB,"Lefert_, Не используй тёмные блоки"
+1529,655c57151d25c25d9e96d590,10:07:01,pwgood,Yasos_Bibos,pwgoodBuilder Cute
+1530,655c57211d25c25d9e96d591,10:07:13,pwgood,chuchiBLEB,"А то я ель немного использовал, а потом её заменял"
+1531,655c57231d25c25d9e96d592,10:07:15,pwgood,gwesty_,chuchiBLEB CatLookingAtYou я бы хотел вам сказать SecbExplainingHow ЧЧЧУЧЧУУУУУУЧЧИЧИИИИИБИБИЛЛЁЁЛЕЁБББ ppChat
+1532,655c57231d25c25d9e96d593,10:07:15,pwgood,chuchiBLEB,lol
+1533,655c57241d25c25d9e96d594,10:07:16,pwgood,Lefert_,@chuchiBLEB lol ну так это понятно
+1534,655c57291d25c25d9e96d595,10:07:21,pwgood,kselbot,спотифай реклама на норвежском Listening
+1535,655c57331d25c25d9e96d596,10:07:31,pwgood,gwesty_,ПППРРРРИРИРВВЕВЕЕЕТТТТ ppChat
+1536,655c57371d25c25d9e96d597,10:07:35,pwgood,Lefert_,$afk monkaCat биологический ликтант
+1537,655c57371d25c25d9e96d598,10:07:35,pwgood,gwesty_,ppChat
+1538,655c57371d25c25d9e96d599,10:07:35,pwgood,Supibot,lefert_ is now AFK: monkaCat биологический ликтант
+1539,655c57411d25c25d9e96d59a,10:07:45,pwgood,just_Lofda,Вам уже надоели пенисы?
+1540,655c57411d25c25d9e96d59b,10:07:45,pwgood,gwesty_,ppChat 󠀀
+1541,655c57451d25c25d9e96d59c,10:07:49,pwgood,kselbot,BLEB ликтант
+1542,655c574f1d25c25d9e96d59d,10:07:59,pwgood,chuchiBLEB,123
+1543,655c57511d25c25d9e96d59e,10:08:01,pwgood,chuchiBLEB,lol
+1544,655c57551d25c25d9e96d59f,10:08:05,pwgood,Yasos_Bibos,BLEB
+1545,655c575e1d25c25d9e96d5a0,10:08:14,pwgood,chuchiBLEB,У меня сообщение не написалось
+1546,655c57711d25c25d9e96d5a1,10:08:33,pwgood,gwesty_,chuchiBLEB как не написалось wtf
+1547,655c57761d25c25d9e96d5a2,10:08:38,pwgood,chuchiBLEB,ГВЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭСТИИИИИИИИИИИИИИИИИИИИИИИИИИИИ ppChat ПРИИИИИИИИИИВЕЕЕЕЕЕЕЕЕТТ
+1548,655c57801d25c25d9e96d5a3,10:08:48,pwgood,gwesty_,ppChat
+1549,655c57881d25c25d9e96d5a4,10:08:56,pwgood,gwesty_,ppChat 󠀀
+1550,655c57891d25c25d9e96d5a5,10:08:57,pwgood,chuchiBLEB,"@gwesty_ Я нажал на энтр, а оно не написалось в чат lol"
+1551,655c57931d25c25d9e96d5a6,10:09:07,pwgood,gwesty_,ppChat
+1552,655c57951d25c25d9e96d5a7,10:09:09,pwgood,gwesty_,ppChat 󠀀
+1553,655c57991d25c25d9e96d5a8,10:09:13,pwgood,chuchiBLEB,stop
+1554,655c57a31d25c25d9e96d5a9,10:09:23,pwgood,chuchiBLEB,ppChat poof
+1555,655c57a51d25c25d9e96d5aa,10:09:25,pwgood,gwesty_,AlienUnpleased
+1556,655c57ac1d25c25d9e96d5ab,10:09:32,pwgood,gwesty_,Стою
+1557,655c57b21d25c25d9e96d5ac,10:09:38,pwgood,chuchiBLEB,KRASAVA
+1558,655c57ba1d25c25d9e96d5ad,10:09:46,pwgood,just_Lofda,$$cock
+1559,655c57ba1d25c25d9e96d5ae,10:09:46,pwgood,Supibot,"👥 just_lofda, just_lofda's cock is 16.17 cm. HandsUp"
+1560,655c57bc1d25c25d9e96d5af,10:09:48,pwgood,chuchiBLEB,А я leju
+1561,655c57c11d25c25d9e96d5b0,10:09:53,pwgood,gwesty_,$$cock
+1562,655c57c11d25c25d9e96d5b1,10:09:53,pwgood,Supibot,"👥 gwesty_, gwesty_'s cock is 11.94 cm. Okayeg"
+1563,655c57c91d25c25d9e96d5b2,10:10:01,pwgood,gwesty_,wtfChat
+1564,655c57cc1d25c25d9e96d5b3,10:10:04,pwgood,chuchiBLEB,Точнее я peepoSing
+1565,655c57cf1d25c25d9e96d5b4,10:10:07,pwgood,chuchiBLEB,оой
+1566,655c57d31d25c25d9e96d5b5,10:10:11,pwgood,chuchiBLEB,peepoSit
+1567,655c57d91d25c25d9e96d5b6,10:10:17,pwgood,gwesty_,chuchiBLEB ты поёшь SHTO
+1568,655c57e31d25c25d9e96d5b7,10:10:27,pwgood,chuchiBLEB,Я не то отправил
+1569,655c57ed1d25c25d9e96d5b8,10:10:37,pwgood,chuchiBLEB,Я хотел пепо сит отправить
+1570,655c57ed1d25c25d9e96d5b9,10:10:37,pwgood,gwesty_,peepoSit
+1571,655c57ee1d25c25d9e96d5ba,10:10:38,pwgood,just_Lofda,Превращаю пенисы в заезженную никому не нужную тему Evil
+1572,655c57f61d25c25d9e96d5bb,10:10:46,pwgood,chuchiBLEB,GANDON
+1573,655c57fe1d25c25d9e96d5bc,10:10:54,pwgood,just_Lofda,D:
+1574,655c58041d25c25d9e96d5bd,10:11:00,pwgood,gwesty_,just_Lofda чтобы потом их никто не упоминал Evil
+1575,655c58071d25c25d9e96d5be,10:11:03,pwgood,Yasos_Bibos,billyBeer BillyBeer
+1576,655c580a1d25c25d9e96d5bf,10:11:06,pwgood,just_Lofda,Evil
+1577,655c580d1d25c25d9e96d5c0,10:11:09,pwgood,5upchik,$$🍪
+1578,655c580e1d25c25d9e96d5c1,10:11:10,pwgood,Supibot,"👥 5upchik, Binoculars Полученный Binoculars вами Binoculars файл Binoculars cookie: Binoculars никогда Binoculars не Binoculars сдавайтесь. Binoculars Всегда Binoculars находите Binoculars причину Binoculars продолжать Binoculars попытки. Binoculars"
+1579,655c580f1d25c25d9e96d5c2,10:11:11,pwgood,gwesty_,Я с тобой Evil
+1580,655c58131d25c25d9e96d5c3,10:11:15,pwgood,Yasos_Bibos,VanishMe
+1581,655c58341d25c25d9e96d5c4,10:11:48,pwgood,gwesty_,just_Lofda итааак PepoG членычленычленычленычленычлены....
+1582,655c583c1d25c25d9e96d5c5,10:11:56,pwgood,gwesty_,Уф
+1583,655c58401d25c25d9e96d5c6,10:12:00,pwgood,just_Lofda,PepoG
+1584,655c58421d25c25d9e96d5c7,10:12:02,pwgood,gwesty_,BillyBeer
+1585,655c58481d25c25d9e96d5c8,10:12:08,pwgood,gwesty_,Устал
+1586,655c584b1d25c25d9e96d5c9,10:12:11,pwgood,just_Lofda,billyBeer
+1587,655c58511d25c25d9e96d5ca,10:12:17,pwgood,gwesty_,billyBeer BillyBeer
+1588,655c58611d25c25d9e96d5cb,10:12:33,pwgood,just_Lofda,Если честно я не знаю размер моего пениса Alright
+1589,655c58681d25c25d9e96d5cc,10:12:40,pwgood,gwesty_,SHTO
+1590,655c586e1d25c25d9e96d5cd,10:12:46,pwgood,gwesty_,bruuh
+1591,655c58711d25c25d9e96d5ce,10:12:49,pwgood,Yasos_Bibos,SLORPGLORPIN
+1592,655c58751d25c25d9e96d5cf,10:12:53,pwgood,kselbot,URA про челны больше небудут говорить
+1593,655c58761d25c25d9e96d5d0,10:12:54,pwgood,just_Lofda,Данные вызде разные
+1594,655c58861d25c25d9e96d5d1,10:13:10,pwgood,just_Lofda,@kselbot Это то чего мы добиваемся Evil
+1595,655c588f1d25c25d9e96d5d2,10:13:19,pwgood,gwesty_,kselbot только если эта тема будет заезженная catDespair
+1596,655c58971d25c25d9e96d5d3,10:13:27,pwgood,kselbot,@just_Lofda URA продолжаете в том же духе
+1597,655c58a21d25c25d9e96d5d4,10:13:38,pwgood,just_Lofda,Ой
+1598,655c58a31d25c25d9e96d5d5,10:13:39,pwgood,gwesty_,arriving Проездим её вдоль и поперек GoslingDrive
+1599,655c58a41d25c25d9e96d5d6,10:13:40,pwgood,Richizuuu,Zevlo
+1600,655c58a51d25c25d9e96d5d7,10:13:41,pwgood,kselbot,главное чтобы я не учавстовала
+1601,655c58b91d25c25d9e96d5d8,10:14:01,pwgood,just_Lofda,нас же не забанят за обсуждение пениса?
+1602,655c58bc1d25c25d9e96d5d9,10:14:04,pwgood,gwesty_,kselbot какие мы гении Evil
+1603,655c58d31d25c25d9e96d5da,10:14:27,pwgood,gwesty_,А что если эта тема наоборот monka РАСФОРСИТСЯ BOOO
+1604,655c58da1d25c25d9e96d5db,10:14:34,pwgood,gwesty_,BOOO
+1605,655c58dc1d25c25d9e96d5dc,10:14:36,pwgood,just_Lofda,monka
+1606,655c58df1d25c25d9e96d5dd,10:14:39,pwgood,just_Lofda,monka 󠀀
+1607,655c58e81d25c25d9e96d5de,10:14:48,pwgood,just_Lofda,все узнают размер моего пениса
+1608,655c58e91d25c25d9e96d5df,10:14:49,pwgood,gwesty_,Все будут обсуждать члены BOOO
+1609,655c58eb1d25c25d9e96d5e0,10:14:51,pwgood,just_Lofda,monka
+1610,655c58ff1d25c25d9e96d5e1,10:15:11,pwgood,gwesty_,"Члены, члены, члены все мы любим члены BOOO"
+1611,655c59041d25c25d9e96d5e2,10:15:16,pwgood,just_Lofda,$gpt Средний пенис в 17 лет
+1612,655c59061d25c25d9e96d5e3,10:15:18,pwgood,Supibot,"just_lofda, 🤖 Средний размер пениса в 17 лет ранжируется от примерно 10 до 16 см в исследованиях."
+1613,655c590c1d25c25d9e96d5e4,10:15:24,pwgood,SaladGamer_,uuh
+1614,655c59121d25c25d9e96d5e5,10:15:30,pwgood,gwesty_,$% расфорсятся ли члены?
+1615,655c59131d25c25d9e96d5e6,10:15:31,pwgood,Supibot,"gwesty_, 30.15%"
+1616,655c59161d25c25d9e96d5e7,10:15:34,pwgood,gwesty_,Saved
+1617,655c59181d25c25d9e96d5e8,10:15:36,pwgood,just_Lofda,saved
+1618,655c59181d25c25d9e96d5e9,10:15:36,pwgood,SaladGamer_,Зря я снова зашёл
+1619,655c591d1d25c25d9e96d5ea,10:15:41,pwgood,SaladGamer_,$study think
+1620,655c591d1d25c25d9e96d5eb,10:15:41,pwgood,Supibot,saladgamer_ is now studying: think 📚
+1621,655c59221d25c25d9e96d5ec,10:15:46,pwgood,just_Lofda,SaladGamer_ можешь верну...
+1622,655c59221d25c25d9e96d5ed,10:15:46,pwgood,gwesty_,kekb
+1623,655c59251d25c25d9e96d5ee,10:15:49,pwgood,just_Lofda,catDespair
+1624,655c59301d25c25d9e96d5ef,10:16:00,pwgood,just_Lofda,Нам стоит прекратить catDespair
+1625,655c59371d25c25d9e96d5f0,10:16:07,pwgood,SaladGamer_,lol
+1626,655c59371d25c25d9e96d5f1,10:16:07,pwgood,Supibot,@saladgamer_ is now ready for the exam: think 📚 (26.16s ago)
+1627,655c59431d25c25d9e96d5f2,10:16:19,pwgood,gwesty_,SaladGamer_ член BOOO
+1628,655c59481d25c25d9e96d5f3,10:16:24,pwgood,just_Lofda,stop
+1629,655c594a1d25c25d9e96d5f4,10:16:26,pwgood,just_Lofda,stop 󠀀
+1630,655c594c1d25c25d9e96d5f5,10:16:28,pwgood,just_Lofda,stop
+1631,655c594d1d25c25d9e96d5f6,10:16:29,pwgood,just_Lofda,stop 󠀀
+1632,655c59551d25c25d9e96d5f7,10:16:37,pwgood,gwesty_,BOOO
+1633,655c59561d25c25d9e96d5f8,10:16:38,pwgood,just_Lofda,Самосу тошно
+1634,655c595a1d25c25d9e96d5f9,10:16:42,pwgood,gwesty_,Страшшна?
+1635,655c59601d25c25d9e96d5fa,10:16:48,pwgood,just_Lofda,BOOO да
+1636,655c59651d25c25d9e96d5fb,10:16:53,pwgood,gwesty_,ok
+1637,655c596d1d25c25d9e96d5fc,10:17:01,pwgood,just_Lofda,тем более пугод в сетм
+1638,655c596f1d25c25d9e96d5fd,10:17:03,pwgood,just_Lofda,сетмс
+1639,655c59701d25c25d9e96d5fe,10:17:04,pwgood,just_Lofda,четм
+1640,655c59721d25c25d9e96d5ff,10:17:06,pwgood,just_Lofda,сети
+1641,655c59771d25c25d9e96d600,10:17:11,pwgood,gwesty_,kekBomb
+1642,655c59781d25c25d9e96d601,10:17:12,pwgood,just_Lofda,=count
+1643,655c59781d25c25d9e96d602,10:17:12,pwgood,PWGud,@just_Lofda 👀 Сейчас 185 пользователей в чате: СТРИМЕР monkaOMEGA ; Модераторы: 2; Боты: 3; VIP: 6; Зрители: 173
+1644,655c59841d25c25d9e96d603,10:17:24,pwgood,Alexoff35,@gwesty_ monkaEXTREME АААА НАХУЙ
+1645,655c59851d25c25d9e96d604,10:17:25,pwgood,legushkavvannochke,modCheck
+1646,655c59891d25c25d9e96d605,10:17:29,pwgood,gwesty_,Он всё видел AAAA
+1647,655c598e1d25c25d9e96d606,10:17:34,pwgood,just_Lofda,Он же нас по головке не погладит
+1648,655c59921d25c25d9e96d607,10:17:38,pwgood,just_Lofda,за такле
+1649,655c59941d25c25d9e96d608,10:17:40,pwgood,just_Lofda,такле
+1650,655c59961d25c25d9e96d609,10:17:42,pwgood,just_Lofda,такое
+1651,655c59961d25c25d9e96d60a,10:17:42,pwgood,gwesty_,Стример всё видел AAAA
+1652,655c59991d25c25d9e96d60b,10:17:45,pwgood,5upchik,funnywhitecat
+1653,655c59a71d25c25d9e96d60c,10:17:59,pwgood,legushkavvannochke,just_Lofda головке члена CYBERBULLYING
+1654,655c59ae1d25c25d9e96d60d,10:18:06,pwgood,just_Lofda,braaaah
+1655,655c59b31d25c25d9e96d60e,10:18:11,pwgood,just_Lofda,Хватит
+1656,655c59b31d25c25d9e96d60f,10:18:11,pwgood,gwesty_,@just_Lofda BOOO  головке чл... Ладно peepoSit
+1657,655c59d11d25c25d9e96d610,10:18:41,pwgood,5upchik,член Shocked
+1658,655c59e31d25c25d9e96d611,10:18:59,pwgood,legushkavvannochke,turtleJAM
+1659,655c59e31d25c25d9e96d612,10:18:59,pwgood,gwesty_,Как у вас дела sit
+1660,655c59e71d25c25d9e96d613,10:19:03,pwgood,gwesty_,peepoSit
+1661,655c59ed1d25c25d9e96d614,10:19:09,pwgood,just_Lofda,у нас юмор как у дегродантов plenk
+1662,655c59ed1d25c25d9e96d615,10:19:09,pwgood,Alexoff35,turtleJAM
+1663,655c59ed1d25c25d9e96d616,10:19:09,pwgood,gwesty_,catsittingverycomfortable ?
+1664,655c59ee1d25c25d9e96d617,10:19:10,pwgood,5upchik,gwesty_ NeKlass
+1665,655c59f81d25c25d9e96d618,10:19:20,pwgood,Alexoff35,turtleJAM вот такие у меня дела
+1666,655c59fe1d25c25d9e96d619,10:19:26,pwgood,gwesty_,5upchik а что же так? CatLookingAtYou
+1667,655c5a061d25c25d9e96d61a,10:19:34,pwgood,legushkavvannochke,"just_Lofda каие вы, такой и юмор brorCompletelyLostHisSanity"
+1668,655c5a0a1d25c25d9e96d61b,10:19:38,pwgood,5upchik,gwesty_ потому что алгебра существует
+1669,655c5a111d25c25d9e96d61c,10:19:45,pwgood,gwesty_,5upchik bruuh
+1670,655c5a1c1d25c25d9e96d61d,10:19:56,pwgood,just_Lofda,legushkavvannochke blob
+1671,655c5a211d25c25d9e96d61e,10:20:01,pwgood,gwesty_,blob
+1672,655c5a251d25c25d9e96d61f,10:20:05,pwgood,SaladGamer_,$rafk
+1673,655c5a261d25c25d9e96d620,10:20:06,pwgood,Supibot,"saladgamer_, Your AFK status has been resumed."
+1674,655c5a2a1d25c25d9e96d621,10:20:10,pwgood,5upchik,blob
+1675,655c5a2b1d25c25d9e96d622,10:20:11,pwgood,gwesty_,$ban legushkavvannochke
+1676,655c5a2b1d25c25d9e96d623,10:20:11,pwgood,Supibot,"gwesty_, Can't do that in this channel!"
+1677,655c5a301d25c25d9e96d624,10:20:16,pwgood,gwesty_,BabyRage
+1678,655c5a381d25c25d9e96d625,10:20:24,pwgood,Alexoff35,$$Ban
+1679,655c5a381d25c25d9e96d626,10:20:24,pwgood,Supibot,"alexoff35, You don't have the ""Ban"" alias!"
+1680,655c5a3d1d25c25d9e96d627,10:20:29,pwgood,Alexoff35,pon
+1681,655c5a491d25c25d9e96d628,10:20:41,pwgood,just_Lofda,pwgoodHappy Пугод наверное смотрит в чат и видет мы плохие а потом исправаляемся и дальше мир дружба жвачка
+1682,655c5a511d25c25d9e96d629,10:20:49,pwgood,gwesty_,pwgoodHappy
+1683,655c5a5b1d25c25d9e96d62a,10:20:59,pwgood,gwesty_,pwgoodHappy хорошая концовка
+1684,655c5a5c1d25c25d9e96d62b,10:21:00,pwgood,Alexoff35,Clueless
+1685,655c5a611d25c25d9e96d62c,10:21:05,pwgood,neizyum,Clueless
+1686,655c5a6a1d25c25d9e96d62d,10:21:14,pwgood,kwixie_,Clueless
+1687,655c5a741d25c25d9e96d62e,10:21:24,pwgood,legushkavvannochke,just_Lofda члена с два Clueless
+1688,655c5a7d1d25c25d9e96d62f,10:21:33,pwgood,just_Lofda,kekBomb
+1689,655c5a7e1d25c25d9e96d630,10:21:34,pwgood,gwesty_,legushkavvannochke kekb
+1690,655c5a821d25c25d9e96d631,10:21:38,pwgood,Shi4ulI,5upchik BLEB Zaebok
+1691,655c5a821d25c25d9e96d632,10:21:38,pwgood,gwesty_,kekBomb
+1692,655c5a961d25c25d9e96d633,10:21:58,pwgood,StreamElements,"📣 Присоединяйся, чтобы не пропустить стримы: Telegram: baad.pw/tg | ВКонтакте: baad.pw/vk"
+1693,655c5ab01d25c25d9e96d634,10:22:24,pwgood,5upchik,Shi4ulI BLEB забери меня
+1694,655c5abb1d25c25d9e96d635,10:22:35,pwgood,Lefert_,@5upchik lol откуда
+1695,655c5abb1d25c25d9e96d636,10:22:35,pwgood,Supibot,"@lefert_ is no longer AFK: monkaCat биологический ликтант (15m, 0s ago)"
+1696,655c5ac51d25c25d9e96d637,10:22:45,pwgood,5upchik,Lefert_ из школы lol
+1697,655c5acb1d25c25d9e96d638,10:22:51,pwgood,Lefert_,PagMan 15 минут ровно
+1698,655c5aea1d25c25d9e96d639,10:23:22,pwgood,Lefert_,"@5upchik, lol ну так в чём проблема, тебя спрашивают?"
+1699,655c5af71d25c25d9e96d63a,10:23:35,pwgood,Shi4ulI,5upchik Shocked
+1700,655c5b021d25c25d9e96d63b,10:23:46,pwgood,just_Lofda,gwesty_ короче побаловались и хватит
+1701,655c5b171d25c25d9e96d63c,10:24:07,pwgood,just_Lofda,$$dobryaki
+1702,655c5b171d25c25d9e96d63d,10:24:07,pwgood,Supibot,"👥 just_lofda, Вы все такие dobryaki ребята ➡️ https://kappa.lol/PPFnh"
+1703,655c5b221d25c25d9e96d63e,10:24:18,pwgood,Lefert_,URA никаких членов
+1704,655c5b251d25c25d9e96d63f,10:24:21,pwgood,Shi4ulI,@Lefert_ он хочет gachiFight вместо школы
+1705,655c5b311d25c25d9e96d640,10:24:33,pwgood,Lefert_,@Lefert_ gachiWTF
+1706,655c5b331d25c25d9e96d641,10:24:35,pwgood,just_Lofda,@Lefert_ YESIDOTHINKSO
+1707,655c5b3a1d25c25d9e96d642,10:24:42,pwgood,5upchik,Lefert_ щас была самостоятельная по алгебре после будет контрольная по геометрии а потом лабораторка VeryPog
+1708,655c5b421d25c25d9e96d643,10:24:50,pwgood,Lefert_,@5upchik Scxrp77
+1709,655c5b451d25c25d9e96d644,10:24:53,pwgood,Shi4ulI,frame023delay028s
+1710,655c5b571d25c25d9e96d645,10:25:11,pwgood,5upchik,и я не готов вообще ко всему
+1711,655c5b611d25c25d9e96d646,10:25:21,pwgood,5upchik,VeryPog
+1712,655c5b671d25c25d9e96d647,10:25:27,pwgood,Lefert_,"AAAA слышу классный трек, тянусь добавить в плейлист, а он уже там"
+1713,655c5b6d1d25c25d9e96d648,10:25:33,pwgood,Lefert_,"@5upchik, D:"
+1714,655c5b761d25c25d9e96d649,10:25:42,pwgood,5upchik,VeryPog 󠀀
+1715,655c5b7a1d25c25d9e96d64a,10:25:46,pwgood,Shi4ulI,cheso
+1716,655c5b841d25c25d9e96d64b,10:25:56,pwgood,Lefert_,"@5upchik, HARAM не готов"
+1717,655c5b881d25c25d9e96d64c,10:26:00,pwgood,5upchik,Shi4ulI cheso
+1718,655c5b8e1d25c25d9e96d64d,10:26:06,pwgood,5upchik,Lefert_ и че
+1719,655c5b951d25c25d9e96d64e,10:26:13,pwgood,5upchik,у меня кружок был
+1720,655c5b961d25c25d9e96d64f,10:26:14,pwgood,Shi4ulI,5upchik BLEB catKISS
+1721,655c5b9e1d25c25d9e96d650,10:26:22,pwgood,5upchik,а потом я фнаф фильм смотреть
+1722,655c5bb31d25c25d9e96d651,10:26:43,pwgood,5upchik,честно потраченного времени жаль
+1723,655c5bbf1d25c25d9e96d652,10:26:55,pwgood,Lefert_,lol
+1724,655c5bcc1d25c25d9e96d653,10:27:08,pwgood,5upchik,пятикратно переваренный кал
+1725,655c5bcf1d25c25d9e96d654,10:27:11,pwgood,Lefert_,lol короче можно не смотреть
+1726,655c5bd81d25c25d9e96d655,10:27:20,pwgood,5upchik,pwgoodSmug
+1727,655c5be31d25c25d9e96d656,10:27:31,pwgood,5upchik,Shi4ulI catClap
+1728,655c5bfb1d25c25d9e96d657,10:27:55,pwgood,just_Lofda,Пугод обогнал Набережные чл... чел-... чле-... Челны?
+1729,655c5bfc1d25c25d9e96d658,10:27:56,pwgood,Shi4ulI,plinkVibe
+1730,655c5c031d25c25d9e96d659,10:28:03,pwgood,Lefert_,@just_Lofda YESIDOTHINKSO
+1731,655c5c301d25c25d9e96d65a,10:28:48,pwgood,5upchik,набережные Члены Shocked
+1732,655c5c3a1d25c25d9e96d65b,10:28:58,pwgood,just_Lofda,nyooo
+1733,655c5c411d25c25d9e96d65c,10:29:05,pwgood,Lefert_,"@5upchik, D:"
+1734,655c5c461d25c25d9e96d65d,10:29:10,pwgood,Lefert_,D: он сказал
+1735,655c5c4b1d25c25d9e96d65e,10:29:15,pwgood,Shi4ulI,5upchik члены на набережной
+1736,655c5c501d25c25d9e96d65f,10:29:20,pwgood,Shi4ulI,CYBERBULLYING
+1737,655c5c531d25c25d9e96d660,10:29:23,pwgood,Lefert_,D: ещё раз
+1738,655c5c551d25c25d9e96d661,10:29:25,pwgood,just_Lofda,CYBERBULLYING
+1739,655c5c581d25c25d9e96d662,10:29:28,pwgood,5upchik,Shi4ulI членный район
+1740,655c5c591d25c25d9e96d663,10:29:29,pwgood,Lefert_,CYBERBULLYING
+1741,655c5c5c1d25c25d9e96d664,10:29:32,pwgood,5upchik,CYBERBULLYING
+1742,655c5c621d25c25d9e96d665,10:29:38,pwgood,Lefert_,"@5upchik, @Shi4ulI CYBERBULLYING"
+1743,655c5c701d25c25d9e96d666,10:29:52,pwgood,5upchik,Shi4ulI набережные
+1744,655c5c751d25c25d9e96d667,10:29:57,pwgood,5upchik,KEKVV
+1745,655c5c791d25c25d9e96d668,10:30:01,pwgood,legushkavvannochke,REBYATA хочу назвать город набережными челнами. есть подводные? Thinking
+1746,655c5c7a1d25c25d9e96d669,10:30:02,pwgood,PWGud,PepeHands
+1747,655c5c7f1d25c25d9e96d66a,10:30:07,pwgood,Lefert_,@5upchik Челны SabaPing
+1748,655c5c811d25c25d9e96d66b,10:30:09,pwgood,Shi4ulI,Lefert_ CYBERBULLYING
+1749,655c5c851d25c25d9e96d66c,10:30:13,pwgood,5upchik,Lefert_ CYBERBULLYING
+1750,655c5c871d25c25d9e96d66d,10:30:15,pwgood,5upchik,Lefert_ CYBERBULLYING 󠀀
+1751,655c5c8c1d25c25d9e96d66e,10:30:20,pwgood,Lefert_,SUKAAAA
+1752,655c5c901d25c25d9e96d66f,10:30:24,pwgood,Lefert_,Saved *
+1753,655c5c911d25c25d9e96d670,10:30:25,pwgood,Shi4ulI,5upchik небрежные члены
+1754,655c5c961d25c25d9e96d671,10:30:30,pwgood,Shi4ulI,опять асе про члены началось бля
+1755,655c5c971d25c25d9e96d672,10:30:31,pwgood,Lefert_,"@5upchik, @Shi4ulI CYBERBULLYING"
+1756,655c5c981d25c25d9e96d673,10:30:32,pwgood,Shi4ulI,plenk
+1757,655c5ca11d25c25d9e96d674,10:30:41,pwgood,5upchik,Shocked
+1758,655c5ca41d25c25d9e96d675,10:30:44,pwgood,Lefert_,"@5upchik, @Shi4ulI CYBERBULLYING никаких членов"
+1759,655c5ca91d25c25d9e96d676,10:30:49,pwgood,Shi4ulI,Lefert_ набережные члены без челнов
+1760,655c5cad1d25c25d9e96d677,10:30:53,pwgood,5upchik,Lefert_ D:
+1761,655c5cbd1d25c25d9e96d678,10:31:09,pwgood,5upchik,члены без берега
+1762,655c5cc21d25c25d9e96d679,10:31:14,pwgood,5upchik,CYBERBULLYING
+1763,655c5ccb1d25c25d9e96d67a,10:31:23,pwgood,Lefert_,peepoLeave
+1764,655c5cce1d25c25d9e96d67b,10:31:26,pwgood,azotsh,бля как не зайду тут члены
+1765,655c5cd11d25c25d9e96d67c,10:31:29,pwgood,azotsh,члены члены члены
+1766,655c5cd51d25c25d9e96d67d,10:31:33,pwgood,azotsh,все любят члены
+1767,655c5cdd1d25c25d9e96d67e,10:31:41,pwgood,Shi4ulI,члены набережные подбережные бережные
+1768,655c5cee1d25c25d9e96d67f,10:31:58,pwgood,Shi4ulI,члены у больших потных мужиков с огромными яицами
+1769,655c5cef1d25c25d9e96d680,10:31:59,pwgood,Shi4ulI,и тд
+1770,655c5cf21d25c25d9e96d681,10:32:02,pwgood,Shi4ulI,MMmmm
+1771,655c5d001d25c25d9e96d682,10:32:16,pwgood,legushkavvannochke,azotsh какие подводные? Thinking
+1772,655c5d0d1d25c25d9e96d683,10:32:29,pwgood,5upchik,члены членные
+1773,655c5d0e1d25c25d9e96d684,10:32:30,pwgood,chernyshewsky_,CYBERBULLYING Хватит обсуждать члены
+1774,655c5d111d25c25d9e96d685,10:32:33,pwgood,just_Lofda,gwesty_ Не пиши ничего если в пятой серии Внутри Лапенко главный чел просрёт свой билет
+1775,655c5d151d25c25d9e96d686,10:32:37,pwgood,chernyshewsky_,CYBERBULLYING
+1776,655c5d281d25c25d9e96d687,10:32:56,pwgood,azotsh,@legushkavvannochke да
+1777,655c5d331d25c25d9e96d688,10:33:07,pwgood,SaladGamer_,"Сколько бы люди не пользовались новыми технологиями, не делали открытий - ведро всегда будет ведром.  peepoTalk"
+1778,655c5d341d25c25d9e96d689,10:33:08,pwgood,Supibot,"@saladgamer_ is now smarter than most of the people in chat: think 📚 (17m, 27s ago)"
+1779,655c5d371d25c25d9e96d68a,10:33:11,pwgood,chernyshewsky_,Внутри Лапенко wires
+1780,655c5d3c1d25c25d9e96d68b,10:33:16,pwgood,SaladGamer_,$rafk peepoLeave
+1781,655c5d3c1d25c25d9e96d68c,10:33:16,pwgood,Supibot,"saladgamer_, Your AFK status has been resumed."
+1782,655c5d3e1d25c25d9e96d68d,10:33:18,pwgood,Shi4ulI,legushkavvannochke члены вообще должны быть плавающими потому что они легче воды
+1783,655c5d481d25c25d9e96d68e,10:33:28,pwgood,just_Lofda,так и есть
+1784,655c5d5d1d25c25d9e96d68f,10:33:49,pwgood,p4pingvin4ik,ааа меня обижают
+1785,655c5d611d25c25d9e96d690,10:33:53,pwgood,insomniatricz,CYBERBULLYING lol
+1786,655c5d731d25c25d9e96d691,10:34:11,pwgood,Lefert_,"@insomniatricz, cheso"
+1787,655c5d751d25c25d9e96d692,10:34:13,pwgood,Lefert_,rar
+1788,655c5d791d25c25d9e96d693,10:34:17,poal48,neizyum,SHTO жаба
+1789,655c5d7d1d25c25d9e96d694,10:34:21,pwgood,insomniatricz,Lefert_ rar
+1790,655c5d841d25c25d9e96d695,10:34:28,poal48,POAL48,JABA ping
+1791,655c5d861d25c25d9e96d696,10:34:30,pwgood,Lefert_,@p4pingvin4ik CYBERBULLYING
+1792,655c5d881d25c25d9e96d697,10:34:32,pwgood,azotsh,инсомниияяячч rar
+1793,655c5d8d1d25c25d9e96d698,10:34:37,pwgood,chernyshewsky_,@insomniatricz @p4pingvin4ik rar
+1794,655c5d931d25c25d9e96d699,10:34:43,pwgood,just_Lofda,гвести ничего не пишет Pominki
+1795,655c5d941d25c25d9e96d69a,10:34:44,pwgood,p4pingvin4ik,rar
+1796,655c5d961d25c25d9e96d69b,10:34:46,pwgood,insomniatricz,azotsh chernyshewsky_ rar
+1797,655c5d9c1d25c25d9e96d69c,10:34:52,pwgood,Shi4ulI,frame023delay028s
+1798,655c5d9f1d25c25d9e96d69d,10:34:55,poal48,neizyum,JABA Scoots 123
+1799,655c5da91d25c25d9e96d69e,10:35:05,poal48,neizyum,PoroSad
+1800,655c5daf1d25c25d9e96d69f,10:35:11,poal48,orlega,JABA Scoots lol
+1801,655c5db41d25c25d9e96d6a0,10:35:16,pwgood,legushkavvannochke,Shi4ulI не будем проверять
+1802,655c5dc21d25c25d9e96d6a1,10:35:30,pwgood,legushkavvannochke,insomniatricz rar
+1803,655c5dcc1d25c25d9e96d6a2,10:35:40,pwgood,insomniatricz,legushkavvannochke rar
+1804,655c5dcc1d25c25d9e96d6a3,10:35:40,pwgood,Richizuuu,rar
+1805,655c5dce1d25c25d9e96d6a4,10:35:42,pwgood,Shi4ulI,legushkavvannochke ну там легко догадаться
+1806,655c5dce1d25c25d9e96d6a5,10:35:42,pwgood,p4pingvin4ik,бабобачки
+1807,655c5dd31d25c25d9e96d6a6,10:35:47,pwgood,neizyum,rar
+1808,655c5dd91d25c25d9e96d6a7,10:35:53,pwgood,Richizuuu,lol
+1809,655c5ddc1d25c25d9e96d6a8,10:35:56,pwgood,legushkavvannochke,p4pingvin4ik rar
+1810,655c5de91d25c25d9e96d6a9,10:36:09,pwgood,azotsh,p4pingvin4ik rar
+1811,655c5df51d25c25d9e96d6aa,10:36:21,pwgood,maaaaannyy,rar
+1812,655c5dfa1d25c25d9e96d6ab,10:36:26,pwgood,Shi4ulI,@Shi4ulI потому что у него внутри структура губчатая чтобы туда кровь поступала и случался this
+1813,655c5e011d25c25d9e96d6ac,10:36:33,pwgood,Lefert_,"@Richizuuu, @maaaaannyy @legushkavvannochke rar"
+1814,655c5e021d25c25d9e96d6ad,10:36:34,pwgood,chernyshewsky_,@legushkavvannochke rar
+1815,655c5e091d25c25d9e96d6ae,10:36:41,pwgood,maaaaannyy,lefert_ rar
+1816,655c5e0b1d25c25d9e96d6af,10:36:43,pwgood,chernyshewsky_,@maaaaannyy rar
+1817,655c5e0e1d25c25d9e96d6b0,10:36:46,pwgood,Richizuuu,@Lefert_ @maaaaannyy rar
+1818,655c5e101d25c25d9e96d6b1,10:36:48,pwgood,maaaaannyy,chernyshewsky_ rar
+1819,655c5e171d25c25d9e96d6b2,10:36:55,pwgood,maaaaannyy,richizuuu rar avacuoLove
+1820,655c5e181d25c25d9e96d6b3,10:36:56,pwgood,chernyshewsky_,@Richizuuu rar
+1821,655c5e1e1d25c25d9e96d6b4,10:37:02,pwgood,Richizuuu,@chernyshewsky_ rar
+1822,655c5e251d25c25d9e96d6b5,10:37:09,pwgood,RainiF_,Richizuuu rar
+1823,655c5e2a1d25c25d9e96d6b6,10:37:14,pwgood,maaaaannyy,rainif_ rar
+1824,655c5e2d1d25c25d9e96d6b7,10:37:17,pwgood,Richizuuu,@RainiF_ rar
+1825,655c5e301d25c25d9e96d6b8,10:37:20,pwgood,RainiF_,maaaaannyy rar
+1826,655c5e3a1d25c25d9e96d6b9,10:37:30,pwgood,legushkavvannochke,Lefert_ chernyshewsky_ rar
+1827,655c5e681d25c25d9e96d6ba,10:38:16,pwgood,maaaaannyy,legushkavvannochke rar
+1828,655c5e801d25c25d9e96d6bb,10:38:40,pwgood,Shi4ulI,frame023delay028s
+1829,655c5ebb1d25c25d9e96d6bc,10:39:39,pwgood,PWGood,!бустигол
+1830,655c5ebb1d25c25d9e96d6bd,10:39:39,pwgood,StreamElements,"1600 Смотрим последнюю трилогию ЗВ на бусти. Слышал, что она полное говно, должно быть смешно. Смотреть будем явно на бусти, потому что фильмы относительно свежие, авторские права все дела..."
+1831,655c5ef01d25c25d9e96d6be,10:40:32,pwgood,Shi4ulI,lol
+1832,655c5eff1d25c25d9e96d6bf,10:40:47,pwgood,Shi4ulI,$study помидорные членв
+1833,655c5eff1d25c25d9e96d6c0,10:40:47,pwgood,Supibot,shi4uli is now studying: помидорные членв 📚
+1834,655c5f081d25c25d9e96d6c1,10:40:56,pwgood,MrFlint_,$$ pwgood3 pwgood
+1835,655c5f091d25c25d9e96d6c2,10:40:57,pwgood,Supibot,"mrflint_, That user hasn't eaten their donated cookie, so you would be wasting your donation! Get them to eat it!"
+1836,655c5f0d1d25c25d9e96d6c3,10:41:01,pwgood,MrFlint_,SAJ
+1837,655c5f0f1d25c25d9e96d6c4,10:41:03,pwgood,PWGood,!cmd edit бустигол 1600 Прохожу все вышедшие на данный момент главы Deltarune на стримах НА ТВИЧЕ PogBones
+1838,655c5f0f1d25c25d9e96d6c5,10:41:03,pwgood,StreamElements,"@PWGood, команда бустигол успешно обновлена."
+1839,655c5f121d25c25d9e96d6c6,10:41:06,pwgood,PWGood,$cookie
+1840,655c5f121d25c25d9e96d6c7,10:41:06,pwgood,Supibot,"pwgood, Your received cookie: People in your background will be more co-operative than usual."
+1841,655c5f2c1d25c25d9e96d6c8,10:41:32,pwgood,chernyshewsky_,!бусти
+1842,655c5f2c1d25c25d9e96d6c9,10:41:32,pwgood,PWGud,@chernyshewsky_ Boosty: https://baad.pw/boosty
+1843,655c5f371d25c25d9e96d6ca,10:41:43,pwgood,neizyum,PogBones
+1844,655c5f481d25c25d9e96d6cb,10:42:00,pwgood,Lefert_,PogBones
+1845,655c5f731d25c25d9e96d6cc,10:42:43,pwgood,bed_ko,PogBones
+1846,655c5f731d25c25d9e96d6cd,10:42:43,pwgood,legushkavvannochke,maaaaannyy rar
+1847,655c5f7f1d25c25d9e96d6ce,10:42:55,pwgood,Veeeelka_,rar
+1848,655c5f841d25c25d9e96d6cf,10:43:00,pwgood,dlykoshi,УРА БОЛЬШЕ НЕ БУДЕМ СМОТРЕТЬ ЗB URA
+1849,655c5f8f1d25c25d9e96d6d0,10:43:11,pwgood,Lefert_,URA
+1850,655c5f8f1d25c25d9e96d6d1,10:43:11,pwgood,legushkavvannochke,PWGood wtf
+1851,655c5f941d25c25d9e96d6d2,10:43:16,pwgood,maaaaannyy,omg
+1852,655c5fa31d25c25d9e96d6d3,10:43:31,pwgood,Lefert_,!бустигол
+1853,655c5fa31d25c25d9e96d6d4,10:43:31,pwgood,StreamElements,1600 Прохожу все вышедшие на данный момент главы Deltarune на стримах НА ТВИЧЕ PogBones
+1854,655c5fb11d25c25d9e96d6d5,10:43:45,pwgood,Lefert_,!бусти
+1855,655c5fb11d25c25d9e96d6d6,10:43:45,pwgood,PWGud,@Lefert_ Boosty: https://baad.pw/boosty
+1856,655c5fba1d25c25d9e96d6d7,10:43:54,pwgood,saopin_,$cookie
+1857,655c5fba1d25c25d9e96d6d8,10:43:54,pwgood,Supibot,"saopin_, Your daily cookie: Memories from the distant past, perhaps as far back as early childhood, could keep popping into your conscious mind today. You may feel really silly, crying over a fairy tale your grandmother read to you when you were five years old, but as embarrassing as this can be, it's actually a positive form of release."
+1858,655c5fc61d25c25d9e96d6d9,10:44:06,pwgood,saopin_,to
+1859,655c5fd11d25c25d9e96d6da,10:44:17,pwgood,neizyum,to
+1860,655c5fd21d25c25d9e96d6db,10:44:18,pwgood,Veeeelka_,you
+1861,655c5fd61d25c25d9e96d6dc,10:44:22,pwgood,bed_ko,plenk фанаты зв не хотят покупать сабки? kekb
+1862,655c5fd91d25c25d9e96d6dd,10:44:25,pwgood,Lefert_,to you this
+1863,655c5fe11d25c25d9e96d6de,10:44:33,pwgood,Lefert_,@bed_ko kekBomb
+1864,655c5fea1d25c25d9e96d6df,10:44:42,pwgood,5upchik,bananchiki
+1865,655c5fee1d25c25d9e96d6e0,10:44:46,pwgood,5upchik,oi
+1866,655c5ff21d25c25d9e96d6e1,10:44:50,pwgood,5upchik,lol
+1867,655c5ff91d25c25d9e96d6e2,10:44:57,pwgood,Lefert_,92 подпищека ещё Shocked
+1868,655c60491d25c25d9e96d6e3,10:46:17,pwgood,MrFlint_,9200 рублей Shocked
+1869,655c60501d25c25d9e96d6e4,10:46:24,pwgood,Lefert_,Shocked
+1870,655c60581d25c25d9e96d6e5,10:46:32,pwgood,MrFlint_,plenk
+1871,655c60611d25c25d9e96d6e6,10:46:41,pwgood,Lefert_,$$ KupilDengi 9200 rub to uah
+1872,655c60631d25c25d9e96d6e7,10:46:43,pwgood,Supibot,"👥 lefert_, pipec 9 200 РУБ = 3 763,18 грн."
+1873,655c60671d25c25d9e96d6e8,10:46:47,pwgood,Lefert_,Shocked
+1874,655c61271d25c25d9e96d6e9,10:49:59,pwgood,The_IL_,pipec
+1875,655c619f1d25c25d9e96d6ea,10:51:59,pwgood,kwixie_,@bed_ko все купили уже
+1876,655c61b51d25c25d9e96d6eb,10:52:21,pwgood,bed_ko,kekb
+1877,655c61bd1d25c25d9e96d6ec,10:52:29,pwgood,Striginae,bed_ko им ещё возраста нет чтобы деньги заработать
+1878,655c61ca1d25c25d9e96d6ed,10:52:42,pwgood,bed_ko,kekb 󠀀
+1879,655c61f01d25c25d9e96d6ee,10:53:20,pwgood,bed_ko,@Striginae plenk получается мы и на дельтарун  не накопим?
+1880,655c62371d25c25d9e96d6ef,10:54:31,pwgood,Striginae,Я бы пошутил
+1881,655c62611d25c25d9e96d6f0,10:55:13,pwgood,Striginae,Your message wasn't posted due to conflicts with the channels moderation settings
+1882,655c62701d25c25d9e96d6f1,10:55:28,pwgood,chuchiBLEB,"Shi4ulI, BLEB"
+1883,655c62751d25c25d9e96d6f2,10:55:33,pwgood,chuchiBLEB,REBYATA BLEB
+1884,655c62851d25c25d9e96d6f3,10:55:49,pwgood,chuchiBLEB,Shocked
+1885,655c62931d25c25d9e96d6f4,10:56:03,pwgood,chuchiBLEB,Shocked Ещё одна версия плинька
+1886,655c629b1d25c25d9e96d6f5,10:56:11,pwgood,chuchiBLEB,classic
+1887,655c62a11d25c25d9e96d6f6,10:56:17,pwgood,neyrixd,REBYATA peepoHey plinkVibe
+1888,655c62a11d25c25d9e96d6f7,10:56:17,pwgood,bed_ko,classic
+1889,655c62a81d25c25d9e96d6f8,10:56:24,pwgood,chuchiBLEB,"neyrixd, BLEB"
+1890,655c62aa1d25c25d9e96d6f9,10:56:26,pwgood,bed_ko,hi
+1891,655c62af1d25c25d9e96d6fa,10:56:31,pwgood,Striginae,"Ладно, наверное куплю старую версию за 10к"
+1892,655c62b41d25c25d9e96d6fb,10:56:36,pwgood,neyrixd,chuchiBLEB BLEB
+1893,655c62c01d25c25d9e96d6fc,10:56:48,pwgood,Striginae,"Понравится оставлю, не понравится верну"
+1894,655c62c21d25c25d9e96d6fd,10:56:50,pwgood,neyrixd,bed_ko hi
+1895,655c62ca1d25c25d9e96d6fe,10:56:58,pwgood,bed_ko,neyrixd hi
+1896,655c62d31d25c25d9e96d6ff,10:57:07,pwgood,Striginae,Ну я не понимаю почему в наушниках такой убогий звук
+1897,655c62f31d25c25d9e96d700,10:57:39,pwgood,bed_ko,eh
+1898,655c631f1d25c25d9e96d701,10:58:23,pwgood,bed_ko,$afk susplink
+1899,655c631f1d25c25d9e96d702,10:58:23,pwgood,Supibot,bed_ko is now AFK: susplink
+1900,655c63301d25c25d9e96d703,10:58:40,pwgood,chernyshewsky_,@neyrixd @chuchiBLEB rar
+1901,655c633b1d25c25d9e96d704,10:58:51,pwgood,chuchiBLEB,"chernyshewsky_, BLEB"
+1902,655c63781d25c25d9e96d705,10:59:52,poal48,COPIUMnayaJABA,COPIUM JABA is now running | pomidor version | mongo db connected | 20 messages collected
+1903,655c63801d25c25d9e96d706,11:00:00,poal48,ppSpin,heheChatting
+1904,655c63821d25c25d9e96d707,11:00:02,pwgood,PWGud,Klass
+1905,655c63851d25c25d9e96d708,11:00:05,pwgood,neizyum,Klass
+1906,655c63861d25c25d9e96d709,11:00:06,poal48,POAL48,heheChatting
+1907,655c638f1d25c25d9e96d70a,11:00:15,poal48,POAL48,JABA ping
+1908,655c63901d25c25d9e96d70b,11:00:16,poal48,COPIUMnayaJABA,@POAL48 COPIUM JABA is running | pomidor verison | total messages: 25
+1909,655c639c1d25c25d9e96d70c,11:00:28,poal48,POAL48,бобер курва
+1910,655c639e1d25c25d9e96d70d,11:00:30,poal48,POAL48,я пердоле
+1911,655c63bc1d25c25d9e96d70e,11:01:00,pwgood,neyrixd,chernyshewsky_ rar
+1912,655c64e31d25c25d9e96d70f,11:05:55,pwgood,gwesty_,$afk bl
+1913,655c64e31d25c25d9e96d710,11:05:55,pwgood,Supibot,gwesty_ is now AFK: bl
+1914,655c65031d25c25d9e96d711,11:06:27,pwgood,just_Lofda,bl
+1915,655c651c1d25c25d9e96d712,11:06:52,pwgood,just_Lofda,kekb
+1916,655c65511d25c25d9e96d713,11:07:45,pwgood,voxelll_,$afk Zevlo 🍌
+1917,655c65511d25c25d9e96d714,11:07:45,pwgood,Supibot,voxelll_ is now AFK: Zevlo 🍌
+1918,655c65651d25c25d9e96d715,11:08:05,pwgood,maaaaannyy,look
+1919,655c65b51d25c25d9e96d716,11:09:25,pwgood,RainiF_,$study Shocked
+1920,655c65b51d25c25d9e96d717,11:09:25,pwgood,Supibot,rainif_ is now studying: Shocked 📚
+1921,655c65d91d25c25d9e96d718,11:10:01,pwgood,PWGud,PepoG
+1922,655c66431d25c25d9e96d719,11:11:47,pwgood,xwoble,Shocked
+1923,655c66431d25c25d9e96d71a,11:11:47,pwgood,Supibot,"@xwoble finished studying: catDespair 📚 (1h, 47m ago)"
+1924,655c67251d25c25d9e96d71b,11:15:33,pwgood,dlykoshi,uuh
+1925,655c67281d25c25d9e96d71c,11:15:36,pwgood,dlykoshi,чайник чайничеек
+1926,655c67331d25c25d9e96d71d,11:15:47,pwgood,dlykoshi,🫖
+1927,655c67a91d25c25d9e96d71e,11:17:45,pwgood,kwefir,PagMan Опять снегопад peepoSnow
+1928,655c68201d25c25d9e96d71f,11:19:44,pwgood,5upchik,dlykoshi uuh
+1929,655c68311d25c25d9e96d720,11:20:01,pwgood,PWGud,pwgoodGleb
+1930,655c68341d25c25d9e96d721,11:20:04,pwgood,5upchik,я разачарован в тебе
+1931,655c68351d25c25d9e96d722,11:20:05,pwgood,dlykoshi,"@5upchik, https://skr.sh/sMuwKr5ZGfc"
+1932,655c68381d25c25d9e96d723,11:20:08,pwgood,dlykoshi,что
+1933,655c683a1d25c25d9e96d724,11:20:10,pwgood,dlykoshi,чеч
+1934,655c683c1d25c25d9e96d725,11:20:12,pwgood,dlykoshi,чточтчо чтчочт
+1935,655c683e1d25c25d9e96d726,11:20:14,pwgood,dlykoshi,чточ
+1936,655c687b1d25c25d9e96d727,11:21:15,pwgood,Arkbutan_,Zevlo
+1937,655c688b1d25c25d9e96d728,11:21:31,pwgood,Arkbutan_,привет ребята
+1938,655c68a61d25c25d9e96d729,11:21:58,pwgood,StreamElements,"📣 Присоединяйся, чтобы не пропустить стримы: Telegram: baad.pw/tg | ВКонтакте: baad.pw/vk"
+1939,655c68a91d25c25d9e96d72a,11:22:01,pwgood,5upchik,dlykoshi frame023delay028s зачем ты это вообще сделал
+1940,655c68b01d25c25d9e96d72b,11:22:08,pwgood,dlykoshi,что именно
+1941,655c68b61d25c25d9e96d72c,11:22:14,pwgood,5upchik,frame023delay028s из за тебя мне пизда
+1942,655c68c81d25c25d9e96d72d,11:22:32,pwgood,5upchik,шучу Prikol
+1943,655c68d51d25c25d9e96d72e,11:22:45,pwgood,5upchik,Prikol
+1944,655c68e51d25c25d9e96d72f,11:23:01,pwgood,dlykoshi,"@5upchik, xt"
+1945,655c68e71d25c25d9e96d730,11:23:03,pwgood,dlykoshi,чеееееееееееее
+1946,655c68ea1d25c25d9e96d731,11:23:06,pwgood,dlykoshi,чеееееееееееееееееееееееееееееееееееее
+1947,655c68ec1d25c25d9e96d732,11:23:08,pwgood,5upchik,Prikol 󠀀
+1948,655c68ed1d25c25d9e96d733,11:23:09,pwgood,dlykoshi,я ничего не понял
+1949,655c68f11d25c25d9e96d734,11:23:13,pwgood,dlykoshi,мужик
