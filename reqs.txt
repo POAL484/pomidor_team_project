@@ -1,0 +1,5 @@
+twitchio
+requests
+scikit-learn
+pandas
+pymongo
