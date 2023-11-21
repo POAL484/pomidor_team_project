@@ -41,12 +41,6 @@ Returns:
         return self.statistic[name]
 
 
-class ClasifyAnalizer():
-    def __init__(self, path: str = 'datasets', lang: str ='english') -> None:
-        self.stemmer = snowballstemmer.stemmer(lang)
-        self.path = path
-
-
 
 if __name__ == '__main__':
     DSA = DataSetsAnalizer(lang='russian')
