@@ -3,3 +3,7 @@ requests
 scikit-learn
 pandas
 pymongo
+tensorflow
+tensorflow_datasets
+matplotlib
+
