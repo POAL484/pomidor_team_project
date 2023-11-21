@@ -16,13 +16,18 @@ returns:
                      'path': path}
 
     def __str__(self) -> str:
-        text = ''
+        self.text = ''
         for dataset in self.dbs:
             with open(dataset) as f:
-                text += f.read()
-        return text
-    
-    def __getitem__(self, name: str) -> Any:
-        return self.statistic[name]
+                self.text += f.read()
+        return self.text
     
 
+    def __getitem__(self, name: str) -> Any:
+        return self.statistic[name]
+
+if __name__ == '__main__':
+    DSA = DataSetsAnalizer()
+    print(str(DSA)[:10])
+    print(DSA['datasets'])
+    raise 'O bozhe '
