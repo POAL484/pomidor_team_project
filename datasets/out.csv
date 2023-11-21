@@ -1,0 +1,27 @@
+,_id,time,channel,author,test
+0,655bf39755c8178bd0df7c0a,03:02:31,poal48,POAL48,felugozfelugozfelugoz
+1,655bf3a155c8178bd0df7c0b,03:02:41,poal48,POAL48,JABA ping
+2,655bf3aa55c8178bd0df7c0c,03:02:50,pwgood,POAL48,123
+3,655bf3ad55c8178bd0df7c0d,03:02:53,poal48,POAL48,JABA ping
+4,655bf3b655c8178bd0df7c0e,03:03:02,poal48,POAL48,и че ноль сообщений приколист
+5,655bf3dc55c8178bd0df7c0f,03:03:40,poal48,POAL48,ладно
+6,655bf3df55c8178bd0df7c10,03:03:43,poal48,POAL48,сделаем по другому
+7,655bf3fe55c8178bd0df7c11,03:04:14,poal48,POAL48,нахуй я вообще через костыли какие-то делаю
+8,655bf4431f5cf705adb38c1b,03:05:23,poal48,POAL48,TypeError: object of type 'Collection' has no len()
+9,655bf4451f5cf705adb38c1c,03:05:25,poal48,POAL48,wires
+10,655bf50dad10466b4e15727d,03:08:45,poal48,POAL48,TypeError: Collection.count_documents() missing 1 required positional argument: 'filter' pomidor
+11,655bf523ad10466b4e15727e,03:09:07,poal48,POAL48,пустой словарь ему надо бля
+12,655bf52f304e2c53672ad638,03:09:19,poal48,POAL48,че ноль
+13,655bf535304e2c53672ad639,03:09:25,poal48,POAL48,приколист блять
+14,655bf54f304e2c53672ad63a,03:09:51,poal48,POAL48,JABA ping
+15,655bf552304e2c53672ad63b,03:09:54,poal48,POAL48,pomidor
+16,655bf567694d4d8831641d24,03:10:15,poal48,POAL48,во
+17,655bf568694d4d8831641d25,03:10:16,poal48,POAL48,у ра
+18,655bf57b694d4d8831641d26,03:10:35,poal48,POAL48,JABA help
+19,655bf57e694d4d8831641d27,03:10:38,poal48,POAL48,Chillin
+20,655c6380697f1816c3530f8c,11:00:00,poal48,ppSpin,heheChatting
+21,655c6382697f1816c3530f8d,11:00:02,pwgood,PWGud,Klass
+22,655c6385697f1816c3530f8e,11:00:05,pwgood,neizyum,Klass
+23,655c6386697f1816c3530f8f,11:00:06,poal48,POAL48,heheChatting
+24,655c638f697f1816c3530f90,11:00:15,poal48,POAL48,JABA ping
+25,655c6390697f1816c3530f91,11:00:16,poal48,COPIUMnayaJABA,@POAL48 COPIUM JABA is running | pomidor verison | total messages: 1908
