@@ -18,7 +18,7 @@ returns:
     def __str__(self) -> str:
         self.text = ''
         for dataset in self.dbs:
-            with open(dataset) as f:
+            with open(dataset, encoding='utf-8') as f:
                 self.text += f.read()
         return self.text
     
