@@ -30,4 +30,3 @@ if __name__ == '__main__':
     DSA = DataSetsAnalizer()
     print(str(DSA)[:10])
     print(DSA['datasets'])
-    raise 'O bozhe '
