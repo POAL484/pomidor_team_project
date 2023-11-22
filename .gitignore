@@ -2,3 +2,4 @@ venv
 bot_config.py
 __pycache__
 NeuralPOAL/training_checkpoints/
+NeuralPOAL/out.csv
