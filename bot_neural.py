@@ -51,7 +51,7 @@ class Bot(commands.Bot):
         await ctx.reply(f"COPIUM JABA is running | pomidor verison | model loaded")
 
     @commands.command(name="wires")
-    @commands.cooldown(rate=1, per=15, bucket=commands.Bucket.member)
+    @commands.cooldown(rate=1, per=15, bucket=commands.Bucket.default)
     async def command_wires(self, ctx: commands.Context):
         ctx.message.content = " ".join(ctx.message.content.split()[2:])
         if len(ctx.message.content) > 100:
