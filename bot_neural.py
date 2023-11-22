@@ -57,7 +57,7 @@ class Bot(commands.Bot):
         if len(ctx.message.content) > 100:
             await ctx.reply("Too many words JABA TeaTime")
             return
-        text = generate_text(self.model, ctx.message.content+u" ", 1.2345, 150, self.vocab).split()
+        text = generate_text(self.model, ctx.message.content+u" ", 0.9876, 150, self.vocab).split()
         for tos_word in bot_config.TOS_WORDS:
             if tos_word in ''.join(text):
                 await ctx.send("Жабья тос защита сработала JABA TeaTime")
