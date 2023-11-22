@@ -5,5 +5,9 @@ pandas
 pymongo
 tensorflow
 tensorflow_datasets
+<<<<<<< HEAD
 matplotlib
 nltk
+=======
+matplotlib
+>>>>>>> 3e15a60ac121a7790f4e0c765ec4c4aa67d9b211
